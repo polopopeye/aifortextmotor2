@@ -2,8 +2,8 @@ import readline from 'readline';
 import { dirname } from 'path';
 import { fileURLToPath } from 'url';
 
-import tf from '@tensorflow/tfjs';
-// import tfn from '@tensorflow/tfjs-node';
+// import tf from '@tensorflow/tfjs';
+import tf from '@tensorflow/tfjs-node';
 // import tf from '@tensorflow/tfjs-node-gpu'; // Use '@tensorflow/tfjs-node-gpu' if running with GPU.
 
 import {

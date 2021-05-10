@@ -20,7 +20,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "server": "node ./src/server.js",
+    "motor": "node ./src/server.js",
+    "motor:generate": "node ./src/generate.js",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
