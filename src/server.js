@@ -24,8 +24,18 @@ let importedEpochCount = 0;
 const __dirname = dirname(fileURLToPath(import.meta.url));
 let modelLoad = false;
 
-const ModelName = 'Prueba8';
+const ModelName = 'Prueba9';
 
+// TEXTOOOO
+let sampleLen = 100; //VALORES FIJOS
+let sampleStep = 33; // El 5% del input de arriba
+// let sampleLen = 4; //VALORES FIJOS
+// let sampleStep = 1; // El 5% del input de arriba
+
+const textData = new TextData('text-data', text, sampleLen, sampleStep);
+let numeroMaxCaract = textData.charSetSize();
+console.log(numeroMaxCaract);
+console.log('numeroMaxCaract');
 rl.question('¿Cargar modelo anterior? Y/n : ', function (answerLoad) {
   if (answerLoad === 'Y') {
     console.log('CARGANDO ANTERIOR');
@@ -46,26 +56,20 @@ rl.question('¿Cargar modelo anterior? Y/n : ', function (answerLoad) {
     );
   }
 });
+
+textData.charSetSize();
 // https://storage.googleapis.com/tfjs-examples/lstm-text-generation/dist/index.html
-let sampleLen = 100; //VALORES FIJOS
-let sampleStep = 33; // El 5% del input de arriba
-// let sampleStep = 5; // El 5% del input de arriba
+let epochConf = 16384;
+let learningRateConf = 0.1;
+// let learningRateConf = 0.1;
+// let learningRateConf = 0.03;
 
-let firstLayerSizeConf = '256'; //'128,128'; //VALORES FIJOS
-// let learningRateConf = 1e-2;
-
-let learningRateConf = 0.03;
-
-let epochConf = 16384; //VECES QUE SE REALIZA EL TEST NO AFECTA
-let validationSplitConf = 0.0625; //porcentaje Testing/Training 0.2 80% training and 20% testing
-
-let examplesPerEpochConf = 4096; //UTILIZA MEMORIA RAM 4.4 - 10 son 400MB
-
-let batchSizeConf = 512; //Cantidad de datos dentro de cada ciclo (Mejor cuanto mas alto) Consume Ram
+let firstLayerSizeConf = '118,118,118,118';
+let validationSplitConf = 0.0625;
+let examplesPerEpochConf = 8192;
+let batchSizeConf = 64;
 
 let model;
-
-const textData = new TextData('text-data', text, sampleLen, sampleStep);
 
 async function main(modelLoad2) {
   if (modelLoad2 === true) {
@@ -82,8 +86,9 @@ async function main(modelLoad2) {
 
     model = createModel(
       textData.sampleLen(),
-      textData.charSetSize(),
-      lstmLayerSize
+      numeroMaxCaract,
+      lstmLayerSize,
+      batchSizeConf
     );
     postModelLoaded();
   }

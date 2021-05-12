@@ -26,12 +26,12 @@ rl.question('¿Que modelo Cargar?: ', function (answerLoad) {
   main(modelLoad);
 });
 
-let sampleLen = 300; //60
-let sampleStep = 30;
+let sampleLen = 100; //60
+let sampleStep = 33;
 
 // let learningRateConf = 0.003;
 
-let displayLengthConf = 120;
+let displayLengthConf = 100;
 
 let model;
 
@@ -74,8 +74,9 @@ async function postModelLoaded() {
       `
     );
   }
-  await generateThroughModel(3);
-  await generateThroughModel(2);
-  await generateThroughModel(1.5);
+  // await generateThroughModel(3);
+  // await generateThroughModel(2);
+  // await generateThroughModel(1.5);
   await generateThroughModel(1);
+  await generateThroughModel(0.5);
 }

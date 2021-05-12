@@ -220,20 +220,45 @@ export class TextData {
  *   of `[null, sampleLen, charSetSize]` and an output shape of
  *   `[null, charSetSize]`.
  */
-export function createModel(sampleLen, charSetSize, lstmLayerSizes) {
+export function createModel(
+  sampleLen,
+  charSetSize,
+  lstmLayerSizes,
+  batchSizeConf
+) {
   if (!Array.isArray(lstmLayerSizes)) {
     lstmLayerSizes = [lstmLayerSizes];
   }
 
   const model = tf.sequential();
+
+  // const rnn = tf.layers.gru({ units: 8, returnSequences: true });
+
+  // const input = tf.input({ shape: [10, 20] });
+  // const output = rnn.apply(input);
+
+  // const lstm = tf.layers.lstm({ units: 8, returnSequences: true });
+
+  // const input2 = tf.input({ shape: [10, 20] });
+  // const output2 = lstm.apply(input);
+
   for (let i = 0; i < lstmLayerSizes.length; ++i) {
     const lstmLayerSize = lstmLayerSizes[i];
     model.add(
-      tf.layers.lstm({
+      tf.layers.gru({
         units: lstmLayerSize,
         returnSequences: i < lstmLayerSizes.length - 1,
         inputShape: i === 0 ? [sampleLen, charSetSize] : undefined,
       })
+      // tf.layers.gru({
+      //   units: lstmLayerSize,
+      //   returnSequences: true,
+      //   // inputShape: charSetSize,
+      //   inputShape:
+      //     i === 0 ? [batchSizeConf, sampleLen, charSetSize] : undefined,
+      // })
+
+      // output
     );
   }
   model.add(tf.layers.dense({ units: charSetSize, activation: 'softmax' }));
@@ -243,12 +268,24 @@ export function createModel(sampleLen, charSetSize, lstmLayerSizes) {
 
 export function compileModel(model, learningRate) {
   // const optimizer = tf.train.rmsprop(learningRate);
-  // const optimizer = tf.train.adam();
-  const optimizer = tf.train.adamax();
+  const optimizer = tf.train.adam();
+  // const optimizer = tf.train.adamax();
   // const optimizer = tf.train.adadelta();
-  model.compile({ optimizer: optimizer, loss: 'categoricalCrossentropy' });
-  // model.compile({ optimizer: optimizer, loss: 'precision' });
-  console.log(`Compiled model with learning rate ${learningRate}`);
+  // model.compile({ optimizer: optimizer, loss: 'categoricalCrossentropy' });
+  // model.compile({ optimizer: optimizer, loss: 'cosineProximity' });
+  model.compile({
+    optimizer: optimizer,
+    // loss: 'meanAbsolutePercentageError',
+    // loss: 'meanAbsoluteError',
+    loss: 'categoricalHinge',
+    // metrics: 'accuracy',
+    metrics: 'accuracy',
+
+    // metrics: 'categoricalAccuracy',
+  });
+  // model.compile({ optimizer: optimizer, loss: 'meanAbsoluteError' });
+
+  // console.log(`Compiled model with learning rate ${learningRate}`);
   model.summary();
 }
 
@@ -278,7 +315,7 @@ export async function fitModel(
   for (let i = 0; i < numEpochs; ++i) {
     const [xs, ys] = textData.nextDataEpoch(examplesPerEpoch);
     await model.fit(xs, ys, {
-      epochs: 4,
+      epochs: 1,
       batchSize: batchSize,
       validationSplit,
       callbacks,
