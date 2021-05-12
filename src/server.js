@@ -1,7 +1,7 @@
 import readline from 'readline';
 import { dirname } from 'path';
 import { fileURLToPath } from 'url';
-
+import fs from 'fs';
 // import tf from '@tensorflow/tfjs';
 import tf from '@tensorflow/tfjs-node';
 // import tf from '@tensorflow/tfjs-node-gpu'; // Use '@tensorflow/tfjs-node-gpu' if running with GPU.
@@ -11,7 +11,6 @@ import {
   createModel,
   compileModel,
   fitModel,
-  generateText,
 } from './dataConf/data.js';
 
 import text from './dataSet/shakespeare.js';
@@ -20,12 +19,12 @@ const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout,
 });
+let importedEpochCount = 0;
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 let modelLoad = false;
 
-const ModelName = 'Prueba3';
-let displayResults = false;
+const ModelName = 'Prueba8';
 
 rl.question('¿Cargar modelo anterior? Y/n : ', function (answerLoad) {
   if (answerLoad === 'Y') {
@@ -47,19 +46,22 @@ rl.question('¿Cargar modelo anterior? Y/n : ', function (answerLoad) {
     );
   }
 });
+// https://storage.googleapis.com/tfjs-examples/lstm-text-generation/dist/index.html
+let sampleLen = 100; //VALORES FIJOS
+let sampleStep = 33; // El 5% del input de arriba
+// let sampleStep = 5; // El 5% del input de arriba
 
-let sampleLen = 300; //60
-let sampleStep = 30;
-let firstLayerSizeConf = '128,128'; //'128,128';
+let firstLayerSizeConf = '256'; //'128,128'; //VALORES FIJOS
 // let learningRateConf = 1e-2;
-// let learningRateConf = 1e-3;
-let learningRateConf = 0.003;
-// let epochConf = 5; //150
-let epochConf = 150; //150
-let examplesPerEpochConf = 1500; //10000
-let batchSizeConf = 128; //128
-let validationSplitConf = 0.0625;
-let displayLengthConf = 120;
+
+let learningRateConf = 0.03;
+
+let epochConf = 16384; //VECES QUE SE REALIZA EL TEST NO AFECTA
+let validationSplitConf = 0.0625; //porcentaje Testing/Training 0.2 80% training and 20% testing
+
+let examplesPerEpochConf = 4096; //UTILIZA MEMORIA RAM 4.4 - 10 son 400MB
+
+let batchSizeConf = 512; //Cantidad de datos dentro de cada ciclo (Mejor cuanto mas alto) Consume Ram
 
 let model;
 
@@ -73,8 +75,6 @@ async function main(modelLoad2) {
     console.log('CARGANDO...');
     postModelLoaded();
   } else {
-    // Convert lstmLayerSize from string to number array before handing it
-    // to `createModel()`.
     const lstmLayerSize =
       firstLayerSizeConf.indexOf(',') === -1
         ? Number.parseInt(firstLayerSizeConf)
@@ -89,33 +89,14 @@ async function main(modelLoad2) {
   }
 }
 
-function postModelLoaded() {
+async function postModelLoaded() {
   compileModel(model, learningRateConf);
 
   // Get a seed text for display in the course of model training.
-  const [seed, seedIndices] = textData.getRandomSlice();
+  const [seed] = textData.getRandomSlice();
   console.log(`Seed text:\n"${seed}"\n`);
 
-  //   const DISPLAY_TEMPERATURES = [0.85]; //Cambiado
-  const DISPLAY_TEMPERATURES = [1];
-  //   const DISPLAY_TEMPERATURES = [0.5, 0.85];
-
   let epochCount = 0;
-
-  function setChrono(chronoMetro = 0) {
-    setInterval(() => {
-      chronoMetro++;
-      if (
-        epochCount === 10 ||
-        epochCount === 5 ||
-        epochCount === 30 ||
-        epochCount === 60
-      ) {
-        console.log(epochCount + ' en... ' + chronoMetro + ' Segundos!!');
-      }
-    }, 1000);
-  }
-  setChrono();
 
   fitModel(
     model,
@@ -130,24 +111,31 @@ function postModelLoaded() {
         console.log(`Epoch ${epochCount} of ${epochConf}:`);
       },
       onTrainEnd: async () => {
-        console.log(`Saving model...`);
+        console.log(`¡SAVING model!`);
         await model.save(`file://${__dirname}/models/${ModelName}`);
-        console.log(`Saved model...`);
-        if (displayResults) {
-          DISPLAY_TEMPERATURES.forEach(async (temperature) => {
-            const generated = await generateText(
-              model,
-              textData,
-              seedIndices,
-              displayLengthConf,
-              temperature
-            );
-            console.log(
-              `Generated text (temperature=${temperature}):\n` +
-                `"${generated}"\n`
-            );
-          });
-        }
+        console.log(`SAVED model....${ModelName}  OK`);
+        let dirFileTxt = `src/models/${ModelName}/${ModelName}.txt`;
+        fs.access(dirFileTxt, (err) => {
+          if (err) {
+            // console.log('The file does not exist.');
+            fs.writeFile(dirFileTxt, `${epochCount}`, function () {
+              console.log('Creado Correctamente');
+            });
+          } else {
+            // console.log('The file exists.');
+            fs.readFile(dirFileTxt, 'utf8', function (err, data) {
+              if (err) {
+                return console.log(err);
+              }
+              importedEpochCount = parseInt(data);
+              let newEpochCounter = importedEpochCount + 1;
+              fs.writeFile(dirFileTxt, `${newEpochCounter}`, function () {
+                console.log('Contador Actualizado');
+                console.log(newEpochCounter);
+              });
+            });
+          }
+        });
       },
     }
   );

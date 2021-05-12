@@ -94,46 +94,26 @@ El gobierno indio puede haber sido ineficaz en la crisis actual, pero no reconoc
 
 Si las principales potencias no hacen todo lo posible para ayudar, la crisis de India se convertirá en una crisis mundial en poco tiempo, no solo para la salud sino también para la economía.
 
-Los casos de la variante india de coronavirus en España ascienden a 16: ¿Dónde y cuándo se han detectado? 
-20MINUTOS  NOTICIA07.05.2021 - 21:28H
- 
-Los últimos cinco casos se han detectado en Canarias y Bilbao, ambos correspondientes a tripulantes de un barco. 
-Dos nuevos positivos de la variante india entre los tripulantes del buque atracado en Bilbao elevan el brote a cuatro.
+Los casos de la variante india de coronavirus en España ascienden a 16: ¿Dónde y cuándo se han detectado? 20MINUTOS NOTICIA07.05.2021 - 21:28H
+ Los últimos cinco casos se han detectado en Canarias y Bilbao, ambos correspondientes a tripulantes de un barco. Dos nuevos positivos de la variante india entre los tripulantes del buque atracado en Bilbao elevan el brote a cuatro.
 Qué se sabe de la nueva variante india del coronavirus: ¿es más transmisible? ¿escapa a las vacunas?
 Un barco en cuarentena en Bilbao por dos posibles contagios por CovidBarco en el que iban a bordo los marineros contagiados con la variante india de coronavirus. EP
-La preocupante situación que atraviesa India, con en torno a 400.000 nuevos positivos diarios, ha puesto en alerta a los países de todo el mundo que temen que esta nueva cepa de coronavirus, B.1.617, pueda dificultar la lucha contra la pandemia. 
-
-Varias personas transportan el cuerpo sin vida de una víctima de coronavirus a un campo de cremación improvisado en Nueva Delhi.
+La preocupante situación que atraviesa India, con en torno a 400.000 nuevos positivos diarios, ha puesto en alerta a los países de todo el mundo que temen que esta nueva cepa de coronavirus, B.1.617, pueda dificultar la lucha contra la pandemia. Varias personas transportan el cuerpo sin vida de una víctima de coronavirus a un campo de cremación improvisado en Nueva Delhi.
 España dona a India oxígeno y máquinas ventiladoras para atajar una pandemia que suma casi 20 millones de contagios
-Ya son varios los países que la han detectado en sus territorios. Europa, que avanza en los planes de vacunación, se ha blindado para evitar nuevos casos. Aunque no se ha demostrado de momento que pueda ser más letal o más contagiosa, el desbordamiento que India está sufriendo preocupa. 
-
-En España se detectó el primer caso a finales de abril, y desde entonces se han notificado ya un total de 16 casos en todo el territorio nacional. El protocolo de actuación está siendo el mismo en todas las comunidades: aislar a los pacientes sospechosos de estar contagiados con esta cepa y secuenciar las muestras para confirmarlo o descartarlo. 
-
-¿Dónde y cuándo se han detectado los casos?
-La primera alarma saltó el 29 de abril, cuando el Servizo Galego de Saúde (Sergas) decidió aislar en Vigo (Galicia) a seis marineros a bordo del 'Prometheus Leader', un buque con bandera de Singapur, que habían dado positivo. Secuenciaron las muestras y finalmente confirmaron que, efectivamente, tres de ellos estaban contagiados con la variante india. 
-
-El resto de la tripulación -formada en total por 22 personas-, se encuentra en seguimiento médico y, desde entonces, se han ido detectando nuevos casos y ha ascendido a ocho el brote de esta variante en el barco. Además, uno de ellos se encuentra ingresado en la UCI desde el martes, mientras que el resto está en planta y estables. 
-
-El buque RO-RO Prometeus Leader retenido en el puerto de Vigo.
+Ya son varios los países que la han detectado en sus territorios. Europa, que avanza en los planes de vacunación, se ha blindado para evitar nuevos casos. Aunque no se ha demostrado de momento que pueda ser más letal o más contagiosa, el desbordamiento que India está sufriendo preocupa. En España se detectó el primer caso a finales de abril, y desde entonces se han notificado ya un total de 16 casos en todo el territorio nacional. El protocolo de actuación está siendo el mismo en todas las comunidades: aislar a los pacientes sospechosos de estar contagiados con esta cepa y secuenciar las muestras para confirmarlo o descartarlo. ¿Dónde y cuándo se han detectado los casos?
+La primera alarma saltó el 29 de abril, cuando el Servizo Galego de Saúde (Sergas) decidió aislar en Vigo (Galicia) a seis marineros a bordo del 'Prometheus Leader', un buque con bandera de Singapur, que habían dado positivo. Secuenciaron las muestras y finalmente confirmaron que, efectivamente, tres de ellos estaban contagiados con la variante india. El resto de la tripulación -formada en total por 22 personas-, se encuentra en seguimiento médico y, desde entonces, se han ido detectando nuevos casos y ha ascendido a ocho el brote de esta variante en el barco. Además, uno de ellos se encuentra ingresado en la UCI desde el martes, mientras que el resto está en planta y estables. El buque RO-RO Prometeus Leader retenido en el puerto de Vigo.
 El brote del buque atracado en Vigo con variante india sube a 8 afectados
-El siguiente se detectó en Extremadura y se trata de una persona que provenía de otra comunidad autónoma y que llegó a la extremeña entre el 19 y el 20 de abril. Según informó el 2 de mayo el Ejecutivo regional, el positivo asistió a un curso de un máster internacional en Madrid, que estaba programado entre el 12 y el 18 de abril, pero que tuvo que ser suspendido tras registrarse un infectado el día 16. Este, que sufrió una enfermedad prácticamente asintomática, volvió a Extremadura tras haber resultado negativo en una PCR y explicó que había estado en contacto con un ciudadano de origen indio durante la actividad formativa. 
-
-Dos días después, Cataluña informaba de la detección de dos casos de la variante india en la comunidad. Según concretó entonces el secretario de Salud Pública de la Generalitat, Josep Maria Argimon, lograron localizar el antecedente de uno de los casos, pero todavía están haciendo un seguimiento para tratar de identificar el origen del contagio del segundo. 
-
-También en Galicia, el presidente de la Xunta, Alberto Núñez Feijóo informó este jueves de un nuevo caso de la variante india, al margen de los ocho del 'Prometheus Leader', lo que asciende a nueve el total de personas infectadas con esta variante en la región. En este caso, se trata de una mujer de 66 años que llegó también a la ciudad olívica procedente de Nueva Delhi y vía Barajas. Para llegar, habría tomado varios aviones antes de aterrizar en Barajas para embarcarse en un nuevo vuelo hacia Vigo. El Sergas concretó que ya habían identificado a cuatro de sus contactos, en seguimiento y aislados mientras continúan con las labores de rastreo para identificar posibles nuevos casos.
+El siguiente se detectó en Extremadura y se trata de una persona que provenía de otra comunidad autónoma y que llegó a la extremeña entre el 19 y el 20 de abril. Según informó el 2 de mayo el Ejecutivo regional, el positivo asistió a un curso de un máster internacional en Madrid, que estaba programado entre el 12 y el 18 de abril, pero que tuvo que ser suspendido tras registrarse un infectado el día 16. Este, que sufrió una enfermedad prácticamente asintomática, volvió a Extremadura tras haber resultado negativo en una PCR y explicó que había estado en contacto con un ciudadano de origen indio durante la actividad formativa. Dos días después, Cataluña informaba de la detección de dos casos de la variante india en la comunidad. Según concretó entonces el secretario de Salud Pública de la Generalitat, Josep Maria Argimon, lograron localizar el antecedente de uno de los casos, pero todavía están haciendo un seguimiento para tratar de identificar el origen del contagio del segundo. También en Galicia, el presidente de la Xunta, Alberto Núñez Feijóo informó este jueves de un nuevo caso de la variante india, al margen de los ocho del 'Prometheus Leader', lo que asciende a nueve el total de personas infectadas con esta variante en la región. En este caso, se trata de una mujer de 66 años que llegó también a la ciudad olívica procedente de Nueva Delhi y vía Barajas. Para llegar, habría tomado varios aviones antes de aterrizar en Barajas para embarcarse en un nuevo vuelo hacia Vigo. El Sergas concretó que ya habían identificado a cuatro de sus contactos, en seguimiento y aislados mientras continúan con las labores de rastreo para identificar posibles nuevos casos.
 
 Ese mismo día Canarias comunicó el primer caso de la cepa india en su territorio. Se trata de un marinero que permanece ingresado en el Hospital de Gran Canaria Dr. Negrín y que sería portador de la variante B.1.1.617.2, o más conocida como la cepa india subvariante 2. La Consejería informó de que el paciente es un hombre joven que fue trasladado desde un buque de alta mar al mostrar síntomas de Covid y que su situación es estable. Mientras tanto, la tripulación permanece en cuarentena y dos de ellos han dado positivo en Covid-19, por lo que se les ha aislado en un alojamiento aparte.
 
-Los últimos se detectaron este mismo viernes en Bilbao (País Vasco), donde Osakidetza ha confirmado, a través de la técnica de secuenciación, un total de cuatro casos de la variante india, correspondientes a tripulantes del barco atracado en el Puerto de Bilbao el pasado domingo, con varios casos positivos en coronavirus. Todos permanecen "correctamente aislados", y el resto de la tripulación guarda cuarentena en el propio barco. 
-
-Ocho leones dan positivo por coronavirus en India
+Los últimos se detectaron este mismo viernes en Bilbao (País Vasco), donde Osakidetza ha confirmado, a través de la técnica de secuenciación, un total de cuatro casos de la variante india, correspondientes a tripulantes del barco atracado en el Puerto de Bilbao el pasado domingo, con varios casos positivos en coronavirus. Todos permanecen "correctamente aislados", y el resto de la tripulación guarda cuarentena en el propio barco. Ocho leones dan positivo por coronavirus en India
 El Gobierno del país asiático ha confirmado que los ocho ejemplares están contagiados. Todos han respondido bien a los tratamientos y están mejorando.
 Raúl IzquierdoRaúl IzquierdoRauLIzquierdoP
 Publicado a: 8 de mayo de 2021 16:33 CEST
  3
 Ocho leones dan positivo por coronavirus en India
-Pixabay 
-La India atraviesa por una situación delicada, la peor desde que se declaró la emergencia sanitaria a nivel mundial. Mientras los contagios y los fallecidos por COVID se acumulan, la saturación en todo el país ha llegado también a los animales de los zoológicos.
+Pixabay La India atraviesa por una situación delicada, la peor desde que se declaró la emergencia sanitaria a nivel mundial. Mientras los contagios y los fallecidos por COVID se acumulan, la saturación en todo el país ha llegado también a los animales de los zoológicos.
 
 El Gobierno indio ha confirmado, a través de un comunicado, el positivo de ocho ejemplares de león asiático en el zoo de Hyderabad, en el sur del país. Después de observar que los felinos mostraban evidencias de dificultad respiratorias, las autoridades encargadas del recinto compartieron las muestras (de nariz, garganta y tracto respiratorio) con un laboratorio de investigación del Gobierno el pasado 24 de marzo.
 
@@ -921,8 +901,7 @@ India bate un nuevo récord de muertes por coronavirus: 4.000 en un solo día
 El Ministerio de Salud del país ha registrado en la última jornada 4.187 fallecidos por la enfermedad, con lo que se alcanzan los 238.270 desde el inicio de la pandemia
 
 Una persona se sienta cerca de varios cadáveres de fallecidos por coronavirus en el hospital Covid-19 en Ahmedabad, India. EFE
- 
-Compartir en Facebook
+ Compartir en Facebook
 Compartir en Twitter
 Enviar por email
 Compartir en Flipboard
@@ -978,32 +957,8 @@ A su vez, el Servizo de Epidemiología de la Dirección Xeral de Saúde Pública
 África alerta de que lo que ocurre en India podría también pasar en la región
 EFEJohannesburgo8 may. 2021
 África alerta de que lo que ocurre en India podría también pasar en la región
-Tedros Adhanom Ghebreyesus. EFE/EPA/MARTIAL TREZZINI/Archivo
-
- 
- 
- 
- 
-Menéame
-Autoridades africanas y expertos como el director de la Organización Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, advirtieron hoy del riesgo de bajar la guardia y de no lograr incrementar la vacunación contra la covid-19 y alertaron de que lo que ocurre en la India podría pasar también en África.
-
-Reunidos de manera virtual en un encuentro organizado por la Unión Africana (UA) para evaluar la respuesta continental a la pandemia, jefes de Estado, ministros y autoridades sanitarias internacionales y regionales coincidieron en la necesidad de no ser "complacientes" y de mantener las medidas de prevención, a la espera de que los países africanos puedan tener un mayor acceso a vacunas.
-
-
-Kumbh Mela: el festival religioso que habría disparado los casos de coronavirus en la India
-El gigante asiático reporta más de 4.000 muertes diarias y es el país que actualmente enfrenta las cifras más preocupantes.
-8/5/2021
-
-
-
-
-covid india
-Coronavirus en la India. - Foto: AP
-El coronavirus le ha arrebatado la vida a más de 3,2 millones de personas en todo el mundo y la crisis sanitaria generada por el SARS-CoV-2 sigue causando estragos.
-
-Uno de los países que llama la atención en este momento es la India, donde se reportan 4.000 fallecidos a diario. La pandemia en esa nación está desbordada. Este sábado reportó 401.078 casos nuevos en las últimas 24 horas, mientras que el viernes registraba 414.188 nuevos contagios.
-
-
+Tedros Adhanom Ghebreyesus. EFE/EPA/MARTIAL TREZZINI/Archivo Menéame
+Autoridades africanas y expertos como el director de la Organización Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, advirtieron hoy del riesgo de bajar la guardia y de no lograr incrementar la vacunación contra la covid-19 y alertaron de que lo que ocurre en la India podría pasar también en África.  Reunidos de manera virtual en un encuentro organizado por la Unión Africana (UA) para evaluar la respuesta continental a la pandemia, jefes de Estado, ministros y autoridades sanitarias internacionales y regionales coincidieron en la necesidad de no ser "complacientes" y de mantener las medidas de prevención, a la espera de que los países africanos puedan tener un mayor acceso a vacunas.   Kumbh Mela: el festival religioso que habría disparado los casos de coronavirus en la India El gigante asiático reporta más de 4.000 muertes diarias y es el país que actualmente enfrenta las cifras más preocupantes. 8/5/2021     covid india Coronavirus en la India. - Foto: AP El coronavirus le ha arrebatado la vida a más de 3,2 millones de personas en todo el mundo y la crisis sanitaria generada por el SARS-CoV-2 sigue causando estragos.  Uno de los países que llama la atención en este momento es la India, donde se reportan 4.000 fallecidos a diario. La pandemia en esa nación está desbordada. Este sábado reportó 401.078 casos nuevos en las últimas 24 horas, mientras que el viernes registraba 414.188 nuevos contagios.  
 El panorama es desolador, las personas mueren en las calles, muchos sin siquiera haber podido recibir alguna clase de atención. De acuerdo con la Universidad Johns Hopkins, este sábado la India acumulaba 21.892.676 casos reportados de covid-19 y 238.270 muertes a causa de la enfermedad.
 
 ¡Suscríbase! 6 meses de acceso total por $25.000
@@ -1047,14 +1002,14 @@ Barcelona
 Comentarios
 La India ha alcanzado el jueves un nuevo récord de covid con 3.980 muertes y 412.262 casos en un día. De esta forma, el país asiático ha superado los 21 millones de contagios desde que comenzó la pandemia y las 230.168 muertes. Así lo han anunciado las autoridades sanitarias del país que, además, han avisado a sus ciudadanos de que deben prepararse para "futuras olas". Los especialistas sanitarios ya han asegurado que lo peor está aún por llegar y que el pico pandémico podría no alcanzarse hasta dentro de unas semanas
 
-Los expertos médicos afirman que las cifras reales de India podrían ser entre cinco y diez veces superiores a las oficiales. Aunque los mayores datos de contagios se están dando en Nueva Delhi y otras grandes ciudades, las peores situaciones se están viendo en las localidades más pequeñas, donde vive el 70% de la población del país, donde la atención sanitaria está planteando más dificultades. "La situación se ha vuelto peligrosa en las aldeas", ha afirmado Suresh Kumar, coordinador sobre el terreno de una organización benéfica de derechos humanos. Esta organización trabaja principalmente en el estado norteño de Uttar Pradesh -donde viven unos 200 millones de personas- y ha asegurado que  "hay muertes en casi una de cada dos casas". "La gente está asustada y acurrucada en sus casas con fiebre y tos. Los síntomas son todos de covid, pero al no haber información disponible muchos piensan que es gripe estacional", ha explicado.
+Los expertos médicos afirman que las cifras reales de India podrían ser entre cinco y diez veces superiores a las oficiales. Aunque los mayores datos de contagios se están dando en Nueva Delhi y otras grandes ciudades, las peores situaciones se están viendo en las localidades más pequeñas, donde vive el 70% de la población del país, donde la atención sanitaria está planteando más dificultades. "La situación se ha vuelto peligrosa en las aldeas", ha afirmado Suresh Kumar, coordinador sobre el terreno de una organización benéfica de derechos humanos. Esta organización trabaja principalmente en el estado norteño de Uttar Pradesh -donde viven unos 200 millones de personas- y ha asegurado que "hay muertes en casi una de cada dos casas". "La gente está asustada y acurrucada en sus casas con fiebre y tos. Los síntomas son todos de covid, pero al no haber información disponible muchos piensan que es gripe estacional", ha explicado.
 
 
 Los trabajadores de la funeraria cargan el cuerpo de una persona fallecida por covid.
 
 /
 ADNAN ABIDI / REUTERS
-El Gobierno de la ciudad de Delhi ha anunciado que necesita un mínimo de 700 toneladas de oxígeno para poder hacer frente a todos los enfermos que llegan a sus hospitales. No solo en Delhi necesitan más recursos, en otras grandes urbes como Calcuta o Bangalore también están informando de la escasez con la que están teniendo que trabajar. Si bien es cierto que  Estados Unidos, Gran Bretaña y Europa han enviado recursos sanitarios como respiradores y generadores de oxígeno, estos no son suficiente para la afluencia de personas que llega a los centros sanitarios. "No teníamos ni tenemos suficiente oxígeno", ha admitió un alto funcionario del Gobierno para añadir: "Si tuviéramos más oxígeno, se salvarían más vidas".
+El Gobierno de la ciudad de Delhi ha anunciado que necesita un mínimo de 700 toneladas de oxígeno para poder hacer frente a todos los enfermos que llegan a sus hospitales. No solo en Delhi necesitan más recursos, en otras grandes urbes como Calcuta o Bangalore también están informando de la escasez con la que están teniendo que trabajar. Si bien es cierto que Estados Unidos, Gran Bretaña y Europa han enviado recursos sanitarios como respiradores y generadores de oxígeno, estos no son suficiente para la afluencia de personas que llega a los centros sanitarios. "No teníamos ni tenemos suficiente oxígeno", ha admitió un alto funcionario del Gobierno para añadir: "Si tuviéramos más oxígeno, se salvarían más vidas".
 
 Noticias relacionadas
 La ayuda internacional llega a la India
@@ -1091,10 +1046,8 @@ Frente a la grave situación, el primer ministro de Tamil Nadu, MK Stalin, ha an
 
 La variante india de la Covid: ni doble mutante, ni sabemos qué efecto tiene
 IGNACIO LÓPEZ-GOÑI, UNIVERSIDAD DE NAVARRANOTICIA08.05.2021 - 10:45H
- 
-Qué se sabe de la nueva variante india del coronavirus: ¿es más transmisible? ¿escapa a las vacunas?
-Los casos de la variante india de coronavirus en España ascienden a 16: ¿Dónde y cuándo se han detectado? 
-Unas personas lloran por la muerte de un familiar a causa del coronavirus, en el hospital de Ahmedabad (India).Unas personas lloran por la muerte de un familiar a causa del coronavirus, en el hospital de Ahmedabad (India).EFE
+ Qué se sabe de la nueva variante india del coronavirus: ¿es más transmisible? ¿escapa a las vacunas?
+Los casos de la variante india de coronavirus en España ascienden a 16: ¿Dónde y cuándo se han detectado? Unas personas lloran por la muerte de un familiar a causa del coronavirus, en el hospital de Ahmedabad (India).Unas personas lloran por la muerte de un familiar a causa del coronavirus, en el hospital de Ahmedabad (India).EFE
 La variante B.1.617 se detectó por primera vez en India en octubre del 2020, pero que se describiera por primera vez en ese país no significa que ese sea su origen. Hasta la fecha se ha detectado ya en 21 países. Está catalogada, de momento, como variante en investigación.
 
 Presenta 13 mutaciones que resultan en cambios de aminoácidos. Se ha descrito como un "doble mutante" para referirse a dos mutaciones concretas en la proteína S (la E484Q y la L452R), pero es un término que debería evitarse porque presenta muchas más mutaciones.
@@ -1212,9 +1165,7 @@ Escúchalo completo en el podcast.
 
 Espero sus comentarios en Twitter: @joselevycnn. La semana que viene regresaremos con más Desafíos Globales que nos presente este terrible o maravilloso rincón apasionante del Universo donde nos tocó vivir.
 
-Otros Desafíos Globales: 
-
-Pandemia en la India, una tragedia de proporciones bíblicas
+Otros Desafíos Globales: Pandemia en la India, una tragedia de proporciones bíblicas
 
 Alexey Navalny, una verdadera pesadilla para Vladimir Putin
 
@@ -1359,7 +1310,7 @@ India registra nuevos récords con 330.000 casos y 2.263 muertes diarias por cov
 COLAPSO HOSPITALARIO
 Por lo menos 13 personas han muerto en el incendio de un hospital dedicado a pacientes con coronavirus mientars las calles del país se convierten en improvisados crematorios
 A COVID-19 patient wearing oxygen mask waits inside a vehicle to be attended and admitted in a dedicated COVID-19 government hospital in Ahmedabad, India, Thursday, April 22, 2021. India reported a global record of more than 314,000 new infections Thursday as a grim coronavirus surge in the world's second-most populous country sends more and more sick people into a fragile health care system critically short of hospital beds and oxygen. (AP Photo/Ajit Solanki)
-Una paciente ataviada con una máscara de oxígeno espera dentro de un vehículo para ser atendida e ingresada en un hospital gubernamental dedicado la covid en Ahmedabad, India  Ajit Solanki / AP
+Una paciente ataviada con una máscara de oxígeno espera dentro de un vehículo para ser atendida e ingresada en un hospital gubernamental dedicado la covid en Ahmedabad, India Ajit Solanki / AP
 REDACCIÓN / AGENCIAS
 
 23/04/2021 08:42Actualizado a 23/04/2021 09:35
@@ -1372,7 +1323,7 @@ Crematorios en mitad de la calle en India
 Los nuevos 332.730 casos en el país asiático elevan el total desde el inicio de la pandemia hasta los 16,2 millones, según datos del Ministerio de Salud indio, manteniendo a India como la segunda nación con el mayor número de infecciones, solo por detrás de Estados Unidos (31,9 millones).
 
 Mumbai (India), 23/04/2021.- A man (C-L) carries an oxygen tank as health workers move a suspected COVID-19 patient outside the Vijay Vallabh COVID care hospital in the aftermath of a fire, in Virar West, on the outskirts of Mumbai, India, 23 April 2021. At least 12 patients who were being treated for COVID-19 died after a fire broke out inside the ICU ward of the hospital. (Incendio) EFE/EPA/DIVYAKANT SOLANKI
-Un hombre lleva un tanque de oxígeno mientras los trabajadores sanitarios trasladan a un paciente sospechoso de covid fuera del hospital de Vijay Vallabh después de un incendio, en Virar West, en las afueras de Bombay  DIVYAKANT SOLANKI / EFE
+Un hombre lleva un tanque de oxígeno mientras los trabajadores sanitarios trasladan a un paciente sospechoso de covid fuera del hospital de Vijay Vallabh después de un incendio, en Virar West, en las afueras de Bombay DIVYAKANT SOLANKI / EFE
 El ascenso de nuevos casos en esta segunda ola ha sido vertiginoso en el país asiático, con un incremento de más de 100.000 casos solo en la última semana, lo que contrasta con las menos de 10.000 infecciones que se registraban el pasado febrero, cuando muchos pensaban que lo peor había pasado ya.
 
 Además, el número de fallecidos diarios continúa en ascenso, con un nuevo máximo en el país de 2.263 muertes en las últimas 24 horas, 186.920 en total, unos decesos que en algunos casos las autoridades sanitarias relacionan con la crisis de falta de oxígeno que viven muchas regiones indias.
@@ -1411,7 +1362,7 @@ Nueva Delhi, ciudad de unos 20 millones de habitantes, registró en la última j
 Con el confinamiento de la población como el último recurso para no colapsar la economía, la campaña de vacunación que India lanzó el pasado enero es vista como la única vía para acabar con esta crisis sanitaria en este país de 1.350 millones de habitantes.
 
 Mumbai (India), 23/04/2021.- Health workers move a suspected COVID-19 patient outside the Vijay Vallabh COVID care hospital in the aftermath of a fire, in Virar West, on the outskirts of Mumbai, India, 23 April 2021. At least 12 patients who were being treated for COVID-19 died after a fire broke out inside the ICU ward of the hospital. (Incendio) EFE/EPA/DIVYAKANT SOLANKI
-La falta de oxígeno está provocando muchas muertes en India  DIVYAKANT SOLANKI / EFE
+La falta de oxígeno está provocando muchas muertes en India DIVYAKANT SOLANKI / EFE
 Esta semana el Gobierno anunció que desde el 1 de mayo permitirá la inoculación de toda su población de mayores de 18 años, liberalizando además los precios de las vacunas con la intención de aumentar su producción y disponibilidad.
 
 Hasta el momento, el país ha administrado 135 millones de dosis desde el inicio de la campaña de vacunación el pasado enero, 3,1 millones de ellas en las últimas 24 horas.
@@ -1468,8 +1419,7 @@ El Gobierno ha pedido a los fabricantes indios que exporten menos vacunas. Lo qu
 La India bate el récord de casos de coronavirus con más de 332.000 en un día
 Los hospitales de la capital, Nueva Delhi, advierten de que se están quedando sin oxígeno para atender a los pacientes
 La OMS ha mostrado su "profunda preocupación" por la situación de emergencia sanitaria que está viviendo el país
-Un enfermo de covid es evacuado del hospital indio incendiado este viernes. 
-Un enfermo de covid es evacuado del hospital indio incendiado este viernes. /
+Un enfermo de covid es evacuado del hospital indio incendiado este viernes. Un enfermo de covid es evacuado del hospital indio incendiado este viernes. /
 REUTERS
 3
 Se lee en
@@ -1488,14 +1438,11 @@ El país ha registrado casi cuatro millones de casos por coronavirus en lo que v
 En las últimas 24 horas se han lamentado, además, 2.263 fallecidos, el máximo de decesos registrado hasta la fecha en la India, con lo que las víctimas mortales ascienden ya a 186.920. Las autoridades se han visto obligadas a improvisar instalaciones para albergar a los muertos, ya que cementerios y crematorios se encuentran saturados, como ha ocurrido en Nueva Delhi, según recoge el 'Hindustan Times'.
 
 Confinamiento en las ciudades
-Una enfermera pone una dosis de la vacuna en Mumbai. 
-300.000 NUEVOS CASOS EN 24H
+Una enfermera pone una dosis de la vacuna en Mumbai. 300.000 NUEVOS CASOS EN 24H
 Los contagios descontrolados devastan India y dejan sus hospitales sin camas ni oxígeno
 En un intento por revertir la situación y romper el ciclo de contagiso, las autoridades de la capital decretaron el lunes un confinamiento hasta el 26 de abril. También adoptaron restricciones en Maharashtra, hasta el 1 de mayo. Hasta ahora, se han inyectado más de 13'5 millones y medio de dosis, según los datos del Ministerio de Sanidad, en un país de más de más de 1.300 millones de habitantes.
 
-El director general de la Organización Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, ha manifestado su "profunda preocupación" por la situación de la pandemia en la India, que acumula un tercio de los nuevos casos en todo el mundo. "La OMS está con el Gobierno y el pueblo indio y haremos todo lo posible para salvar el mayor número de vidas que se pueda", ha destacado Ghebreyesus. "En el mundo la gente sigue muriendo porque no son vacunados, no son testados o no son tratados", ha lamentado. "La situación en la India es un devastador ejemplo de lo que el coronavirus puede hacer y por qué debemos usar todas las herramientas en nuestras manos". 
-
-Noticias relacionadas
+El director general de la Organización Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, ha manifestado su "profunda preocupación" por la situación de la pandemia en la India, que acumula un tercio de los nuevos casos en todo el mundo. "La OMS está con el Gobierno y el pueblo indio y haremos todo lo posible para salvar el mayor número de vidas que se pueda", ha destacado Ghebreyesus. "En el mundo la gente sigue muriendo porque no son vacunados, no son testados o no son tratados", ha lamentado. "La situación en la India es un devastador ejemplo de lo que el coronavirus puede hacer y por qué debemos usar todas las herramientas en nuestras manos". Noticias relacionadas
 India abre la vacunación a todos los mayores de 18 años y confina la ciudad de Delhi
 Colombia eleva a 27 los muertos en las protestas contra la reforma fiscal
 Incendio en un hospital
@@ -1706,10 +1653,7 @@ Según varias fuentes, los principales asesores científicos del país no estaba
 Traducido por Francisco de Zaráte.
 
 +Coronavirus hoy: India marca récord de fallecidos por covid en un día+
-Mientras Hungría reabre su vida de ocio para vacunados, en Nigeria se restringe el ingreso de personas provenientes de Brasil, Turquía e India,.
-
-    
-Coronavirus Indien Neu Delhi | Tote bei Einäscherung
+Mientras Hungría reabre su vida de ocio para vacunados, en Nigeria se restringe el ingreso de personas provenientes de Brasil, Turquía e India,. Coronavirus Indien Neu Delhi | Tote bei Einäscherung
 13:03 Hungría reabre el ocio con certificado de vacunación
 
 Estadios sin limitaciones de aforo ni mascarillas, interiores de bares y restaurantes llenos, y museos y cines que reabren sus puertas. Hungría vive su primer fin de semana de nueva normalidad para quienes tengan un certificado de vacunación.
@@ -1724,7 +1668,7 @@ Quienes hayan recibido al menos la primera dosis de alguna de las vacunas o los 
 
 El Gobierno del Reino Unido estudia administrar una dosis de la vacuna Pfizer/BioNTech contra el coronavirus a los niños mayores de 12 años en septiembre, al inicio del siguiente curso escolar, reveló este domingo (02.05.2021) el diario "The Sunday Times".
 
-"Necesitamos estar preparados para inmunizar a los niños, particularmente a los adolescentes, de manera rápida y efectiva si es necesario", afirmó al diario Adam Finn, miembro del Comité Conjunto de Vacunación e Inmunización (JCVI, en inglés).  El pediatra subrayo que "es extremadamente importante que la educación no se interrumpa en modo alguno el próximo año académico".
+"Necesitamos estar preparados para inmunizar a los niños, particularmente a los adolescentes, de manera rápida y efectiva si es necesario", afirmó al diario Adam Finn, miembro del Comité Conjunto de Vacunación e Inmunización (JCVI, en inglés). El pediatra subrayo que "es extremadamente importante que la educación no se interrumpa en modo alguno el próximo año académico".
 
 09:50 Nigeria restringe ingreso de pasajeros de India, Brasil y Turquía
 
@@ -1750,7 +1694,7 @@ f
 l
 i
 30 abr 2021. 14.05H
-SE LEE EN  3 MINUTOS
+SE LEE EN 3 MINUTOS
 POR CRISTIAN GALLEGOS
 El Ministerio de Sanidad estudia estos días un caso sospechoso de la variante india (B.1.617) en Valencia. Se trata de una mujer, aparentemente contagiada por una “variante diferente a las habituales", según fuentes de la Conselleria de Sanidad. Ante la amenaza de esta denominada ‘doble mutante’ y su propagación por el mundo, microbiólogos aseguran a nuestra redacción que es “inevitable” controlar su llegada a España.
 
@@ -1781,7 +1725,7 @@ f
 l
 i
 30 abr 2021. 18.00H
-SE LEE EN  4 MINUTOS
+SE LEE EN 4 MINUTOS
 POR CRISTINA ALCALÁ
 La India se ha convertido en el nuevo epicentro mundial del Covid-19. Según datos de las autoridades sanitarias, el país ha registrado en los últimos días un récord constante de contagios (360.000 casos en un solo día) y de fallecidos (superando la barrera de las 200.000 muertes por coronavirus).
 
@@ -1829,8 +1773,7 @@ Mail
 laSexta.com
 Madrid
 Actualizado:
-Miércoles, 28 abril, 2021 08:57 
-Publicado:
+Miércoles, 28 abril, 2021 08:57 Publicado:
 28.04.2021 08:57
 EN DIRECTO
 Actualizado a las 08:57
@@ -2114,8 +2057,1164 @@ Y en segundo lugar, preocupa que este aumento descontrolado provenga de una vari
 “La situación en la India es un recordatorio devastador de lo que puede hacer este virus y de por qué debemos utilizar todas las herramientas para combatirlo con un enfoque global e integrado: medidas de salud pública, vacunas, pruebas diagnósticas y tratamientos”, señaló Tedros Adhanom Ghebreyesus.
 
 
+La crisis del coronavirus en la India agrieta la imagen de Modi
+El exceso de confianza de las autoridades y una variante más virulenta de la covid colapsan el sistema sanitario, que no puede hacer frente a los más de 400.000 contagios y 4.000 muertes diarias
+El primer ministro de la India, Narendra Modi, durante un mitin electoral en Calcuta, en marzo.
+El primer ministro de la India, Narendra Modi, durante un mitin electoral en Calcuta, en marzo.BIKAS DAS / AP
+SUDIPTO MONDAL
+Bangalore (La India) - 09 MAY 2021 - 14:41 CEST
+La imagen política del primer ministro indio, Narendra Modi, está sufriendo un deterioro sin precedentes. Famoso por su capacidad de controlar el relato público, Modi y su partido nacionalista hindú, Bharatiya Janata (BJP), se enfrentan de pronto a una avalancha de críticas después de que hayan muerto miles de personas en la India por la falta de oxígeno y de camas de hospital en una virulenta segunda ola de la pandemia. Una mezcla de exceso de confianza de las autoridades y una nueva variante del coronavirus más agresiva, que está causando 400.000 contagios diarios y cerca de 4.000 muertos, han provocado que se descontrole la covid-19 en el país. La frágil situación ha desatado una oleada de críticas que no ha gustado a Modi.
+
+El Ministerio de Asuntos Exteriores convocó la semana pasada una reunión de urgencia con los representantes de las embajadas indias en todo el mundo, y ordenó a sus diplomáticos que “presentaran una imagen apropiada” de los esfuerzos del Gobierno para combatir la pandemia. La medida respondía a la irritación causada por una serie de informaciones en la prensa internacional sobre la falta de preparación para la segunda ola de la pandemia y por los comentarios en contra de que Modi haya permitido celebrar actos multitudinarios como el festival Holi, que marca el principio de la primavera, o las críticas a que haya hecho campaña en las elecciones locales de cuatro Estados en momentos de colapso del sistema sanitario.
+
+MÁS INFORMACIÓN
+El mundo se moviliza ante el descontrol del coronavirus en la India
+Colapso hospitalario en la India ante el avance de la segunda ola
+El ministerio incluso envió desmentidos oficiales a muchas publicaciones extranjeras. Aunque los mensajes no se referían específicamente a las acusaciones de incompetencia, el lenguaje era muy duro. En el caso del periódico The Australian, el ministerio le acusó de querer manchar la reputación de la India y calificó las informaciones publicadas de “sesgadas y malintencionadas”.
+
+Frentes abiertos
+El BJP y Modi están acostumbrados a las críticas. Ya antes de que comenzara la pandemia, el Gobierno tenía numerosos frentes abiertos, con centenares de miles de estudiantes, sindicalistas, agricultores, miembros de minorías y grupos de derechos humanos en protesta permanente contra sus políticas.
+
+La afluencia de asistentes a las manifestaciones ha ido en aumento desde las primeras protestas estudiantiles en 2016. El cenit se produjo en 2019, con las protestas paralelas de los campesinos —contra la propuesta de privatización del sector agrario— y de los musulmanes y grupos de derechos humanos, contra el plan de conceder la nacionalidad india exclusivamente a los refugiados que no fueran musulmanes.
+
+La sensación hasta ahora era de que toda esa agitación se producía dentro de una burbuja liberal y las protestas no amenazaban al poder de Modi. Su meteórico ascenso al poder en la última década se ha caracterizado por su capacidad de atraer a las masas, pero también por su talento para ganarse el apoyo de los medios y el aparato judicial, que son ahora los que más quebraderos de cabeza le están dando.
+
+Varios tribunales superiores de todo el país han censurado al Ejecutivo por no cumplir sus compromisos de suministrar vacunas, medicamentos, equipamiento y oxígeno a los gobiernos de los Estados. El Tribunal Superior de Delhi, rompiendo con la tradición de que el brazo judicial debe mantenerse alejado de las funciones del brazo ejecutivo, ordenó al Gobierno que suministrara 700 toneladas de oxígeno a los pacientes de covid en la región metropolitana de la capital. Cuando no obedeció, el tribunal dio un paso más e inició un proceso por desacato contra él.
+
+Elecciones en pandemia
+El Tribunal Superior de Madrás también criticó la decisión gubernamental de llevar a cabo elecciones en cuatro Estados en medio de una pandemia. Los jueces responsabilizaron directamente a la Comisión Electoral por obedecer ciegamente al Gobierno y no imponer protocolos covid durante la campaña. La comisión y, por tanto, el Ejecutivo central de la que depende, “deben ser enjuiciados por asesinato”, consideró.
+
+Las observaciones de la justicia de Madrás acapararon la atención de medios nacionales e internacionales. El Gobierno, irritado por lo que consideró un insulto, pidió al Tribunal Supremo que se eliminaran esos comentarios. También intentó que los medios no informaran de la disputa legal.
+
+El Tribunal Supremo desestimó la solicitud y se limitó a reprender levemente a la instancia inferior, alegando que “la fórmula elegida quizá fue demasiado dura”. “No podemos pretender hoy que los medios de comunicación no informen sobre las discusiones que se producen en los tribunales”, indicaron los magistrados.
+
+Críticas y control
+En cuanto a los medios de comunicación, hasta hace poco, las noticias críticas con el Gobierno solo se encontraban en medios pequeños e independientes, generalmente digitales. Shiv Kumar, director de Pratidhvani, un portal de noticias en idioma canarés que tiene su sede en Bangalore, en el sur de India, dice: “Todos los grandes conglomerados de medios, tanto las televisiones como los periódicos, se han vuelto de pronto en contra de Modi. Hasta las publicaciones más de derechas, que hasta ahora ejercían de portavoces del Gobierno, se han vuelto en su contra”.
+
+La otra disputa se libra en las redes sociales. Por segunda semana, las etiquetas que piden la dimisión de Modi han vuelto a ser tendencia en la India, al mismo tiempo que la gente publica llamamientos desesperados para conseguir oxígeno y camas de hospital en plataformas como Twitter, Facebook y WhatsApp.
+
+El Gobierno de Modi cursó una petición oficial para que bloquearan el contenido de algunas cuentas críticas con su gestión, “en vista del uso indebido de las plataformas de redes sociales por parte de ciertos usuarios para difundir información falsa o engañosa”, indicó en un comunicado el Ministerio de Información Tecnológica. La semana pasada, cuando Facebook bloqueó temporalmente la etiqueta #ResignModi (Modi dimisión), se acusó al Gobierno de intentar reprimir la libertad de expresión, una reacción masiva que obligó a restablecerla.
+
+Fracaso electoral
+Por si el partido gobernante tuviera pocos problemas, ha obtenido unos resultados mediocres en las elecciones celebradas recientemente en varios Estados. La única victoria que logró fue la del Estado de Assam, pero perdió en Bengala Occidental, Tamil Nadu y Kerala.
+
+Es una continuación de la pauta de los tres últimos años, en los que el BJP ha perdido poder en varios Estados después de que Modi fuera la estrella de las campañas. En 2017, cuando estaba en el apogeo de su poder, el partido gobernaba en 19 de los 29 Estados indios. Hoy gobierna solo en 11.
+
+Futuro incierto
+Según la empresa estadounidense de datos Morning Consult, el índice de aprobación del primer ministro ha caído del 74% en marzo al 65% en mayo. La empresa, que examina la popularidad del líder indio desde 2019, dice que el porcentaje de gente que desaprueba su labor, en ese periodo, ha pasado del 20% al 29%.
+
+No obstante, los expertos no se ponen de acuerdo en qué significa la crisis actual para el futuro del BJP y Modi.
+
+Suraj Yengde, investigador de posdoctorado en la Kennedy School de Harvard, percibe una marea de indignación contra el primer ministro y su mano derecha, Amit Shah, en todos los sectores. Yegde, autor del libro Caste Matters, un éxito de ventas internacional que aborda la importancia fundamental de las castas en la vida india, dice: “Antes, las víctimas de sus políticas derechistas eran grupos marginados en la sociedad, como los musulmanes y los dalits [la casta de los intocables]. Pero los errores cometidos en la gestión de la covid han afectado a todos los indios” .
+
+MÁS INFORMACIÓN
+El exceso de confianza y una nueva variante que inquieta al mundo desbocan la pandemia en la India
+La India: de la emergencia sanitaria a la movilización para liberar las patentes
+Yengde dice que esta etapa de la carrera del primer ministro marca un punto de inflexión: “Su mayor problema se lo plantearán las voces discrepantes dentro de su propio partido, porque Shah y Modi han transformado por completo la organización de cuadros en un culto a la personalidad”. El analista tiene la sensación de que la oposición no cuenta todavía con ningún rostro creíble que sirva de alternativa al atractivo de Modi. “Sus rivales dentro del partido son más numerosos que nunca. Y ellos serán los arquitectos del hundimiento del primer ministro”.
+
+Aunque comparte la opinión de Yengde sobre el cambio de los sentimientos de la población, Deepa Kurup, economista y profesora en Oxford, es más cauta en sus predicciones. “No creo que la pandemia sea el único aspecto en el que ha fracasado este Gobierno”, dice. “La economía india estaba sufriendo una desaceleración ya antes de que estallara. El nuevo régimen fiscal, la desmonetización de la divisa, las leyes agrarias... La gente se opuso a estas medidas y se manifestaron millones de personas”.
+
+Kurup destaca que muchos analistas creían que Modi no iba a conseguir un segundo mandato en 2019 por sus fracasos económicos. También entonces Modi se enfrentó a la disidencia dentro de su propio partido y el dinero de las empresas para financiar a las formaciones de la oposición experimentó un aumento notable.
+
+“Pero entonces, justo antes de las elecciones, se produjeron las explosiones de Pulwama y las escaramuzas con Pakistán, que crearon una ola de sentimiento nacionalista que favoreció al BJP”. Dice que la hindutva (hinduismo político) y el nacionalismo son los cimientos del poder y la influencia del partido en el Gobierno. “Hoy en día, en la India, si se desata ese sentimiento, se olvida todo lo demás”.
+
+La veterana periodista y directora del portal The News Minute, Dhanya Rajendran, dice que las elecciones estatales y las nacionales son completamente distintas. “En las elecciones nacionales, no parece que haya todavía nadie capaz de desafiar a Modi. En las elecciones estatales la gente vota por cuestiones locales pero, en las nacionales, Modi sigue siendo el líder más popular porque la oposición está dividida y todavía no ha resuelto cómo sería el reparto de poder”.
+
+Traducción de María Luisa Rodríguez Tapia.
+
+India podría alcanzar el millón de muertos por Covid en agosto, según 'The Lancet'
+Su estimación apunta que en apenas tres meses habrán fallecido cuatro veces más personas que en toda la pandemia en ese país
+S.S.
+Actualizado:10/05/2021 09:26h
+GUARDAR
+18
+NOTICIAS RELACIONADAS
+Españoles en la India: «Volver ahora no es coherente»
+La dramática situación que atraviesa la India, que alcanza récords diarios de fallecidos y contagiados jornada tras jornada podría alcanzar cotas insospechadas este verano. Un editorial publicado por 'The Lancet', que se basa en una estimación del Instituto de Métricas y Evaluación de la Salud (perteneciente a la Universidad de Washington), estima que los fallecidos podrían llegar al millón para agosto.
+
+En opinión de la publicación, si esto ocurriera el responsable del «autoinfligido desastre nacional» sería el Gobierno y su primer ministro, Narendra Modi, que ha permitido festividades estos últimos meses y se opone a decretar medidas para frenar la pandemia en el país.
+
+El Ministerio de Salud de India añadió este domingo a sus cifras oficiales 4.092 muertes más en las últimas 24 horas, lo que eleva el número total de muertos a 242.362, pero podrían ser muchos más. Los contagios aumentaron en 403.738, una cifra muy similar a la máxima alcanzada en jornadas anteriores. El total de casos desde el inicio de la pandemia asciende hasta los 22,3 millones, diez de los cuales se han alcanzado en los últimos cuatro meses.
+
+Según 'The Lancet', el grupo de expertos designado por el Gobierno para hacer frente a la pandemia no se ha reunido hasta el pasado mes de abril, cuando las cifras se dispararon y todos los focos se pusieron sobre la India. En su editorial pide a las autoridades que adopten una estrategia de «dos frentes» para luchar contra la pandemia, acelerando la vacunación en todo el país y reduciendo la transmisión del virus. Muy duro con Modi, considera que este ha «despilfarrado» su éxito inicial en la contención de la pandemia con un comportamiento «inexcusable» al «anular cualquier tipo de disensión y conversación abierta» tras relajar las medidas de contención sin apenas haber comenzado la campaña de vacunación.
+
+En los acontecimientos de las últimas horas, el Tribunal Supremo del país ha formado unGrupo de Trabajo Nacional de 12 miembros para evaluar la disponibilidad y distribución de oxígeno médico a raíz de las súplicas de la población en las redes sociales por la falta de aire para los respiradores. «Esperamos que los principales expertos del país se asocien con el Grupo de Trabajo, como miembros y especialistas», ha hecho saber el tribunal en su orden final.
+
+También, el Gobierno anunció el sábado que ha revisado la política nacional para la admisión de pacientes al ordenar a los hospitales que «ningún paciente sea rechazado por ningún motivo». Ya no se necesita un informe de prueba de coronavirus para la hospitalización. Los hospitales tampoco pueden rechazar pacientes de otra ciudad.
+
+Por todo ello, el ministro principal de Delhi, Arvind Kejriwal, ha extendido el cierre de Nueva Delhi, la capital, una semana más, con restricciones adicionales que han paralizado incluso los servicios de metro, hasta el próximo 17 de mayo. La extensión está destinada a garantizar que la ciudad no baje la guardia a pesar de que los números han caído marginalmente, del 35 al 23 por ciento -un porcentaje que, según los expertos, sigue siendo demasiado alto-. «La tasa de positividad ha disminuido, pero aún no podemos permitirnos la indulgencia. Necesitamos extender el bloqueo», ha indicado.
+
+India no doblega la curva y se mantiene como el epicentro de la pandemia
+El número de fallecidos cruza por segundo día consecutivo la barrera de los 4.000, al registrar 4.092 muertes este domingo, lo que sitúa el total en 242.362, un cómputo global solo superado por Estados Unidos y Brasil.
+ Imagen de archivo de varias personas incinerando a fallecidos por la covid-19, en India. - EFE
+Varios hombres incineran a personas fallecidas por la covid-19, en India. — Rajat Gupta / EFE / EPA
+NUEVA DELHI09/05/2021 17:16MONCHO TORRES (EFE)
+India se mantiene como el epicentro global de la pandemia y no logra doblegar la curva de contagios y fallecidos, después de registrar este domingo más de 400.000 casos de coronavirus por cuarto día consecutivo y notificar por segunda jornada más de 4.000 muertes diarias en medio del colapso sanitario.
+
+El número de infecciones en las últimas 24 horas ascendió a 403.738 este domingo, unos 2.600 casos más que el sábado, lo que eleva el total de contagios desde el inicio de la pandemia en el país hasta los 22,2 millones, según informó el Ministerio de Salud indio.
+
+Además, el número de fallecidos cruzó por segundo día consecutivo la barrera de los 4.000, al registrar 4.092 muertes en la última jornada, 95 menos que el sábado, lo que sitúa el total en 242.362, un cómputo global solo superado por Estados Unidos y Brasil.
+
+17/03/2021. Imagen de archivo del comisario europeo para el Mercado Interior, Thierry Breton, en Bruselas. - EUROPA PRESS
+La UE anuncia que no renovará su contrato con AstraZeneca a partir de junio
+EUROPA PRESS
+India se mantiene como el segundo país con más casos por detrás de Estados Unidos, con 32,6 millones, aunque se ha convertido en el epicentro de la pandemia con el mayor aumento de casos diarios por una segunda ola que lleva más de un mes golpeando al país. El pasado 9 de abril sumaba algo más de 130.000 casos diarios y, hace dos meses, 15.400, después de haber visto el 9 de febrero cómo rebajaba los 10.000 diarios, en un país lleno de optimismo que creía que lo peor de la pandemia había pasado ya.
+
+India se mantiene como el segundo país del mundo con más casos, solo por detrás de Estados Unidos
+Entonces se vio a una población relajada que comenzaba a abarrotar los mercados y los salones de boda sin distancia social o mascarilla, escenas que alcanzaron su máximo exponente con la celebración de grandes mítines políticos o el festival religioso de la Kumbh Mela, con millones de asistentes.
+
+"Esto no es religión. Ninguna religión enseña a los creyentes a poner en peligro la vida de millones de personas. Mirad esta imagen. Reconoced lo que es esto: es un cínico asesinato en masa", asegura en Twitter el reconocido activista Harsh Mander junto a una foto de la Kumbh Mela que mostraba un baño multitudinario en el Ganges.
+
+Imagen de archivo del presidente de Canarias, Ángel Víctor Torres. - EFE
+La Justicia rechaza mantener el toque de queda en Canarias
+EFE
+
+Tasa de positividad
+El número de casos activos se sitúa en 3,7 millones y la tasa de positividad en el 22,7%, un signo que muestra la gravedad de la pandemia en India, cuando hace tan solo un mes era del 10,3%. La Organización Mundial de la Salud (OMS) considera que la pandemia está bajo control en un país si la tasa de positividad está por debajo del umbral del 5%.
+
+En Nueva Delhi, una de las regiones indias más afectadas por la pandemia, con 332 muertes y más de 17.000 casos diarios en una población de 20 millones de habitantes, su jefe de Gobierno, Arvind Kejriwal, celebró este domingo que su tasa de positividad había bajado del 35% a mediados de abril al 23% en la actualidad, si bien se mantiene el confinamiento por cuarta semana consecutiva.
+
+Para rebajar esta tasa, es fundamental aumentar el número de test pero los laboratorios se encuentran colapsados, con largas esperas para poder hacerse una prueba cuyo resultados pueden retrasarse días, lo que impide controlar la enfermedad e identificar con rapidez a los contagiados y aislarlos.
+
+09/05/2021. Varias personas se amontonan en la Puerta del Sol de Madrid celebrando el final del estado de alarma entre bailes y bebidas. - Reuters
+Pocas mascarillas y muchos macrobotellones: las fotos de las aglomeraciones en España tras el fin del estado de alarma
+En la última jornada se realizaron 1,8 millones de test y el número diario no ha aumentado significativamente respecto al pasado octubre, cuando se realizaban 1,1 millones de pruebas por jornada en un país que registraba unos 70.000 casos diarios.
 
 
+35 millones de vacunados por completo
+Ante esta situación en India, se viven dramáticas escenas diarias en las que los hospitales se encuentran sobrepasados y no pueden dar acceso a más pacientes por falta de camas o de oxígeno médico; la campaña de vacunación se ve como la única salida.
+
+Así se administraron algo más de dos millones de dosis en la última jornada, elevando el total desde el inicio de la campaña en enero hasta casi los 170 millones de dosis.
+
+Colas delante del hospital Enfermera Isabel Zendal en Madrid durante los días de Semana Santa.
+Caos en el Zendal: estudiantes de Farmacia acuden a vacunarse tras haber sido citados por error por la Facultad
+PÚBLICO
+Sin embargo, solo 35,3 millones de los 1.350 millones de habitantes de India han sido inoculados por completo con una de las fórmulas aprobadas en el país, Covishield de AstraZeneca, que fabrica el Instituto Serum de India, o Covaxin, del laboratorio indio Bharat Biotech, a lo que se suma la importada Sputnik V rusa.
+
+Galicia detecta la variante india del coronavirus en un hombre sin relación con los casos ya confirmados en la comunidad
+El Sergas indica que se trata de un hombre de 69 años que está ingresado en el hospital Vithas de Vigo, en donde se encuentran también varios marineros de un buque en el que se encontró esta variante
+
+
+
+Técnicos de laboratorio procesan muestras serológicas para su posterior análisis.
+Técnicos de laboratorio procesan muestras serológicas para su posterior análisis. EFE/Jesús Diges/Archivo
+elDiario.es Galicia
+
+9 de mayo de 2021 11:38h
+0
+
+El Servizo Galego de Saúde (Sergas) ha detectado la variante india del coronavirus en un hombre que está ingresado en el hospital Vithas de Vigo y que no tiene relación con los casos ya confirmados en Galicia: los de los marineros del buque 'Prometheus Leader' y el de una mujer que viajó recientemente desde Nueva Delhi a esta ciudad gallega. Otro barco, el 'Emerald Leader' está también confinado en el puerto y se están secuenciando las muestras de varios tripulantes que han dado positivo por COVID-19.
+
+Galicia analiza qué variante de coronavirus provocó un brote en un segundo barco en Vigo con ocho afectados, uno de ellos hospitalizado
+Galicia analiza qué variante de coronavirus provocó un brote en un segundo barco en Vigo con ocho afectados, uno de ellos hospitalizado
+
+SABER MÁS
+El último caso confirmado es el de un hombre de 69 años que está ingresado en este centro médico privado por varias patologías. Al detectarle síntomas de la COVID-19, las autoridades sanitarias verificaron con una PCR que está contagiado y enviaron una muestra para su análisis en el laboratorio de microbiología. Tras confirmarse que es la variante india, el hospital está haciendo un cribado entre el personal y el resto de pacientes de la misma planta. Han sido localizadas, además, cuatro personas con las que el hombre tuvo contacto.
+
+Este es el segundo paciente con variante india sin relación con el brote localizado en el buque 'Prometheus Leader'. Cinco de los marineros afectados se encuentran ingresados también el Vithas, uno de ellos en la UCI. Por el momento, no se ha determinado el origen del contagio de este hombre que no está relacionado con el barco.
+
+Los barcos sospechosos de portar casos con la cepa india aumentan: así se verifican sus casos covid
+
+10/05/202114:00h.
+Confirman tres casos de la variante india entre los tripulantes de un barco atracado en Vigo
+Así se verifican los casos covid en los barcos confinados
+Informativos Telecinco ha acompañado a la autoridad portuaria que sube a estos barcos y verifica los casos a bordo
+Uno de los tripulantes confinados en Valencia, hospitalizado
+Los barcos sospechosos de portar casos con la cepa india aumentan en nuestro país y las PCR se las tienen que hacer ellos
+Los barcos sospechosos de portar casos con la cepa india aumentan en nuestro país. Hay una nueva embarcación en cuarentena en el puerto de Vigo con ocho positivos. El problema es cómo controlar a toda esta tripulación. Informativos Telecinco ha acompañado a la autoridad portuaria que sube a estos barcos y verifica los casos a bordo. Es la primera autoridad portuaria que sube a un barco con permiso para entra a puerto. Y también quien lo despide. Tratan con la tripulación de cada barco que llega o sale de puerto. Recibe la documentación del capitán del barco mientras se coordina la maniobra de remolque al puerto. Reclaman que haya comunicación previa si hay sospecha de contagio.
+
+PUBLICIDAD
+
+
+Barco en cuarentena
+En Galicia, 22 tripulantes del Prometeus, de la India y Filipinas están confinados tras dar 8 marineros positivo (5 están hospitalizados) con la variante india. Su gemelo, el Emerald, tiene confinados a sus 23 tripulantes de varias nacionalidades), 8 de ellos han dado positivo y hay un hospitalizado, del que no se sabe el tipo de variante. Se sospecha que uno de los tripulantes del Emerald tuvo contacto con otro del barco ya en cuarentena en la terminal de transbordadores de Bouzas. Ahora mismo no se hace filtro a los barcos que llegan a puerto español. Los marineros se hacen pcr por su cuenta antes de ir a casa. Los sindicatos piden que se hagan pruebas, como en aeropuertos, antes de que baje la tripulación. Brote en barco de Vigo
+PUBLICIDAD
+
+Uno de los tripulantes confinados en Valencia, hospitalizado
+Uno de los trece tripulantes con coronavirus confinados desde la semana pasada en dos barcos atracados en el puerto de València ha presentado fiebre y ha tenido que ser trasladado a un centro hospitalario, han informado a EFE fuentes de la Delegación de Gobierno de la Comunitat Valenciana. Los marineros estaban a la espera de que a mitad de esta semana finalizara el aislamiento y someterse a nuevas pruebas PCR y test serológicos para ver si se habían curado de la enfermedad y podían continuar con sus actividades. Sin embargo, la aparición del episodio de fiebre en uno de ellos anoche, y que persistía hoy, ha hecho que, por protocolo, esté previsto que este mismo lunes toda la tripulación vuelva a ser sometida a las pruebas PCR.
+
+Se trata de siete tripulantes del barco 'Skiathos I', de la naviera Marfret, y seis marineros del 'Maersk UTAH', que han tenido síntomas leves , hasta ahora, sin necesidad de requerir asistencia hospitalaria. Las fuentes no han precisado de qué barco en concreto es el marinero que ha tenido que ser trasladado a un centro sanitario para el tratamiento de su enfermedad ni el estado en el que se encuentra.
+
+Ambos barcos llegaron al puerto de València el 1 de mayo, y en ambos casos sus responsables comunicaron que en sus tripulaciones había marineros con síntomas de covid-19: seis en el 'Maersk Utah' y cuatro en el 'Skiathos I', aunque finalmente las pruebas PCR dejaron un balance de seis contagiados en el primero y siete en el segundo.
+
+La Autoridad Portuaria de València autorizó el atraque de los buques, procedentes de Algeciras y de Barcelona, en aguas seguras interiores y apartadas de la actividad comercial, para poder atender con mayor facilidad a las personas infectadas y garantizar un mejor cumplimiento de la cuarentena y los protocolos.
+
+
+Coronavirus.- India suma más de 365.000 casos y 3.750 muertos por coronavirus durante el último día
+ Europa Press
+
+Tiempo de lectura: 1' 10 may 2021 - 11:07 Actualizado 11:23
+
+El Gobierno de India ha notificado este lunes más de 365.000 casos y 3.750 muertos por coronavirus durante el último día, tras cuatro días por encima de los 400.000 contagios, con lo que enlaza 19 días sumando más de 300.000 pacientes.
+
+El Ministerio de Sanidad de India ha detallado en su último balance, publicado a través de su cuenta en la red social Twitter, que durante las últimas 24 horas se han confirmado 366.161 contagios y 3.754 decesos, lo que sitúa los totales en 22.662.575 y 246.116, respectivamente.
+
+Asimismo, ha apuntado que en estos momentos hay 3.745.237 casos activos, 8.589 más que el día anterior, y ha cifrado en 18.671.222 el total de personas recuperadas de la COVID-19, la enfermedad causada por el nuevo coronavirus, incluidas 353.818 durante el último día.
+
+De esta forma, el estado de Maharashtra --donde se encuentra Bombay--, figura un día más como el que más casos notifica, con 48.401, si bien el drástico repunte de los últimos días en Karnataka lo sitúan en segundo lugar, con 47.930 contagios.
+
+Maharashtra es también el estado con más fallecidos durante el último día, con 572, seguido igualmente por Karnataka, con 490 decesos. Asimismo, Maharashtra y Karnataka encabezan la lista de casos activos, con 618.070 y 564.505, respectivamente.
+
+Por su parte, la capital, Nueva Delhi, ha notificado 13.336 casos y 273 fallecidos. De esta forma, es el décimo estado en cuanto a casos durante las últimas 24 horas, si bien figura en cuarto lugar en cuanto a muertos, por detrás de los dos citados y Uttar Pradesh.
+
+La India baja de los 400.000 casos y registra más de 3.700 muertes por covid
+ Agencia EFE Hace 3 horas
+Un hombre abrió fuego en un cumpleaños en Colorado y mató a seis personas…
+Alegres reuniones en EEUU por el Día de las Madres
+
+© Proporcionado por Agencia EFE
+Nueva Delhi, 10 may (EFE).- La India registró este lunes un total de 366.161 nuevos casos por coronavirus y más de 3.700 fallecidos en las últimas 24 horas, una disminución en las cifras tras varias jornadas seguidas notificando más de 400.000 contagios y una tasa de muertes superior a 4.000.
+
+Con los positivos de esta última jornada, el número de infecciones en el país asiático ascendió a los 22,6 millones, manteniéndose como la segunda nación más afectada por la pandemia solo por detrás de Estados Unidos, según informó el Ministerio de Salud indio.
+
+El número de fallecidos bajó de los 4.000 después de dos días seguidos cruzando esta barrera y reportó 3.754 nuevas muertes, con un total que se sitúa en las 246.116 desde el inicio de la pandemia, un cómputo global solo superado por Estados Unidos y Brasil.
+
+El estado occidental de Maharashtra, el más afectado por la pandemia en el país, sigue sin notificar una bajada significativa en las cifras: con más de 48.000 casos y 572 nuevas muertes en un solo día.
+
+Por su parte, los datos de Nueva Delhi continúa a la baja, y se registraron un total de 13.336 positivos y 273 fallecimientos en las últimas 24 horas.
+
+La capital inicia hoy la cuarta semana consecutiva de confinamiento de sus más de 20 millones de habitantes para romper la cadena de contagios.
+
+Esta bajada en el número de contagios y muertes se produce en medio de una virulenta segunda ola que mantiene a la India en el epicentro global de una pandemia que ha colapsado el sistema sanitario.
+
+© Proporcionado por Agencia EFE
+FALTA DE OXIGENO
+
+En medio de una crisis de oxígeno, el país sigue recibiendo ayuda internacional para tratar de aliviar unos datos que se han acostumbrado a batir récords diarios.
+
+El Gobierno anunció haber recibido hasta ayer 6.608 concentradores de oxígeno, 3.856 cilindros de oxígeno, 14 plantas generadoras de oxígeno, y 4.330 ventiladores y otros aparatos de respiración asistida, mientras se espera la llegada hoy de un nuevo cargamento procedente de España con más ayuda.
+
+En la última jornada, aterrizaron unos 1.300 concentradores de oxígeno y 400 respiradores procedentes de Israel, además de recibir cilindros de oxígeno de Singapur y otra remesa de concentradores de Mauritania.
+
+La campaña de vacunación, vista como la esperanza para erradicar la pandemia en el país, sufrió una de las bajadas más fuertes tras inocular solo alrededor de 689.000 dosis, un ritmo bastante más lento de lo habitual teniendo en cuenta que la vacunación se abrió el pasado 1 de mayo a toda la población adulta.
+
+Desde el inicio de esta campaña el pasado mes de enero se han administrado un total de 170 millones de sueros. Sin embargo, estas cifras se encuentran lejos de la meta inicial de inocular a 300 millones de personas para julio.
+
+La India administra las tres vacunas disponibles: Covishield de AstraZeneca, que fabrica el Instituto Serum de la India (SII); Covaxin, del laboratorio indio Bharat Biotech; y la rusa Sputnik V.
+
+Alerta por el pico de casos de coronavirus en el país más vacunado del mundo: ni en la India
+Islas Seychelles es el país más vacunado del mundo, con el 60 por ciento de su población.
+
+Sin embargo han aumentado los casos y ya tienen más casos por cápita que la India, en plena ola.
+
+La comunidad internacional sigue atenta la situación que deja en el aire la efectividad de las vacunas.
+
+La vacunación contra el coronavirus sigue avanzando en el mundo enteroLa vacunación contra el coronavirus sigue avanzando en el mundo entero (Carlos Ortega - Carlos Ortega / EFE)
+MUNDODEPORTIVO.COM
+Actualizado a 10-05-2021 12:31
+Las Islas Seychelles es el país del mundo que más avanzada tiene la vacunación contra el coronavirus entre sus habitantes. Un 60 por ciento de la población ha recibido ya las dos dosis, más que países como Israel o el Reino Unido que están entre los que más ciudadanos han vacunado del mundo.
+
+Sin embargo, las últimas semanas el panorama ha cambiado radicalmente, después de que el caso de positivos por coronavirus se haya disparado pese a estar cerca de la conocida como inmunidad de rebaño (70%). Un caso que mantiene en alerta a la comunidad internacional.
+
+Desde la semana pasada se registran algo más de 100 casos diarios de nuevos positivos por coronavirus. Una cifra aparentemente baja, pero teniendo en cuenta la población de Seychelles, de apenas 98.000 habitantes, significa un porcentaje de afectados por cápita superior por ejemplo a la de la India, que está en plena ola.
+
+Los centros hospitalarios del país están cerca de la saturación por lo que el gobierno ha decidido retomar las medidas restrictivas. “Se trata de una tendencia al alza”, declaró la semana pasada el Comisario de Salud Pública, Jude Gedeon, en una rueda de prensa. “No sabemos cuánto durará, pero esto dependerá de las medidas que se tomen y de cómo se respeten las nuevas medidas”, incidió.
+
+Las valoraciones internacionales
+La comunidad internacional observa la situación con preocupación. “Está proporcionando un caso crítico para considerar la eficacia de algunas vacunas y qué rango tenemos que alcanzar para cumplir con la inmunidad de rebaño”, dijo Yanzhong Huang, investigador principal de salud global en el Consejo de Relaciones Exteriores que, sin embargo destaca, en declaraciones al Washington Post, el descenso de casos en países como Reino Unido o Israel.
+
+
+Esto se debería, en principio, a tres factores. El primero, el hecho de que existen ‘bolsas’ de habitantes de las Seychelles a las que aún no se ha proporcionado la vacuna, y son las principales comunidades afectadas en este brote. El segundo, que las vacunas ayudan a evitar consecuencias graves del coronavirus, aunque no el contagio. Y el tercero a la vuelta del turismo a las islas, que dependen totalmente de sus ingresos.
+
+No es sorprendente de que no vean una caída significante de casos, pero lo que es sorprendente es de que han sufrido un incremento significativo desde finales de abril
+Aproximadamente el 60% de las dosis administradas en Seychelles son vacunas fabricadas por la empresa china Sinopharm que fueron donadas a las Seychelles por los Emiratos Árabes Unidos. Las dosis restantes son de la vacuna desarrollada por AstraZeneca y producida por el Instituto del Suero de la India.
+
+La efectividad de esta última es de un 79 por ciento aproximadamente en menores de 60 años, según estudios realizados en Estados Unidos, con lo que en realidad aunque más del 60 por ciento de la población haya sido vacunada, sólo sería efectivo en cerca del 50, valora la epidemióloga Jennifer Huang Bouey al citado Washington Post.
+
+“No es sorprendente de que no vean una caída significante de casos, pero lo que es sorprendente es de que han sufrido un incremento significativo desde finales de abril”, apunta Huang que cree que esto demuestra que la vacuna no es suficiente para evitar nuevas olas.
+
+India suma más de 365.000 casos y 3.750 muertos por coronavirus durante el último día
+ europapress.es Hace 3 horas
+Ana Maria Aldón explica el motivo por el que José Ortega Cano ha rechazado…
+Últimas noticias del coronavirus y del estado de alarma, en directo | Pedro…
+
+Traslado de una paciente con coronavirus en un hospital en India© Prabhat Kumar Verma/ZUMA Wire/dp / DPA . Reservados todos los derechos Traslado de una paciente con coronavirus en un hospital en India
+El Gobierno de India ha notificado este lunes más de 365.000 casos y 3.750 muertos por coronavirus durante el último día, tras cuatro días por encima de los 400.000 contagios, con lo que enlaza 19 días sumando más de 300.000 pacientes.
+
+MADRID, 10 (EUROPA PRESS)
+
+El Ministerio de Sanidad de India ha detallado en su último balance, publicado a través de su cuenta en la red social Twitter, que durante las últimas 24 horas se han confirmado 366.161 contagios y 3.754 decesos, lo que sitúa los totales en 22.662.575 y 246.116, respectivamente.
+
+Asimismo, ha apuntado que en estos momentos hay 3.745.237 casos activos, 8.589 más que el día anterior, y ha cifrado en 18.671.222 el total de personas recuperadas de la COVID-19, la enfermedad causada por el nuevo coronavirus, incluidas 353.818 durante el último día.
+
+De esta forma, el estado de Maharashtra --donde se encuentra Bombay--, figura un día más como el que más casos notifica, con 48.401, si bien el drástico repunte de los últimos días en Karnataka lo sitúan en segundo lugar, con 47.930 contagios.
+
+Maharashtra es también el estado con más fallecidos durante el último día, con 572, seguido igualmente por Karnataka, con 490 decesos. Asimismo, Maharashtra y Karnataka encabezan la lista de casos activos, con 618.070 y 564.505, respectivamente.
+
+Por su parte, la capital, Nueva Delhi, ha notificado 13.336 casos y 273 fallecidos. De esta forma, es el décimo estado en cuanto a casos durante las últimas 24 horas, si bien figura en cuarto lugar en cuanto a muertos, por detrás de los dos citados y Uttar Pradesh.
+
+Perú extiende la suspensión de vuelos desde Reino Unido, India, Brasil y Sudáfrica por la COVID-19
+ europapress.es Hace 1 hora
+Ana Maria Aldón explica el motivo por el que José Ortega Cano ha rechazado…
+Últimas noticias del coronavirus y del estado de alarma, en directo | Pedro…
+
+Archivo - Una trabajadora sanitaria recibe la vacuna Sinopharm.© MARIANA BAZO / ZUMA PRESS / CONTACTOPHOTO . Reservados todos los derechos Archivo - Una trabajadora sanitaria recibe la vacuna Sinopharm.
+El Gobierno compra otras 500.000 dosis de Sinopharm
+
+El Gobierno compra otras 500.000 dosis de Sinopharm
+
+Las autoridades de Perú han informado de que los vuelos desde Reino Unido, India, Brasil y Sudáfrica seguirán suspendidos por el momento con el objetivo de impedir la posible entrada de otras variantes del coronavirus al país.
+
+La medida, anunciada cuando el país cuenta con 1,8 millones de casos y más de 62.100 fallecidos a causa de la pandemia, ha sido anunciada en plena segunda ola.
+
+Así, hasta el 30 de mayo estará prohibida la entrada de extranjeros no residentes que procedan de estos cuatro países o hayan realizado escala en los mismos durante los 14 días previos.
+
+El Ejecutivo evaluará cada 15 días la posibilidad de levantar esta medida, si bien ha resaltado que busca evitar una mayor propagación del virus en plan emergencia sanitaria, según informaciones de la emisora RPP.
+
+Los vuelos con Reino Unido y Sudáfrica están suspendidos desde diciembre de 2020, mientras que con India y Brasil se remonta a enero de este año.
+
+El ministro de Sanidad, Óscar Ugarte, ha señalado que el Gobierno ha firmado un nuevo contrato con la farmacéutica Sinopharm para adquirir otras 500.000 vacunas contra el coronavirus. "Ya hemos firmado un contrato adicional por 500.000 dosis que deben estar llegando, de repente, la próxima semana", ha aseverado.
+
+"No sólo se ha firmado contrato, ya se pagó y, por lo tanto, van a venir 500 000 y podrían venir otras cantidades", ha especificado antes de afirmar que después de que la Organización Mundial de la Salud (OMS) aprobara las vacuna de Sinopharm para tratar la enfermedad el Gobierno ha tenido información suficiente "para cubrir el vacío que había previamente y por lo cual no se le daba el registro condicional".
+
+No obstante, se ha mostrado optimista y ha expresado que la evaluación del Gobierno apunta a una "desaceleración" de los contagios. "Podríamos decir que se está iniciando un declive en la curva", ha manifestado.
+
+"A partir de la experiencia del año pasado y de la experiencia en otros países, esa reducción de una curva, incluso a niveles muy bajos, no impide que pueda haber una tercera ola", ha alertado.
+
+India podría alcanzar el millón de muertos por Covid en agosto, según 'The Lancet'
+Su estimación apunta que en apenas tres meses habrán fallecido cuatro veces más personas que en toda la pandemia en ese país
+S.S.
+Actualizado:10/05/2021 09:26h
+GUARDAR
+18
+NOTICIAS RELACIONADAS
+Españoles en la India: «Volver ahora no es coherente»
+La dramática situación que atraviesa la India, que alcanza récords diarios de fallecidos y contagiados jornada tras jornada podría alcanzar cotas insospechadas este verano. Un editorial publicado por 'The Lancet', que se basa en una estimación del Instituto de Métricas y Evaluación de la Salud (perteneciente a la Universidad de Washington), estima que los fallecidos podrían llegar al millón para agosto.
+
+En opinión de la publicación, si esto ocurriera el responsable del «autoinfligido desastre nacional» sería el Gobierno y su primer ministro, Narendra Modi, que ha permitido festividades estos últimos meses y se opone a decretar medidas para frenar la pandemia en el país.
+
+El Ministerio de Salud de India añadió este domingo a sus cifras oficiales 4.092 muertes más en las últimas 24 horas, lo que eleva el número total de muertos a 242.362, pero podrían ser muchos más. Los contagios aumentaron en 403.738, una cifra muy similar a la máxima alcanzada en jornadas anteriores. El total de casos desde el inicio de la pandemia asciende hasta los 22,3 millones, diez de los cuales se han alcanzado en los últimos cuatro meses.
+
+
+Según 'The Lancet', el grupo de expertos designado por el Gobierno para hacer frente a la pandemia no se ha reunido hasta el pasado mes de abril, cuando las cifras se dispararon y todos los focos se pusieron sobre la India. En su editorial pide a las autoridades que adopten una estrategia de «dos frentes» para luchar contra la pandemia, acelerando la vacunación en todo el país y reduciendo la transmisión del virus. Muy duro con Modi, considera que este ha «despilfarrado» su éxito inicial en la contención de la pandemia con un comportamiento «inexcusable» al «anular cualquier tipo de disensión y conversación abierta» tras relajar las medidas de contención sin apenas haber comenzado la campaña de vacunación.
+
+En los acontecimientos de las últimas horas, el Tribunal Supremo del país ha formado unGrupo de Trabajo Nacional de 12 miembros para evaluar la disponibilidad y distribución de oxígeno médico a raíz de las súplicas de la población en las redes sociales por la falta de aire para los respiradores. «Esperamos que los principales expertos del país se asocien con el Grupo de Trabajo, como miembros y especialistas», ha hecho saber el tribunal en su orden final.
+
+También, el Gobierno anunció el sábado que ha revisado la política nacional para la admisión de pacientes al ordenar a los hospitales que «ningún paciente sea rechazado por ningún motivo». Ya no se necesita un informe de prueba de coronavirus para la hospitalización. Los hospitales tampoco pueden rechazar pacientes de otra ciudad.
+
+Por todo ello, el ministro principal de Delhi, Arvind Kejriwal, ha extendido el cierre de Nueva Delhi, la capital, una semana más, con restricciones adicionales que han paralizado incluso los servicios de metro, hasta el próximo 17 de mayo. La extensión está destinada a garantizar que la ciudad no baje la guardia a pesar de que los números han caído marginalmente, del 35 al 23 por ciento -un porcentaje que, según los expertos, sigue siendo demasiado alto-. «La tasa de positividad ha disminuido, pero aún no podemos permitirnos la indulgencia. Necesitamos extender el bloqueo», ha indicado.
+
+Islas Seychelles, con el 60% de vacunados, tiene más casos de Covid-19 que la India
+En una población de 98.000 habitantes, se registran 100 casos diarios
+Los hospitales están muy cerca de la saturación
+
+Islas Seychelles, con el 60% de vacunados, tiene más casos de Covid-19 que la India
+Islas Seychelles, con el 60% de vacunados, tiene más casos de Covid-19 que la India | Google
+10/05/2021 a las 12:03 CEST
+D. Cruz (@DCruzPeriodista) 0
+
+Las Islas Seychelles es el país con la vacunación contra la Covid-19 más avanzada hasta la fecha: el 60% de sus habitantes está inmunizada contra la enfermedad, superando así a Israel y Reino Unido, pero lo cierto es que una nueva ola de contagios ha pillado desprevenido al Gobierno. En una población de 98.000 casos, se están registrando hasta 100 casos diarios de coronavirus, una relación próxima a los datos que se están contabilizando en la India durante las últimas semanas.
+
+Sorprende, en primer lugar, que se registre una nueva ola de casos con una inmunidad de rebaño que se sitúa en el 70% y a la que las Islas Seychelles se aproxima rápidamente; también impacta que haya tantos casos cuando hasta ahora no había existido una explosión de contagios como la vivida hoy en día. Los hospitales están a rebosar, y la saturación está próxima a producirse.
+
+
+Thank you for watching
+
+El Comisario de Salud Pública de las Islas Seychelles, Jude Gedeon, afirmó hace escasos días en rueda de prensa que "estamos viviendo una verdadera tendencia al alza. No sabemos cuánto durará, pero esto dependerá de las medidas que se tomen y de cómo se respeten las nuevas restricciones". Ahora bien, son muchos los países que observan la evolución de la pandemia en este territorio, sobre todo por dos factores: los contagiados son aquellos que no han recibido la vacuna (grupos sociales reacios), y el fármaco utilizado ha sido el desarrollado en China por Sinopharm.
+
+Coronavirus.- Perú extiende la suspensión de vuelos desde Reino Unido, India, Brasil y Sudáfrica por la COVID-19
+Por
+Infobae Newsroom
+10 de Mayo de 2021
+
+El Gobierno compra otras 500.000 dosis de Sinopharm
+
+MADRID, 10 (EUROPA PRESS)
+
+Las autoridades de Perú han informado de que los vuelos desde Reino Unido, India, Brasil y Sudáfrica seguirán suspendidos por el momento con el objetivo de impedir la posible entrada de otras variantes del coronavirus al país.
+
+La medida, anunciada cuando el país cuenta con 1,8 millones de casos y más de 62.100 fallecidos a causa de la pandemia, ha sido anunciada en plena segunda ola.
+
+Así, hasta el 30 de mayo estará prohibida la entrada de extranjeros no residentes que procedan de estos cuatro países o hayan realizado escala en los mismos durante los 14 días previos.
+
+El Ejecutivo evaluará cada 15 días la posibilidad de levantar esta medida, si bien ha resaltado que busca evitar una mayor propagación del virus en plan emergencia sanitaria, según informaciones de la emisora RPP.
+
+Los vuelos con Reino Unido y Sudáfrica están suspendidos desde diciembre de 2020, mientras que con India y Brasil se remonta a enero de este año.
+
+El ministro de Sanidad, Óscar Ugarte, ha señalado que el Gobierno ha firmado un nuevo contrato con la farmacéutica Sinopharm para adquirir otras 500.000 vacunas contra el coronavirus. "Ya hemos firmado un contrato adicional por 500.000 dosis que deben estar llegando, de repente, la próxima semana", ha aseverado.
+
+"No sólo se ha firmado contrato, ya se pagó y, por lo tanto, van a venir 500 000 y podrían venir otras cantidades", ha especificado antes de afirmar que después de que la Organización Mundial de la Salud (OMS) aprobara las vacuna de Sinopharm para tratar la enfermedad el Gobierno ha tenido información suficiente "para cubrir el vacío que había previamente y por lo cual no se le daba el registro condicional".
+
+No obstante, se ha mostrado optimista y ha expresado que la evaluación del Gobierno apunta a una "desaceleración" de los contagios. "Podríamos decir que se está iniciando un declive en la curva", ha manifestado.
+
+"A partir de la experiencia del año pasado y de la experiencia en otros países, esa reducción de una curva, incluso a niveles muy bajos, no impide que pueda haber una tercera ola", ha alertado.
+
+La variante india de la Covid: ni doble mutante, ni sabemos qué efecto tiene
+IGNACIO LÓPEZ-GOÑI, UNIVERSIDAD DE NAVARRANOTICIA08.05.2021 - 10:45H
+ Qué se sabe de la nueva variante india del coronavirus: ¿es más transmisible? ¿escapa a las vacunas?
+Los casos de la variante india de coronavirus en España ascienden a 16: ¿Dónde y cuándo se han detectado? Unas personas lloran por la muerte de un familiar a causa del coronavirus, en el hospital de Ahmedabad (India).Unas personas lloran por la muerte de un familiar a causa del coronavirus, en el hospital de Ahmedabad (India).EFE
+
+La variante B.1.617 se detectó por primera vez en India en octubre del 2020, pero que se describiera por primera vez en ese país no significa que ese sea su origen. Hasta la fecha se ha detectado ya en 21 países. Está catalogada, de momento, como variante en investigación.
+
+Presenta 13 mutaciones que resultan en cambios de aminoácidos. Se ha descrito como un "doble mutante" para referirse a dos mutaciones concretas en la proteína S (la E484Q y la L452R), pero es un término que debería evitarse porque presenta muchas más mutaciones.
+
+De todas las mutaciones, las que preocupan son las que se encuentran en las posiciones 484, 452 y 681 de la proteína S. Las dos primeras se sitúan en la zona de unión al receptor (RBD), mientras que la tercera se localiza cerca del sitio de división de la furina de la proteína. Por eso se cree que podrían afectar a la interacción del virus con la célula.
+
+La mutación E484Q supone una sustitución del aminoácido glutámico -E- por la glutamina -Q- en la posición 484. Está en la misma posición que la mutación E484K descrita en las variantes B.1.351 (sudafricana) y P.1. (brasileña) y otras.
+La mutación L452R supone una sustitución del aminoácido leucina -L- por la arginina -R- en la posición 452. Es una mutación que también está presente en la variante B.1.429/427 de California.
+La mutación P681R supone la sustitución de una prolina -P- por una arginina -R- en la posición 681. En la variante B.1.1.7 (británica) también hay una mutación en esa posición, pero en este caso es P681H.
+Estas mutaciones en otras variantes se han relacionado, experimentalmente, con un aumento de la afinidad de la proteína del virus por el receptor ACE2 humano. Esto podría facilitar la entrada en la célula y aumentar la infectividad. También se ha sugerido que, en algunos casos, los anticuerpos del plasma de pacientes convalecientes tenían un menor poder neutralizante contra esta variantes, lo que sugiere que estas variantes del virus con estas mutaciones podrían escapar a los anticuerpos del sistema inmune.
+
+Esto, sin embargo, no quiere decir que necesariamente estas variantes vayan a escapar del control de las vacunas. En este momento no lo sabemos. Se necesitan más pruebas para comprender cómo puede afectar esta combinación de mutaciones en la biología de la variante B.1.617.
+
+Una variante con tres linajes
+Los últimos datos de secuenciación muestran que existen en realidad tres linajes de esta variante, denominados B.1.617.1, B.1.617.2, y B.1.617.3, con pequeñas diferencias y distinta distribución geográfica.
+
+En el mes de marzo, el Ministerio de Salud de la India publicó un informe en el que afirmaba que esta variante B.1.617 era predominante en la India, presente ya en un 60% de los aislamientos. Al mismo tiempo estamos viendo un aumento dramático de casos en ese país. ¿Es la nueva variante la causante de semejante explosión de Covid-19 en la India? De momento no lo sabemos.
+
+No sabemos cuántos aislamientos se están secuenciando ni si el ritmo de secuenciación ha aumentado. No podemos descartar que ahora se detecten más casos, sencillamente, porque se está secuenciando más. Como el número de secuencias disponibles es todavía bajo en relación con el número de casos en la India debemos ser muy cautelosos. Si tenemos por ejemplo 1.000 secuencias de los aislamiento indios en más de 4 millones de casos, lo que estamos viendo no es representativo.
+
+No sabemos si hay más casos porque la variante es más infectiva o si se detectan más casos de esa variante porque ha aumentado la transmisión por otras razones. India tiene más de 1.400 millones de habitantes: mucha gente, muy junta y moviéndose, lo mejor para la transmisión por aerosoles de un virus respiratorio. No parece que en India se hubieran implementado estrictas medidas de confinamiento, higiene, distanciamiento social y uso de mascarillas.
+
+Además, India solo ha vacunado al 2% de su población. El sistema de salud seguro que tiene grandes deficiencias estructurales. Y, aunque el virus puede infectar a cualquier persona, los sectores más desfavorecidos siempre son mucho más vulnerables.
+
+No obstante, debido al incremento de número de casos en India y que la variante B.1.617 es la predominante independientemente de que están circulando otras variantes más transmisibles, debemos estar vigilantes.
+
+Todo esto lo que demuestra además es que el problema de la pandemia es global y que lo que ocurra en un lugar tan alejado como India nos pude llegar a afectar directamente. Las vacunas deber llegan a todas partes. Y dos lecciones más: hay que secuenciar el mayor número de aislamientos y hay que vacunar a toda prisa.
+
+Ignacio López-Goñi, catedrático de Microbiología en la Universidad de Navarra.
+
+Una versión de este artículo fue publicada en el blog del autor, microBIO.
+
+Este artículo fue publicado originalmente en The Conversation. Lea el original.
+
+La crisis del coronavirus en la India agrieta la imagen de Modi
+ EL PAÍS Hace 18 horas
+Ana Maria Aldón explica el motivo por el que José Ortega Cano ha rechazado…
+Últimas noticias del coronavirus y del estado de alarma, en directo | Pedro…
+
+El primer ministro de la India, Narendra Modi, durante un mitin electoral en Calcuta, en marzo.© Bikas Das (AP) El primer ministro de la India, Narendra Modi, durante un mitin electoral en Calcuta, en marzo.
+La imagen política del primer ministro indio, Narendra Modi, está sufriendo un deterioro sin precedentes. Famoso por su capacidad de controlar el relato público, Modi y su partido nacionalista hindú, Bharatiya Janata (BJP), se enfrentan de pronto a una avalancha de críticas después de que hayan muerto miles de personas en la India por la falta de oxígeno y de camas de hospital en una virulenta segunda ola de la pandemia. Una mezca de exceso de confianza de las autoridades y una nueva variante del coronavirus más agresiva, que está causando 400.000 contagios diarios y cerca de 4.000 muertos, han provocado que se descontrole la covid-19 en el país. La frágil situación ha desatado una oleada de críticas que no ha gustado a Modi.
+
+El Ministerio de Asuntos Exteriores convocó la semana pasada una reunión de urgencia con los representantes de las embajadas indias en todo el mundo, y ordenó a sus diplomáticos que “presentaran una imagen apropiada” de los esfuerzos del Gobierno para combatir la pandemia. La medida respondía a la irritación causada por una serie de informaciones en la prensa internacional sobre la falta de preparación para la segunda ola de la pandemia y por los comentarios en contra de que Modi haya permitido celebrar actos multitudinarios como el fesival Holi, que marca el principio de la primavera, o las críticas a que haya hecho campaña en las elecciones locales de cuatro Estados en momentos de colapso del sistema sanitario.
+
+El ministerio incluso envió desmentidos oficiales a muchas publicaciones extranjeras. Aunque los mensajes no se referían específicamente a las acusaciones de incompetencia, el lenguaje era muy duro. En el caso del periódico The Australian, el ministerio le acusó de querer manchar la reputación de la India y calificó las informaciones publicadas de “sesgadas y malintencionadas”.
+
+Frentes abiertos
+El BJP y Modi están acostumbrados a las críticas. Ya antes de que comenzara la pandemia, el Gobierno tenía numerosos frentes abiertos, con centenares de miles de estudiantes, sindicalistas, agricultores, miembros de minorías y grupos de derechos humanos en protesta permanente contra sus políticas.
+
+La afluencia de asistentes a las manifestaciones ha ido en aumento desde las primeras protestas estudiantiles en 2016. El cenit se produjo en 2019, con las protestas paralelas de los campesinos —contra la propuesta de privatización del sector agrario— y de los musulmanes y grupos de derechos humanos, contra el plan de conceder la nacionalidad india exclusivamente a los refugiados que no fueran musulmanes.
+
+La sensación hasta ahora era de que toda esa agitación se producía dentro de una burbuja liberal y las protestas no amenazaban al poder de Modi. Su meteórico ascenso al poder en la última década se ha caracterizado por su capacidad de atraer a las masas, pero también por su talento para ganarse el apoyo de los medios y el aparato judicial, que son ahora los que más quebraderos de cabeza le están dando.
+
+Varios tribunales superiores de todo el país han censurado al Ejecutivo por no cumplir sus compromisos de suministrar vacunas, medicamentos, equipamiento y oxígeno a los gobiernos de los Estados. El Tribunal Superior de Delhi, rompiendo con la tradición de que el brazo judicial debe mantenerse alejado de las funciones del brazo ejecutivo, ordenó al Gobierno que suministrara 700 toneladas de oxígeno a los pacientes de covid en la región metropolitana de la capital. Cuando no obedeció, el tribunal dio un paso más e inició un proceso por desacato contra él.
+
+Elecciones en pandemia
+El Tribunal Superior de Madrás también criticó la decisión gubernamental de llevar a cabo elecciones en cuatro Estados en medio de una pandemia. Los jueces responsabilizaron diractamente a la Comisión Electoral por obedecer ciegamente al Gobierno y no imponer protocolos covid durante la campaña. La comisión y, por tanto, el Ejecutivo central de la que depende, “deben ser enjuiciados por asesinato”, consideró.
+
+Las observaciones de la justicia de Madrás acapararon la atención de medios nacionales e internacionales. El Gobierno, irritado por lo que consideró un insulto, pidió al Tribunal Supremo que se eliminaran esos comentarios. También intentó que los medios no informaran de la disputa legal.
+
+El Tribunal Supremo desestimó la solicitud y se limitó a reprender levemente a la instancia inferior, alegando que “la fórmula elegida quizá fue demasiado dura”. “No podemos pretender hoy que los medios de comunicación no informen sobre las discusiones que se producen en los tribunales”, indicaron los magistrados.
+
+Críticas y control
+En cuanto a los medios de comunicación, hasta hace poco, las noticias críticas con el Gobierno solo se encontraban en medios pequeños e independientes, generalmente digitales. Shiv Kumar, director de Pratidhvani, un portal de noticias en idioma canarés que tiene su sede en Bangalore, en el sur de India, dice: “Todos los grandes conglomerados de medios, tanto las televisiones como los periódicos, se han vuelto de pronto en contra de Modi. Hasta las publicaciones más de derechas, que hasta ahora ejercían de portavoces del Gobierno, se han vuelto en su contra”.
+
+La otra disputa se libra en las redes sociales. Por segunda semana, las etiquetas que piden la dimisión de Modi han vuelto a ser tendencia en la India, al mismo tiempo que la gente publica llamamientos desesperados para conseguir oxígeno y camas de hospital en plataformas como Twitter, Facebook y WhatsApp.
+
+El Gobierno de Modi cursó una petición oficial para que bloquearan el contenido de algunas cuentas críticas con su gestión, “en vista del uso indebido de las plataformas de redes sociales por parte de ciertos usuarios para difundir información falsa o engañosa”, indicó en un comunicado el Ministerio de Información Tecnológica. La semana pasada, cuando Facebook bloqueó temporalmente la etiqueta #ResignModi (Modi dimisión), se acusó al Gobierno de intentar reprimir la libertad de expresión, una reacción masiva que obligó a restablecerla.
+
+Fracaso electoral
+Por si el partido gobernante tuviera pocos problemas, ha obtenido unos resultados mediocres en las elecciones celebradas recientemente en varios Estados. La única victoria que logró fue la del Estado de Assam, pero perdió en Bengala Occidental, Tamil Nadu y Kerala.
+
+Es una continuación de la pauta de los tres últimos años, en los que el BJP ha perdido poder en varios Estados después de que Modi fuera la estrella de las campañas. En 2017, cuando estaba en el apogeo de su poder, el partido gobernaba en 19 de los 29 Estados indios. Hoy gobierna solo en 11.
+
+Futuro incierto
+Según la empresa estadounidense de datos Morning Consult, el índice de aprobación del primer ministro ha caído del 74% en marzo al 65% en mayo. La empresa, que examina la popularidad del líder indio desde 2019, dice que el porcentaje de gente que desaprueba su labor, en ese periodo, ha pasado del 20% al 29%.
+
+No obstante, los expertos no se ponen de acuerdo en qué significa la crisis actual para el futuro del BJP y Modi.
+
+Suraj Yengde, investigador de posdoctorado en la Kennedy School de Harvard, percibe una marea de indignación contra el primer ministro y su mano derecha, Amit Shah, en todos los sectores. Yegde, autor del libro Caste Matters, un éxito de ventas internacional que aborda la importancia fundamental de las castas en la vida india, dice: “Antes, las víctimas de sus políticas derechistas eran grupos marginados en la sociedad, como los musulmanes y los dalits [la casta de los intocables]. Pero los errores cometidos en la gestión de la covid han afectado a todos los indios” .
+
+Yengde dice que esta etapa de la carrera del primer ministro marca un punto de inflexión: “Su mayor problema se lo plantearán las voces discrepantes dentro de su propio partido, porque Shah y Modi han transformado por completo la organización de cuadros en un culto a la personalidad”. El analista tiene la sensación de que la oposición no cuenta todavía con ningún rostro creíble que sirva de alternativa al atractivo de Modi. “Sus rivales dentro del partido son más numerosos que nunca. Y ellos serán los arquitectos del hundimiento del primer ministro”.
+
+Aunque comparte la opinión de Yengde sobre el cambio de los sentimientos de la población, Deepa Kurup, economista y profesora en Oxford, es más cauta en sus predicciones. “No creo que la pandemia sea el único aspecto en el que ha fracasado este Gobierno”, dice. “La economía india estaba sufriendo una desaceleración ya antes de que estallara. El nuevo régimen fiscal, la desmonetización de la divisa, las leyes agrarias... La gente se opuso a estas medidas y se manifestaron millones de personas”.
+
+Kurup destaca que muchos analistas creían que Modi no iba a conseguir un segundo mandato en 2019 por sus fracasos económicos. También entonces Modi se enfrentó a la disidencia dentro de su propio partido y el dinero de las empresas para financiar a las formaciones de la oposición experimentó un aumento notable.
+
+“Pero entonces, justo antes de las elecciones, se produjeron las explosiones de Pulwama y las escaramuzas con Pakistán, que crearon una ola de sentimiento nacionalista que favoreció al BJP”. Dice que la hindutva (hinduismo político) y el nacionalismo son los cimientos del poder y la influencia del partido en el Gobierno. “Hoy en día, en la India, si se desata ese sentimiento, se olvida todo lo demás”.
+
+La veterana periodista y directora del portal The News Minute, Dhanya Rajendran, dice que las elecciones estatales y las nacionales son completamente distintas. “En las elecciones nacionales, no parece que haya todavía nadie capaz de desafiar a Modi. En las elecciones estatales la gente vota por cuestiones locales pero, en las nacionales, Modi sigue siendo el líder más popular porque la oposición está dividida y todavía no ha resuelto cómo sería el reparto de poder”.
+
+Politización de las castas
+Rahul Sonpimple, dirigente estudiantil en la Universidad Jawaharlal Nehry de Delhi, cree que, independientemente de lo que suceda en las próximas elecciones, Narendra Modi y Amit Shah han transformado el paisaje político de la India para siempre.
+
+Dice que el ascenso al poder del BJP se ha caracterizado por la politización de las comunidades más marginadas en la sociedad de castas de la India. “Los partidos supuestamente laicos o de izquierdas nunca han otorgado poder político a estos grupos marginados. Siempre han tenido unos dirigentes de casta superior que se creían la vanguardia de los pobres”.
+
+Lo que hizo el BJP, explica, fue acoger bajo su paraguas a esas comunidades que deseaban arrebatar el poder a las castas dirigentes, dentro de un astuto proyecto de ingeniería social. “Dieron a las castas inferiores una máquina de guerra y les invitaron a formar un ejército propio. Estas comunidades llevan siglos sin experimentar ninguna movilidad social ni política”.
+
+Sonpimple dice que la incapacidad de los partidos laicos y de izquierda para incluir las aspiraciones de las personas oprimidas por cuestión de casta, género e identidad está siendo su perdición. “Solo comprenden la política de clase”, dice. “No solo aquí, sino en todo el mundo. Pero, por desgracia, el mundo no se divide solo en ricos y pobres, capitalistas y trabajadores”.
+
+Según Sonpimple, que está haciendo su doctorado sobre las relaciones laborales y de casta, las ideologías socialistas o marxistas importadas por las élites educadas en Occidente han definido la política india desde la época de Gandhi y Nehru. “Modi no ofrece a las comunidades oprimidas la emancipación o la justicia social. Les ofrece una oportunidad perversa de enfrentarse a las castas superiores. Y esa es una idea que seduce a las comunidades de castas inferiores esclavizadas, que constituyen más del 70% de la población del país”, afirma.
+
+Conocer los hechos y acceder a información de calidad es más necesario que nunca. Sigue siendo parte de lo que ocurre a tu alrededor suscribiéndote a EL PAÍS
+
+Covid-19 India: ¿Qué está pasando y por qué hay alarma por los casos y muertes?
+Acumulan 412,432 nuevos casos y 3,980 muertes en las últimas 24 horas
+
+¿Cuántos casos y muertes hay en La India y cuál es el récord de...
+¿Cuántos casos y muertes hay en La India y cuál es el récord de contagios?Reuters
+REDACCIÓN MARCA CLARO
+Actualizado 07/05/2021 - 18:20 CDT
+Compartir en Facebook
+Compartir en Twitter
+Compartir en Whatsapp
+Enviar por email
+
+Mostrar comentarios
+Coronavirus. CDMX cambia a semáforo amarillo a partir del 10 de mayo
+¿Cómo vacunarme en Nueva York si voy de turista?
+A pesar de que en algunos países el Covid-19 va siendo controlado, en algunos otros se sigue sufriendo notablemente, tal es el caso de India, que en las últimas horas ha presentado un incremento de contagios y de muertes a causa de esta terrible enfermedad.
+
+Durante las pasadas 24 horas el pánico ha aumentado debido al alto grado de contagios entre sus habitantes, es por eso que atraviesan una crisis causada por el coronavirus, enfermedad que ha paralizado al mundo hace ya más de un año.
+
+¿Qué pasa en India y por qué hay alarma por el coronavirus?
+Durante los días anteriores, el país asiático ha entrado en alerta por el aumento de contagios y muertes por el Covid-19, en las últimas 24 horas ya registran 412,432 nuevos casos y 3,980 decesos, según cifras de la Universidad Johns Hopkins.
+
+¿Cuántos casos de covid-19 hay en India? Contagios y muertes
+India es el segundo país en el mundo más afectado por esta enfermedad, hasta el momento cuentan con 21,886,556 contagios desde que comenzó este virus. Además, cuentan con 238,265 muertes.
+
+¿Cuántas vacunas contra el coronavirus han aplicado en India?
+A pesar de que la India contaba con un programa de vacunación, en esta crisis a la que han entrado es precisamente a la falta de vacunas, pues en los últimos días el país no ha podido contar con las vacunas necesarias para aplicarlas en sus habitantes.
+
+Advierten de la propagación entre los sobrevivientes del covid-19 en la India de una infección fúngica mortal
+Publicado:
+9 may 2021 17:43 GMT
+220
+La mucormicosis, que tiene una tasa de mortalidad media del 54 %, se ha detectado ya en más de 100 personas en Guyarat y alrededor de 200 en Maharashtra. Los médicos la califican como una complicación poscovid que ataca al débil sistema inmunológico de los pacientes.
+Advierten de la propagación entre los sobrevivientes del covid-19 en la India de una infección fúngica mortal
+Una escuela convertida en hospital en Ahmedabad, India, el 5 de mayo de 2021.
+Sam Panthaky / AFP
+Un brote alarmante de mucormicosis detectado entre sobrevivientes de coronavirus hizo que las autoridades del estado de Guyarat, en el noroeste de la India, introdujeran salas separadas para pacientes con esta infección fúngica, informa el diario indio Business Today.
+
+Según se detalla, en todos los hospitales civiles de la entidad territorial se han habilitado salas especializadas. Asimismo, el Gobierno estatal compró 5.000 dosis del fármaco anfotericina-B, que se utiliza en el tratamiento de esta rara enfermedad.
+
+Las medidas se toman después de que el número de casos confirmados de mucormicosis superara los 100. De ellos, 40 se han detectado en la ciudad de Surat en los últimos 15 días.
+
+Paralelamente, otra brote de la infección se registra en el estado de Maharashtra, al sur de Guyarat, donde se han confirmado aproximadamente 200 casos, de los que ocho han sido fatales.
+
+La India reporta un brote de una infección fúngica mortal desencadenada por el covid-19
+La India reporta un brote de una infección fúngica mortal desencadenada por el covid-19
+Los médicos indios consideran la mucormicosis una complicación poscovid. Según el jefe de la Dirección de Educación e Investigación Médica de Maharashtra, Tatyarao Lahane, los pacientes en este estado "sobrevivieron a la infección por covid-19, pero la infección por hongos atacó su débil sistema inmunológico".
+
+Los síntomas de la mucormicosis varían desde un simple dolor de cabeza y congestión nasal hasta hinchazón facial unilateral, ceguera e incluso la muerte. En algunos casos es necesario extraer la nariz y la mandíbula de los pacientes para salvarles la vida. Conforme a los Centros Para el Control y Prevención de Enfermedades de EE.UU., la mortalidad a causa de la dolencia es de media de un 54 %.
+
+Los primeros casos de esta enfermedad entre los pacientes con covid-19 fueron reportados en diciembre en Guyarat y Nueva Delhi.
+
+Advierten de la propagación entre los sobrevivientes del covid-19 en la India de una infección fúngica mortal
+Publicado:
+9 may 2021 17:43 GMT
+220
+La mucormicosis, que tiene una tasa de mortalidad media del 54 %, se ha detectado ya en más de 100 personas en Guyarat y alrededor de 200 en Maharashtra. Los médicos la califican como una complicación poscovid que ataca al débil sistema inmunológico de los pacientes.
+Advierten de la propagación entre los sobrevivientes del covid-19 en la India de una infección fúngica mortal
+Una escuela convertida en hospital en Ahmedabad, India, el 5 de mayo de 2021.
+Sam Panthaky / AFP
+Un brote alarmante de mucormicosis detectado entre sobrevivientes de coronavirus hizo que las autoridades del estado de Guyarat, en el noroeste de la India, introdujeran salas separadas para pacientes con esta infección fúngica, informa el diario indio Business Today.
+
+Según se detalla, en todos los hospitales civiles de la entidad territorial se han habilitado salas especializadas. Asimismo, el Gobierno estatal compró 5.000 dosis del fármaco anfotericina-B, que se utiliza en el tratamiento de esta rara enfermedad.
+
+Las medidas se toman después de que el número de casos confirmados de mucormicosis superara los 100. De ellos, 40 se han detectado en la ciudad de Surat en los últimos 15 días.
+
+Paralelamente, otra brote de la infección se registra en el estado de Maharashtra, al sur de Guyarat, donde se han confirmado aproximadamente 200 casos, de los que ocho han sido fatales.
+
+La India reporta un brote de una infección fúngica mortal desencadenada por el covid-19
+La India reporta un brote de una infección fúngica mortal desencadenada por el covid-19
+Los médicos indios consideran la mucormicosis una complicación poscovid. Según el jefe de la Dirección de Educación e Investigación Médica de Maharashtra, Tatyarao Lahane, los pacientes en este estado "sobrevivieron a la infección por covid-19, pero la infección por hongos atacó su débil sistema inmunológico".
+
+Los síntomas de la mucormicosis varían desde un simple dolor de cabeza y congestión nasal hasta hinchazón facial unilateral, ceguera e incluso la muerte. En algunos casos es necesario extraer la nariz y la mandíbula de los pacientes para salvarles la vida. Conforme a los Centros Para el Control y Prevención de Enfermedades de EE.UU., la mortalidad a causa de la dolencia es de media de un 54 %.
+
+Los primeros casos de esta enfermedad entre los pacientes con covid-19 fueron reportados en diciembre en Guyarat y Nueva Delhi.
+
+India registra un nuevo máximo de 414.188 casos de coronavirus en 24 horas
+La virulenta segunda ola está provocando un colapso sanitario y escasez de oxígeno
+Un hospital improvisado en una sala de banquetes.
+Un hospital improvisado en una sala de banquetes. / DPA vía Europa Press (DPA vía Europa Press)
+
+Compartir en facebook
+Compartir en twitter
+Compartir en linkedin
+Comentarios
+Imprimir
+India
+Coronavirus Covid-19
+Asia meridional
+Pandemia
++EFENew Delhi07/05/2021 - 08:03 h. CEST
+La India continúa rompiendo sus propios récords de infecciones por coronavirus y este viernes registró 414.188 casos en solo 24 horas, además de rozar las 4.000 muertes diarias, en medio de una virulenta segunda ola que ha provocado un colapso sanitario y escasez de oxígeno.
+
+El número de contagios desde el inicio de la pandemia en este país de unos 1.350 millones de habitantes asciende ya a 21,4 millones, según los últimos datos del Ministerio de Salud indio, haciendo de la India el segundo país más afectado del mundo solo por detrás de Estados Unidos (32,6 según la Universidad Johns Hopkins).
+
+La India registró además 3.915 muertes por la covid-19, una cifra algo menor el récord registrado ayer y que eleva el número total de fallecimientos a 234.083.
+
+MÁS INFORMACIÓN
+
+India marca nuevos máximos con más de 412.000 casos y casi 4.000 muertos diarios por coronavirus
+Un virólogo advierte sobre las posibles consecuencias de la variante india de COVID: "Es para estar alerta"
+La OMS advierte tras los repuntes de casos de coronavirus en India y Brasil: "No hay que bajar la guardia"
+El programa de vacunación abierto el pasado sábado a toda la población mayor de 18 años es visto como la principal esperanza para salir de esta crisis, en medio de una virulenta segunda ola y mientras las autoridades sanitarias han advertido en los últimos días que una tercera ola del virus es inevitable.
+
+El país ha administrado en las últimas 24 horas 2,3 millones de vacunas, un número al alza tras verse ralentizado por la falta de dosis en varios estados. El país ha administrado 164 millones de inyecciones desde que arrancó el "programa de vacunación más grande del mundo" el pasado enero.
+
+Sin embargo, hasta la fecha poco más de un 2 % de la población india ha sido inoculada por completo con una de las fórmulas aprobadas en el país, Covishield de AstraZeneca, que fabrica el Instituto Serum de la India (SII), o Covaxin, del laboratorio indio Bharat Biotech; a lo que se suma la importada Sputnik V rusa.
+
+La segunda ola de la pandemia ha puesto al límite el sistema de salud indio, con escasez de oxígeno y camas en ciudades como Nueva Delhi.
+
+Este alza de casos ha sido atribuida en parte a una relajación de las medidas contra el coronavirus por la población y a la organización de eventos multitudinarios, como enormes mítines electorales o el festival religioso Kumbh Mela.
+
+El Gobierno indio ha reconocido, sin embargo, que el espectacular aumento de casos en el último mes y medio en numerosos estados del país muestra una "correlación" con la mayor presencia de la variante india "doble mutante" B.1.617.
+
+Coronavirus | India India recibirá ayuda médica de más de 40 países tras superar el umbral de los 18 millones de casos de COVID-19
+El país necesita bombonas de oxígeno, respiradores y medicamentos; la OMS pide a Europa que ayude
+Coronavirus: última hora en directo | Mapa de España | Evolución de la curva | Hospitales y UCI
+Vacunas en España | Guía de restricciones | Mapa mundial
+29.04.2021 | 20:01 horas PorRTVE.es / AGENCIASImagen de un crematorio en la IndiaImagen de un crematorio en la India EFE
+4 min.
+El Gobierno indio ha informado de que en los próximos días recibirá bombonas de oxígeno, respiradores y medicamentos de más de 40 países para ayudar a hacer frente a la crisis de COVID-19 que vive el país, con cifras récord y un colapso sanitario.
+
+Mapa del coronavirus en el mundo: casos, muertes y los últimos datos de su evolución
+Mapa del coronavirus en el mundo: casos, muertes y los últimos datos de su evolución
+India ha superado los 18 millones de contagios, con una cifra nunca vista a nivel mundial: casi 380.000 en las últimas 24 horas. El país suma 3.600 muertes en un día y acumula más de 200.000, situándose el primero de Asia (más del doble que el segundo, Irán, con poco más de 70.000) y cuarto del mundo en número de fallecidos. India supera los 200.000 muertos por coronavirus mientras llega la ayuda internacionalreproducir video01.18 minIndia supera los 200.000 muertos por coronavirus mientras llega la ayuda internacional
+La rápida transmisión del virus en la India se ha producido en cuestión de semanas: el pasado mes de febrero, el país registraba menos de 10.000 casos diarios, un mínimo histórico que hacía pensar que lo peor de la pandemia ya había pasado.
+
+El secretario de Relaciones Exteriores, Harsh Shringla, ha anunciado en una rueda de prensa que espera remesas de productos farmacéuticos, toneladas de oxígeno líquido y equipos generadores de oxígeno procedentes de los países que "se comprometieron a proporcionar muchos de los artículos que necesitamos con mayor urgencia".
+
+Ha subrayado que en estos momentos se está priorizando la distribución del oxígeno líquido, ante la escasez que el auge de casos ha causado en esta nación de más de 1.350 millones de habitantes.
+
+India bate récords de muertos y contagiados y sufre un colapso sanitarioreproducir video01.25 minVídeo: India bate récords de muertos y contagiados y sufre un colapso sanitario
+"También hemos visto la necesidad de (distribuir) cualquier equipo que produzca oxígeno, como generadores, concentradores, cisternas criogénicas, equipos de transporte", ha agregado.
+
+El secretario ha notificado que está prevista la instalación de cerca de 550 plantas generadoras de oxígeno que vendrán de diferentes partes del mundo para poder suplir la demanda actual.
+
+En India "ahora mismo no hay sanidad, ni privada ni pública"reproducir video08.15 minEn India "ahora mismo no hay sanidad, ni privada ni pública"
+Además, "buscamos más de 4.000 concentradores de oxígeno que son esenciales (...), más de 10.000 cilindros de oxígeno, que también escasean, y 17 cisternas criogénicas de oxígeno, algunas de las cuales ya han llegado", ha apostillado durante su intervención.
+
+Pese a que el país es productor de medicamentos como Remdesivir o Tocilizumab, los hospitales precisan con urgencia más dosis de ambos antivirales para tratar a los pacientes más severos con coronavirus.
+
+Por ello, "estamos buscando adquirir 400.000 dosis de Remdesivir de Egipto y también hacer esfuerzos para obtenerlo de los Emiratos Árabes Unidos, Bangladesh y Uzbekistán", ha apuntado.
+
+Asimismo, la compañía que ha desarrollado el antiviral Remdesivir, Gilead, facilitará al Gobierno de la India 450.000 dosis, y otras 300.000 de Favipiravir llegarán procedentes de Rusia.
+
+La India centra ahora todas sus esperanzas en su ambiciosa campaña de vacunación para acabar con esta crisis. Hasta el momento, se han administrado más de 150 millones de dosis desde que comenzó la campaña en enero.
+
+¿Qué se sabe de la variante india del coronavirus?
+¿Qué se sabe de la variante india del coronavirus?
+SAMUEL A. PILAR
+Pese a que el ritmo no es el imaginado en los poco más de 100 días de campaña, se espera que en los próximos días los números se agilicen después de autorizar la vacunación a todo grupo de población mayor de 18 años a partir del 1 de mayo.
+
+Cierre de fronteras
+Las autoridades estadounidenses han pedido a sus ciudadanos que abandonen la India lo antes posible, una advertencia que se suma a la emitida por otras naciones como España.
+
+
+
+El mensaje se produce después de que varios ciudadanos estadounidenses informasen de que se les negó la admisión en los hospitales de algunas ciudades debido a la falta de espacio.
+
+"Según se informa, la infraestructura para pruebas de COVID-19 está restringida en muchos lugares. Los hospitales informan de escasez de suministros, oxígeno y camas para pacientes", ha señalado el departamento de Estado de EE.UU. en un comunicado.
+
+reproducir video00.49 minEl 10% de los viajeros de un vuelo que llega a Roma desde la India da positivo por coronavirus
+La OMS pide a los países europeos que ayuden con "todo lo que puedan"
+El director de la Organización Mundial de la Salud (OMS) para Europa, Hans Henri P. Kluge, ha pedido a los países europeos que ayuden a India, que está viviendo su peor momento en la pandemia de COVID-19, con "todo lo que puedan".
+
+"Nuestros pensamientos y oraciones están, en particular, con el pueblo de la India y su lucha contra la horrible oleada de COVID-19. Hago un llamamiento a los países de la Región Europea de la OMS para que hagan todo lo que puedan, como sea, para apoyar a la India, y agradezco a los que ya han prestado ayuda", ha señalado Kluge en rueda de prensa.
+
+En este sentido, el presidente del Gobierno español, Pedro Sánchez, ha anunciado que en los próximos días efectuará un envío de respiradores y concentradores de oxígeno, como parte de su compromiso por aliviar a la nación de los severos efectos severos del coronavirus.
+
+La Casa Blanca ha destacado en un comunicado que "Estados Unidos envió esta mañana una remesa con suministros médicos por valor de más de 100 millones de dólares para ayudar a combatir el aumento de casos en el país".
+
+"Así como India envió ayuda a los Estados Unidos cuando nuestros hospitales sufrieron tensiones al comienzo de la pandemia, Estados Unidos está decidido a ayudar a la India en su momento de necesidad", ha concluido.
+
+India supera los 20 millones de casos de coronavirus
+Durante 13 días seguidos el país ha estado detectando más de 300.000 casos diarios
+India recibe suministros médicos de Alemania, Italia y Reino Unido
+ABC
+MADRID Actualizado:04/05/2021 09:55h
+GUARDAR
+NOTICIAS RELACIONADAS
+La OMS advierte de que lo que ocurre en India y Brasil puede pasar en otros lugares si no se toman medidas
+India recibe suministros médicos de Alemania, Italia y Reino Unido
+Darias insiste en que hay «herramientas e instrumentos suficientes» contra el Covid más allá del estado de alarma
+India ha superado este martes los 20 millones de casos de Covid-19, en concreto registra 20.282.833, tras notificar en las últimas 24 horas 357.229 nuevos contagios, según han informado las autoridades sanitarias. En la última jornada también se han lamentado 3.449 nuevos decesos por la enfermedad, cifra que sitúa al total de víctimas mortales del coronavirus en 222.408.
+
+El Ministerio de Salud también ha confirmado que, a día de hoy, son 3.447.133 los casos activos del virus, mientras que 16.613.292 son los pacientes que se han recuperado del Covid-19, 320.289 en el último día, informa EP.
+
+Durante 13 días seguidos, India ha estado detectando más de 300.000 casos diarios, superando casi diariamente récord de positivos y muertes en tan solo 24 horas. Pese a esta crítica situación, que ha puesto en alerta a toda la comunidad internacional, el primer ministro indio, Narendra Modi, se resiste a aplicar un confinamiento a nivel nacional.
+
+El confinamiento como «última opción»
+De hecho, hace dos semanas pidió a los estados que valoraran un posible confinamiento como «última opción», aunque el recrudecimiento de la crisis sanitaria ha llevado a gran parte de la sociedad, entre ellos aliados políticos de Modi o líderes empresariales, a instar a adoptar medidas más restrictivas.
+
+
+En referencia a la comunidad internacional, numerosos países han enviado ayuda hasta el país asiático, mientras que «el equipo de Naciones Unidas está apoyando a las autoridades para hacer frente a la pandemia de Covid-19, incluso abordando la desinformación», ha informado el portavoz de la ONU, Stéphane Dujarric.
+
+Este equipo está trabajando en la promoción de la campaña 'Verified', impulsada por el secretario general, António Guterres para «ofrecer información fiable y consejos para salvar vidas». También el Fondo de Naciones Unidas para la Infancia (UNICEF) sigue ayudando con la estrategia nacional de vacunación.
+
+También están trabajando con emisoras de radio comunitarias en todo el país para llegar a más de 17 millones de personas en las zonas rurales sobre cómo prevenir la propagación del Covid-19 y también sobre la importancia de las vacunas.
+
+Por su parte, el presidente estadounidense, Joe Biden, ha anunciado que enviará cuatro grandes aviones de carga llenos de «suministros críticos» para ayudar a las autoridades a afrontar la grave situación.
+
+Los casos de la variante india de coronavirus en España ascienden a 16: ¿Dónde y cuándo se han detectado?
+ redaccion@20minutos.es (20minutos) hace 2 días
+Ana Maria Aldón explica el motivo por el que José Ortega Cano ha rechazado…
+Últimas noticias del coronavirus y del estado de alarma, en directo | Pedro…
+
+Un barco en cuarentena en Bilbao por dos posibles contagios por Covid© Proporcionado por 20 minutos Un barco en cuarentena en Bilbao por dos posibles contagios por Covid
+La preocupante situación que atraviesa India, con en torno a 400.000 nuevos positivos diarios, ha puesto en alerta a los países de todo el mundo que temen que esta nueva cepa de coronavirus, B.1.617, pueda dificultar la lucha contra la pandemia.
+
+Ya son varios los países que la han detectado en sus territorios. Europa, que avanza en los planes de vacunación, se ha blindado para evitar nuevos casos. Aunque no se ha demostrado de momento que pueda ser más letal o más contagiosa, el desbordamiento que India está sufriendo preocupa.
+
+En España se detectó el primer caso a finales de abril, y desde entonces se han notificado ya un total de 16 casos en todo el territorio nacional. El protocolo de actuación está siendo el mismo en todas las comunidades: aislar a los pacientes sospechosos de estar contagiados con esta cepa y secuenciar las muestras para confirmarlo o descartarlo.
+
+La primera alarma saltó el 29 de abril, cuando el Servizo Galego de Saúde (Sergas) decidió aislar en Vigo (Galicia) a seis marineros a bordo del 'Prometheus Leader', un buque con bandera de Singapur, que habían dado positivo. Secuenciaron las muestras y finalmente confirmaron que, efectivamente, tres de ellos estaban contagiados con la variante india.
+
+El resto de la tripulación -formada en total por 22 personas-, se encuentra en seguimiento médico y, desde entonces, se han ido detectando nuevos casos y ha ascendido a ocho el brote de esta variante en el barco. Además, uno de ellos se encuentra ingresado en la UCI desde el martes, mientras que el resto está en planta y estables.
+
+El siguiente se detectó en Extremadura y se trata de una persona que provenía de otra comunidad autónoma y que llegó a la extremeña entre el 19 y el 20 de abril. Según informó el 2 de mayo el Ejecutivo regional, el positivo asistió a un curso de un máster internacional en Madrid, que estaba programado entre el 12 y el 18 de abril, pero que tuvo que ser suspendido tras registrarse un infectado el día 16. Este, que sufrió una enfermedad prácticamente asintomática, volvió a Extremadura tras haber resultado negativo en una PCR y explicó que había estado en contacto con un ciudadano de origen indio durante la actividad formativa.
+
+Dos días después, Cataluña informaba de la detección de dos casos de la variante india en la comunidad. Según concretó entonces el secretario de Salud Pública de la Generalitat, Josep Maria Argimon, lograron localizar el antecedente de uno de los casos, pero todavía están haciendo un seguimiento para tratar de identificar el origen del contagio del segundo.
+
+También en Galicia, el presidente de la Xunta, Alberto Núñez Feijóo informó este jueves de un nuevo caso de la variante india, al margen de los ocho del 'Prometheus Leader', lo que asciende a nueve el total de personas infectadas con esta variante en la región. En este caso, se trata de una mujer de 66 años que llegó también a la ciudad olívica procedente de Nueva Delhi y vía Barajas. Para llegar, habría tomado varios aviones antes de aterrizar en Barajas para embarcarse en un nuevo vuelo hacia Vigo. El Sergas concretó que ya habían identificado a cuatro de sus contactos, en seguimiento y aislados mientras continúan con las labores de rastreo para identificar posibles nuevos casos.
+
+Ese mismo día Canarias comunicó el primer caso de la cepa india en su territorio. Se trata de un marinero que permanece ingresado en el Hospital de Gran Canaria Dr. Negrín y que sería portador de la variante B.1.1.617.2, o más conocida como la cepa india subvariante 2. La Consejería informó de que el paciente es un hombre joven que fue trasladado desde un buque de alta mar al mostrar síntomas de Covid y que su situación es estable. Mientras tanto, la tripulación permanece en cuarentena y dos de ellos han dado positivo en Covid-19, por lo que se les ha aislado en un alojamiento aparte.
+
+Los últimos se detectaron este mismo viernes en Bilbao (País Vasco), donde Osakidetza ha confirmado, a través de la técnica de secuenciación, un total de cuatro casos de la variante india, correspondientes a tripulantes del barco atracado en el Puerto de Bilbao el pasado domingo, con varios casos positivos en coronavirus. Todos permanecen "correctamente aislados", y el resto de la tripulación guarda cuarentena en el propio barco.
+
+Galicia detecta la variante india del coronavirus en un hombre sin relación con los casos ya confirmados en la comunidad
+ elDiario.es Galicia hace 1 día
+Ana Maria Aldón explica el motivo por el que José Ortega Cano ha rechazado…
+Últimas noticias del coronavirus y del estado de alarma, en directo | Pedro…
+
+Galicia detecta la variante india del coronavirus en un hombre sin relación con los casos ya confirmados en la comunidad© Proporcionado por eldiario.es Galicia detecta la variante india del coronavirus en un hombre sin relación con los casos ya confirmados en la comunidad
+El Servizo Galego de Saúde (Sergas) ha detectado la variante india del coronavirus en un hombre que está ingresado en el hospital Vithas de Vigo y que no tiene relación con los casos ya confirmados en Galicia: los de los marineros del buque 'Prometheus Leader' y el de una mujer que viajó recientemente desde Nueva Delhi a esta ciudad gallega. Otro barco, el 'Emerald Leader' está también confinado en el puerto y se están secuenciando las muestras de varios tripulantes que han dado positivo por COVID-19.
+
+El último caso confirmado es el de un hombre de 69 años que está ingresado en este centro médico privado por varias patologías. Al detectarle síntomas de la COVID-19, las autoridades sanitarias verificaron con una PCR que está contagiado y enviaron una muestra para su análisis en el laboratorio de microbiología. Tras confirmarse que es la variante india, el hospital está haciendo un cribado entre el personal y el resto de pacientes de la misma planta. Han sido localizadas, además, cuatro personas con las que el hombre tuvo contacto.
+
+Este es el segundo paciente con variante india sin relación con el brote localizado en el buque 'Prometheus Leader'. Cinco de los marineros afectados se encuentran ingresados también el Vithas, uno de ellos en la UCI. Por el momento, no se ha determinado el origen del contagio de este hombre que no está relacionado con el barco.
+
+Emirates establece puente aéreo humanitario con India para combatir la covid
+ Agencia EFE Hace 23 horas
+Ana Maria Aldón explica el motivo por el que José Ortega Cano ha rechazado…
+Últimas noticias del coronavirus y del estado de alarma, en directo | Pedro…
+
+© Proporcionado por Agencia EFE
+Dubái, 9 may (EFE).- La aerolínea insignia de Dubái, Emirates, dijo este domingo que ha establecido un puente aéreo humanitario entre la ciudad emiratí y la India para transportar suministros médicos y humanitarios urgentes para ayudar a controlar el coronavirus en el país asiático, que registra 400.000 casos diarios.
+
+En un comunicado, Emirates dijo que el primer envío a través de este puente aéreo humanitario ha sido de más de 12 toneladas de "carpas multipropósito" proporcionados por la Organización Mundial de la Salud (OMS) con destino a Delhi.
+
+La aerolínea remarcó que este puente aéreo es "gratuito" pero "según disponibilidad" en todos sus vuelos a nueve ciudades de la India. Emirates vuela unas 95 veces por semana a estas ciudades indias.
+
+© Proporcionado por Agencia EFE
+Emirates recordó que a través de SkyCargo ya ha estado transportando medicamentos y equipos sanitarios en vuelos de carga regulares y chárter a la India. Esta nueva iniciativa, sin embargo, lleva el apoyo de la aerolínea a la India al "siguiente nivel".
+
+Esto se produce en un momento en el que la India ha registrado más de 400.000 casos de coronavirus por cuarto día consecutivo, además de notificar por segundo día más de 4.000 muertes diarias. El número total de contagios desde el inicio de la pandemia asciende ya a más de 22 millones.
+
+Emiratos Árabes Unidos, uno de los principales cauces de conexión entre Oriente y Occidente, ha sido también uno de los centros logísticos más importantes de todo el mundo desde el inicio de la pandemia para suministrar todo tipo de material en la lucha contra la covid-19.
+
+De hecho, hasta ahora, la aerolínea Emirates ha transportado cerca de 60 millones de vacunas contra el coronavirus, lo que representa alrededor de 1 de cada 20 dosis administradas en todo el mundo.
+
+La esposa del varón de 69 años ingresado con la variante india en el Hospital Vithas Vigo da positivo en covid
+20M EPNOTICIA10.05.2021 - 14:35H
+ La esposa del varón contagiado con la variante india de covid que permanecía ingresado por diversas patologías en el Hospital Vithas (antiguo Fátima), en Vigo, -y que no tiene relación con ninguno de los dos buques confinados en el puerto- también ha dado positivo en las pruebas de SARS-CoV-2.
+Así lo ha comunicado este lunes el gerente del Área Sanitaria de Vigo, Javier Puente, durante una visita a un cribado a trabajadores de pesca en la ciudad olívica, donde ha remarcado que se está llevando a cabo un estudio epidemiológico para tratar de determinar "dónde pudo ocurrir el contagio" del hombre.
+
+Por otro lado, en respuesta a preguntas de los periodistas, ha confirmado que la mujer de 66 años que llegó a la ciudad olívica procedente de Nueva Delhi vía Barajas también contagiada con la cepa india se encuentra aislada.
+
+BUQUES
+
+
+En cuanto a los buques confinados en el Puerto de Vigo, Puente ha ratificado que actualmente hay ocho personas positivas en cada uno. De esos 16 marineros, un total de seis están ingresados en el Hospital Vithas, todos con "situación más o menos estable". En lo relativo al segundo buque, el 'Emerald Leader', ha trasladado que prevén que sea el miércoles cuando se confirme la variante de covid del brote.
+
+El Grupo NYK, propietaria de los dos buques confinados, ha indicado en un comunicado que a primera hora de la mañana de este lunes un paramédico subió a bordo del 'Prometheus Leader' para realizar pruebas PCR a todos los miembros de la tripulación que se encuentran a bordo -incluidos los tres marineros que dieron positivo hace unos días-, cuyos resultados se esperan en próximas horas.
+
+En lo que respecta al 'Emerald Leader', ha manifestado que el marinero positivo en covid ingresado en el hospital "está estable y se recupera bien". Así, este mismo lunes se le realizará un TAC, tras lo que los médicos decidirán si puede volver al barco.
+
+COLABORACIÓN DEL PUERTO
+
+El presidente de la Autoridad Portuaria de Vigo, Jesús Vázquez Almuíña, ha manifestado que el Puerto "está colaborando" con Sanidad Exterior, el Ministerio de Sanidad y la Consellería de Sanidade, "poniendo a disposición las instalaciones que necesiten para el aislamiento" de los buques confirmados, ya sea en fondeo o atracados.
+
+Además, ha manifestado que han puesto "todos los servicios del Puerto a disposición" tanto de la naviera como de los marineros afectados. En cuanto a la posibilidad de que la armadora pueda pedir un cambio de tripulación, Almuíña ha indicado que darán "facilidades", si bien la solicitud tiene que tramitarla la naviera y el control sanitario realizarlo Sanidad Exterior.
+
+India baja de los 400.000 nuevos casos de coronavirus y registra más de 3.700 muertes en 24 horas
+Con los positivos de esta última jornada, el número de infecciones en el país asiático ascendió a los 22,6 millones, manteniéndose como la segunda nación más afectada por la pandemia solo por detrás de Estados Unidos
+Una paciente de coronavirus respira con la ayuda de oxígeno provisto por un Gurudwara, un lugar de culto para los sijs, en una carpa instalada a lo largo de la carretera en las afueras de Nueva Delhi, India (Foto de Arun SANKAR). / AFP).
+Una paciente de coronavirus respira con la ayuda de oxígeno provisto por un Gurudwara, un lugar de culto para los sijs, en una carpa instalada a lo largo de la carretera en las afueras de Nueva Delhi, India (Foto de Arun SANKAR). / AFP).
+Agencia EFE
+Agencia EFE
+Agencia de noticias
+
+Nueva Delhi, 10 de mayo de 2021
+Actualizado el 10/05/2021 07:38 a.m.
+La India registró este lunes un total de 366.161 nuevos casos por coronavirus y más de 3.700 fallecidos en las últimas 24 horas, una disminución en las cifras tras varias jornadas seguidas notificando más de 400.000 contagios y una tasa de muertes superior a 4.000.
+
+Con los positivos de esta última jornada, el número de infecciones en el país asiático ascendió a los 22,6 millones, manteniéndose como la segunda nación más afectada por la pandemia solo por detrás de Estados Unidos, según informó el Ministerio de Salud indio.
+
+
+
+MIRA: Todo lo que debes saber sobre las noticias en la India
+
+El número de fallecidos bajó de los 4.000 después de dos días seguidos cruzando esta barrera y reportó 3.754 nuevas muertes, con un total que se sitúa en las 246.116 desde el inicio de la pandemia, un cómputo global solo superado por Estados Unidos y Brasil.
+
+MIRA: Por qué debería preocuparnos la variante india “doble mutante” del coronavirus
+El estado occidental de Maharashtra, el más afectado por la pandemia en el país, sigue sin notificar una bajada significativa en las cifras: con más de 48.000 casos y 572 nuevas muertes en un solo día.
+
+India: se dispara el precio de los pasajes de avión por el éxodo de los ricos que escapan del coronavirus
+“Dondequiera que mires hay ambulancias y cadáveres”: cómo la segunda ola está devastando al estado más poblado de la India
+Cementerios y crematorios de la India están desbordados por segunda ola del coronavirus
+Por su parte, los datos de Nueva Delhi continúa a la baja, y se registraron un total de 13.336 positivos y 273 fallecimientos en las últimas 24 horas.
+
+La capital inicia hoy la cuarta semana consecutiva de confinamiento de sus más de 20 millones de habitantes para romper la cadena de contagios.
+
+Esta bajada en el número de contagios y muertes se produce en medio de una virulenta segunda ola que mantiene a la India en el epicentro global de una pandemia que ha colapsado el sistema sanitario.
+
+FALTA DE OXÍGENO
+En medio de una crisis de oxígeno, el país sigue recibiendo ayuda internacional para tratar de aliviar unos datos que se han acostumbrado a batir récords diarios.
+
+El Gobierno anunció haber recibido hasta ayer 6.608 concentradores de oxígeno, 3.856 cilindros de oxígeno, 14 plantas generadoras de oxígeno, y 4.330 ventiladores y otros aparatos de respiración asistida, mientras se espera la llegada hoy de un nuevo cargamento procedente de España con más ayuda.
+
+En la última jornada, aterrizaron unos 1.300 concentradores de oxígeno y 400 respiradores procedentes de Israel, además de recibir cilindros de oxígeno de Singapur y otra remesa de concentradores de Mauritania.
+
+La campaña de vacunación, vista como la esperanza para erradicar la pandemia en el país, sufrió una de las bajadas más fuertes tras inocular solo alrededor de 689.000 dosis, un ritmo bastante más lento de lo habitual teniendo en cuenta que la vacunación se abrió el pasado 1 de mayo a toda la población adulta.
+
+Desde el inicio de esta campaña el pasado mes de enero se han administrado un total de 170 millones de sueros. Sin embargo, estas cifras se encuentran lejos de la meta inicial de inocular a 300 millones de personas para julio.
+
+La India administra las tres vacunas disponibles: Covishield de AstraZeneca, que fabrica el Instituto Serum de la India (SII); Covaxin, del laboratorio indio Bharat Biotech; y la rusa Sputnik V.
+
+Educo advierte: la infancia es uno de los colectivos que más estrés está sufriendo por la Covid-19 en India
+La organización trabaja en India en la prevención de los contagios y la distribución de materiales de primera necesidad
+ninos-clase-4.jpg
+Ecoaula.es
+Madrid 6/05/2021 - 13:26
+La ONG Educo advierte que la infancia es uno de los colectivos que más estrés está sufriendo, especialmente a raíz de la segunda ola de coronavirus en India, mucho más virulenta y contagiosa que la anterior. "Desde el inicio de la pandemia, hemos visto en el terreno cómo el bienestar emocional de los niños y niñas ha ido empeorando. Se sienten tristes, indefensos, irritables y están experimentando episodios de ansiedad", explica Pilar Orenes, directora general de Educo.
+
+La relajación de las medidas contra la COVID-19, la aparición de la nueva variante del virus y la densidad de población han disparado los datos, incluso los que se refieren a la infancia. "En el estado de Maharastra, donde trabajamos, la situación es muy preocupante. Además del aumento de los contagios y de la tasa de mortalidad, hemos detectado que ha crecido la preocupación y el miedo de algunas personas. Muchas de ellas, a pesar de tener síntomas, no quieren hacerse la prueba porque temen ser ingresados en unos hospitales desbordados y sin medios si sale positivo", afirma la directora general de la entidad.
+
+Desde el inicio de la pandemia, la oficina de Educo en India ha centrado su trabajo en promover las medidas de aseo entre las familias y distribuir kits de higiene y provisión de alimentos, entre otros. En esta segunda ola, la entidad pone énfasis en el bienestar de los niños y las niñas, su salud mental y su acompañamiento psicosocial. "Desde Educo, consideramos que algunas de las acciones más urgentes son velar por el bienestar de los niños y niñas de nuestros proyectos, darles apoyo psicosocial y seguir distribuyendo materiales de primera necesidad. También es muy importante facilitarles materiales y brindarles todo el apoyo educativo para que sigan aprendiendo, ya que en el estado de Maharastra prácticamente todas las escuelas llevan cerradas un año", expone Maria Civit, responsable del área de Reducción del Riesgo de Desastres.
+
+Asimismo, y como parte de la Alianza ChildFund, Educo está colaborando con los departamentos gubernamentales de salud a nivel local para implementar el programa de vacunación a gran escala. La organización considera fundamental llevar a cabo campañas para combatir la desinformación y los rumores alrededor de la efectividad de las vacunas y que las personas que participan en sus proyectos dispongan de información correcta sobre la seguridad y los plazos de los procesos de vacunación
+
+Extremadura y Galicia detectan sus primeros casos de la variante india del covid
+ Agencias 02/05/2021
+Ana Maria Aldón explica el motivo por el que José Ortega Cano ha rechazado…
+Últimas noticias del coronavirus y del estado de alarma, en directo | Pedro…
+
+Foto: EFE.© EFE Foto: EFE.
+Una persona que asistió a un curso celebrado en Madrid ha sido identificada como el primer caso de la variante india del Covid-19 en Extremadura, una vez realizada la secuenciación de la infección. La Junta de Extremadura ha indicado este domingo en un comunicado que esta persona llegó entre los días 19-20 de abril a la región desde otra donde realizaba un máster internacional. La Consejería de Sanidad de la Comunidad de Madrid ha confirmado a Europa Press que el curso tuvo lugar en esta región.
+
+Según la información difundida por el Ejecutivo extremeño, la actividad formativa se celebraba entre los días 12 al 18 de abril y fue suspendida por la organización de la misma tras detectarse un positivo el pasado día 16. "Vamos a monitorizar a los asistentes al curso, a pesar de que la información nos ha llegado ayer día 1 de mayo por la noche y la mayoría de los asistentes son de fuera de España, incluido el caso índice y ya ha regresado a su país", ha informado un portavoz de la Consejería de Sanidad de la Comunidad de Madrid a Europa Press.
+
+© Proporcionado por El Confidencial
+De acuerdo a la información recabada por el Servicio Extremeño de Salud, esta persona comenzó con síntomas el pasado día 19 de abril y en el seguimiento clínico declaró que en la citada actividad formativa había estado en contacto con un ciudadano de origen indio. Por este motivo se le realizó la PCR el 20 de abril y dio positivo, permaneciendo aislado en el domicilio familiar "en todo momento", según indican desde el Ejecutivo regional en nota de prensa.
+
+Sus contactos estrechos han sido asintomáticos mientras él ha tenido síntomas leves y la PCR de control realizada el pasado 30 de abril fue negativa. Entretanto, se ha procedido a secuenciar la muestra obtenida el día 20 confirmándose este pasado sábado por parte del laboratorio de microbiología de Badajoz, que es el de referencia para realizar dicha secuenciación, que era de la variante india.
+
+© Proporcionado por El Confidencial
+Por su parte, Sanidade ha confirmado este sábado que tres de las cinco muestras de covid-19, pertenecientes a tripulantes del buque 'Prometheus Leader' (que permanece en cuarentena en el puerto de Vigo) se corresponden con la denominada variante india del virus. Según ha informado el Sergas, el Servicio de Microbiología del Hospital Álvaro Cunqueiro ha detectado la presencia de la variante india en 3 de las 5 muestras analizadas de tripulantes contagiados.
+
+Se trata de la variante B1.617, subvariante 2, que, según Sanidade, "es sensible a la vacuna". "Por lo tanto, en este momento, este brote está localizado y controlado", han señalado las mismas fuentes. El barco ro-ro 'Prometheus Leader', con bandera de Singapur, permanece atracado en el muelle de trasatlánticos del Puerto de Vigo desde principios de semana, después de que hubieran dado positivo por Covid 6 de sus 22 tripulantes.
+
+Las probabilidades de detectar un caso de la variante india en Madrid "son altas, porque siguen llegando viajeros procedentes a Barajas"
+
+El pasado viernes, el viceconsejero de Salud Pública y Plan Covid-19 de la Comunidad de Madrid, Antonio Zapatero, manifestó, en la rueda de prensa semanal sobre la situación epidemiológica y asistencial, su "gran preocupación" por la cepa india, pese a no haberse detectado ningún caso en la región. Zapatero advirtió de que, aunque no se conocen los efectos de la nueva variante, sí se sabe que dos de sus mutaciones confieren mayor riesgo en lo que hace referencia a transmisibilidad y a una posible menor actividad neutralizante de anticuerpos por vacunas y sueros de convalecientes.
+
+Asimismo, consideró que las probabilidades de detectar un caso de la variante india en Madrid "son altas, porque siguen llegando viajeros procedentes de la India al aeropuerto de Barajas", y criticó que "la cuarentena fijada por el Gobierno central tras una carta del consejero", Enrique Ruiz Escudero, en la que pedía restricciones para viajeros procedentes de India, "no entra en vigor hasta el sábado 1 de mayo".
+
+Confinada la delegación de la India en el G-7 tras dos positivos por covid-19
+El ministro indio de Exteriores anuncia que seguirán las reuniones de la cumbre de manera virtual
+Una joven pasa por delante de Lancaster House, sede de la cumbre del G-7 en Londres.
+Una joven pasa por delante de Lancaster House, sede de la cumbre del G-7 en Londres. /
+EFE
+2
+Se lee en
+minutos
+El Periódico
+Londres
+05 de mayo del 2021. 11:21
+0
+Comentarios
+Susto en la cumbre del G-7 que se celebra en Londres y a la que la India acudía como invitada. Toda la delegación del país asiático ha sido confinada después de que dos de sus miembros dieran positivo por coronavirus, según ha avanzado el periodista de la cadena Sky News Joe Pike, que asegura que el ministro de Asuntos Exteriores indio, Subrahmanyan Jaishankar no es uno de los dos positivos. Jaishankar fue fotografiado este martes junto al ministro del Interior británico Priti Patel.
+
+
+incineración de personas fallecidas por el coronavirus en un crematorio en Giddenahalli, India.
+VERTIGINOSA SEGUNDA OLA
+La India sufre un nuevo récord de muertes por el covid-19
+Ante esta situación, el ministro Jaishankar ha anunciado que asistirán de manera virtual a las reuniones de la cumbre del G-7. "Me enteré anoche de la posible exposición a casos positivos de covid", ha explicado el titular de Exteriores indio en un tuit. "Como medida de gran precaución y de consideración hacia los otros, he decidido que mi participación sea en modo virtual. Eso será también para las reuniones del G-7 previstas para este miércoles", ha dicho.
+
+Primer G-7 presencial en más de 2 años
+Thank you for watching
+
+La reunión de los ministros de Relaciones Exteriores del G-7, las siete democráticas más ricas del planeta, comenzaron este martes en Londres. Fue su primer encuentro físico en más de dos años. Sobre la mesa el reto de dar respuestas conjuntas a amenazas mundiales como China. Las situaciones en Rusia, Birmania, el Sahel o Siria figurarán también en la agenda de dos días de conversaciones organizadas por el Reino Unido, que este año preside del grupo, antes de la cumbre de jefes de Estado y de Gobierno prevista del 11 al 13 de junio en el suroeste de Inglaterra.
+
+Noticias relacionadas
+Cuatro claves para entender qué sabemos y qué no de la 'variante india' del covid
+La India roza los 20 millones de casos de coronavirus
+Tras una cena de bienvenida el lunes, centrada en los programas nucleares de Irán y Corea del Norte, los ministros iniciaron el martes contactos formales en Lancaster House, en el oeste de Londres, dándose la bienvenida con codazos amistosos. El G-7 dedicó la primera sesión a China, cuyo creciente peso militar y económico, y voluntad de ejercer su influencia fuera del país, preocupa cada vez más a las democracias occidentales. Los países del G-7 comparten en su mayoría la preocupación por China, pero con enfoques diferentes.
+
+La Asociación de Naciones del Sureste Asiático (Asean) participa como invitada en el encuentro junto a India, Australia, Corea del Sur, Sudáfrica y los representantes de la Unión Europea, entre ellos el jefe de su diplomacia, el español Josep Borrell.
+
+La India roza las 4.000 muertes en un día por coronavirus
+Las situaciones más difíciles se están viviendo en las zonas rurales donde la actuación sanitaria no tiene las mismas capacidades que en las grandes ciudades
+El oxígeno no es suficiente para hacer frente a todos los casos de infectados por covid que llegan a los hospitales
+Un operario limpia el suelo de la villa de los Juegos de la Comonwealth que ha sido reconvertida en un centro sanitario para la lucha contra el covid.
+Un operario limpia el suelo de la villa de los Juegos de la Comonwealth que ha sido reconvertida en un centro sanitario para la lucha contra el covid. /
+DPA VÍA EUROPA PRESS
+3
+Se lee en
+minutos
+El Periódico
+Barcelona
+06 de mayo del 2021. 11:20
+7
+Comentarios
+La India ha alcanzado el jueves un nuevo récord de covid con 3.980 muertes y 412.262 casos en un día. De esta forma, el país asiático ha superado los 21 millones de contagios desde que comenzó la pandemia y las 230.168 muertes. Así lo han anunciado las autoridades sanitarias del país que, además, han avisado a sus ciudadanos de que deben prepararse para "futuras olas". Los especialistas sanitarios ya han asegurado que lo peor está aún por llegar y que el pico pandémico podría no alcanzarse hasta dentro de unas semanas
+
+Los expertos médicos afirman que las cifras reales de India podrían ser entre cinco y diez veces superiores a las oficiales. Aunque los mayores datos de contagios se están dando en Nueva Delhi y otras grandes ciudades, las peores situaciones se están viendo en las localidades más pequeñas, donde vive el 70% de la población del país, donde la atención sanitaria está planteando más dificultades. "La situación se ha vuelto peligrosa en las aldeas", ha afirmado Suresh Kumar, coordinador sobre el terreno de una organización benéfica de derechos humanos. Esta organización trabaja principalmente en el estado norteño de Uttar Pradesh -donde viven unos 200 millones de personas- y ha asegurado que "hay muertes en casi una de cada dos casas". "La gente está asustada y acurrucada en sus casas con fiebre y tos. Los síntomas son todos de covid, pero al no haber información disponible muchos piensan que es gripe estacional", ha explicado.
+
+
+Los trabajadores de la funeraria cargan el cuerpo de una persona fallecida por covid.
+
+/
+ADNAN ABIDI / REUTERS
+Thank you for watching
+
+El Gobierno de la ciudad de Delhi ha anunciado que necesita un mínimo de 700 toneladas de oxígeno para poder hacer frente a todos los enfermos que llegan a sus hospitales. No solo en Delhi necesitan más recursos, en otras grandes urbes como Calcuta o Bangalore también están informando de la escasez con la que están teniendo que trabajar. Si bien es cierto que Estados Unidos, Gran Bretaña y Europa han enviado recursos sanitarios como respiradores y generadores de oxígeno, estos no son suficiente para la afluencia de personas que llega a los centros sanitarios. "No teníamos ni tenemos suficiente oxígeno", ha admitió un alto funcionario del Gobierno para añadir: "Si tuviéramos más oxígeno, se salvarían más vidas".
+
+Noticias relacionadas
+La ayuda internacional llega a la India
+Facebook, Instagram y Twitter silencian la represión contra los palestinos en Israel
+Nuevas olas
+De hecho, el Gobierno ya ha alertado de que una tercera ola va a ser inevitable. Su máximo asesor científico, K. Vijay Raghavan, ha advertido de que los altos niveles de infecciones llevarán a un nuevo pico. "Pero no está claro cuándo se producirá este tercer episodio. Tenemos que prepararnos para nuevas olas", ha explicado en una rueda de prensa. Sin embargo, esto no ha hecho que el primer ministro, Narendra Modi, decrete un confinamiento generalizado para todo el país. Quienes sí que han confinado a sus poblaciones han sido Nueva Delhi y los estados de Bihar y Maharashtra. Pese a todo, el país continúa con su campaña de vacunación y ya han puesto 162.523.339 dosis de vacunas.
+
+Nuevo récord de muertes por coronavirus en India
+El país suma 3.780 nuevos fallecidos y los contagios continúan al alza
+EFE
+Nueva Delhi | 05·05·21 | 07:25
+
+0
+India acumula un total de 226.188 fallecimientos.
+India acumula un total de 226.188 fallecimientos. EFE
+
+La India registró este miércoles 3.780 muertes a causa del coronavirus, el número más elevado desde el inicio de la pandemia, mientras las infecciones diarias aumentaron de nuevo tras varios días de ligeras caídas en medio de una vertiginosa segunda ola que ha colapsado el sistema sanitario.
+
+Los últimos datos del Ministerio de Salud indio elevaron la cifra total de fallecimientos a 226.188 mientras que, con 382.315 nuevos casos de la covid-19 en las últimas 24 horas, el número total de contagios asciende ya a 20,6 millones.
+
+Thank you for watching
+
+El segundo país más afectado del mundo por la pandemia en términos absolutos, solo por detrás de Estados Unidos con 32,5 millones de casos según la Universidad Johns Hopkins, vio crecer este miércoles el número de infecciones diarias por primera vez desde que superó la barrera de los 400.000 positivos el pasado sábado.
+
+El país asiático se encuentra sumido en una vertiginosa segunda ola del virus, que no ha dejado de crecer desde el pasado febrero y que ha puesto al límite a su sistema de salud, con escasez de oxígeno y camas en grandes ciudades como Nueva Delhi.
+
+La India ha administrado en las últimas 24 horas 1,4 millones de dosis contra el coronavirus, un número bajo comparado con los casi tres millones y medio de vacunas que llegó a administrar hace semanas.
+
+Con estos datos, el país superó los 160 millones de vacunas administradas desde que comenzó su campaña, ampliada el pasado fin de semana a todos los ciudadanos mayores de 18 años.
+
+Sin embargo, y aunque la India ve en su programa de inoculación como la salvación a la crisis del coronavirus, el porcentaje de la población completamente vacunada ronda el 2 %.
+Ayuda internacional
+Más de 40 países han comenzado a enviar ayuda a la India para cooperar en la lucha contra la pandemia, entre ventiladores y equipos médicos, además de generadores de oxígeno, cilindros, concentradores y reguladores.
+
+El alza de casos ha sido atribuida en el país a una relajación de las medidas contra el coronavirus por parte de la población y a la organización de eventos multitudinarios, como enormes mítines electorales en el marco de varias elecciones regionales o el festival religioso Kumbh Mela, la mayor y una de las más antiguas congregaciones religiosas del mundo.
+
+La variante india "doble mutante" B.1.617 y otras cepas también podrían estar detrás del súbito aumento de los casos en el país, aunque por el momento los virólogos han señalado que faltan datos para sostener esta teoría.
+
+Coronavirus en España hoy | Cuarta ola, estado de alarma, toque de queda, restricciones, vacunas, variante india y última hora
+Noticias en directo del COVID-19: datos, casos y vacunas
+
+COVID: Última hora del Coronavirus en España hoy, en directo
+COVID: Última hora del Coronavirus en España hoy, en directo
+REDACCIÓN TIRAMILLAS
+09/05/2021 - 07:21
+Compartir en Facebook
+Compartir en Twitter
+Compartir en Whatsapp
+Enviar por email
+
+48
+Mostrar comentarios
+Ibuprofeno. Según un estudio no empeora los casos de coronavirus
+Fin estado de alarma. Madrid levanta el toque de queda y la hostelería podrá cerrar a las 00:00 horas
+Reclamo. Nueva York quiere regalar la vacuna de Janssen a los turistas
+La pandemia mundial del coronavirus supera los 3,19 millones de muertos en todo el mundo, según el recuento de referencia de la Universidad Johns Hopkins. El número de contagiados por COVID-19 asciende a más de 152 millones de personas.
+
+Datos coronavirus España: casos y muertos
+El Ministerio de Sanidad informó el viernes de los últimos datos del coronavirus en España y el Covid-19 ya ha dejado 78.792 muertos y que se han registrado 3.567.408 casos diagnosticados desde el inicio de la pandemia del coronavirus.
+
+
+Coronavirus en España y en el mundo. Últimas noticias, en directo
+22:20 Coronavirus España: Pedro Sánchez pide unidad para combatir la pandemia
+El presidente del Gobierno utilizó las redes sociales para pedir un último esfuerzo en la lucha contra la pandemia, incidiendo también en la necesidad de ser solidarios con el envío de vacunas a los países necesitados.
+
+
+21:48 Vacuna Sinopharm: aprobada por la Organización Mundial de la Salud
+La Organización Mundial de la Salud (OMS) ha aprobado el uso de emergencia de la vacuna china Sinopharm, tratándose de la sexta que autoriza y la primera no occidental. La presidenta de la Comisión Europea, Ursula von der Leyen, anunció los avances para que el certificado de COVID-19 sea una realidad. "El trabajo jurídico y técnico sobre el certificado de vacunación está avanzado para que el sistema pueda estar operativo en junio", afirmó.
+
+21:20 Coronavirus Francia: descienden las muertes y aumentan los contagios
+Francia ha vivido la cara y la cruz en los datos de este sábado, pues si bien descendieron las muertes en los hospitales (176 frente a las 226 del viernes),han aumentado los contagios, pasando de 19.124 a 20.745. Además, también siguió mejorando el estado de las unidades de cuidados intensivos, cayendo de los 5.106 ingresados a los 5.005.
+
+20:50 Vacunación en España: el 12,6% de los ciudadanos ya están inmunizados
+El Gobierno de España ha anunciado que la presente semana se ha cerrado con más de 19 millones de dosis administradas, contribuyendo a que 5.956.451 ciudadanos, que representan el 12,6% de la población, estén ya inmunizados la haber recibido la pauta completa.
+
+
+20:21 Coronavirus España: el Gobierno donará material médico a Paraguay
+La ministra española de Exteriores, Arancha González Laya, ha aprovechado su visita a Asunción para anunciar que España donará material médico a Paraguay. "La solidaridad española se va a traducir, la semana próxima, en la llegada de un cargamento de suministros médicos, sobre todo material de intubación, que va a permitir aliviar el cuello de botella que existe en este momento para el tratamiento de enfermos, sobre todo de los que se encuentran en cuidados intensivos", expuso ante el aumento de los contagios y las hospitalizaciones y la falta de medios sanitarios en el país.
+
+19:55 Coronavirus Irlanda: suspende la cuarentena para los viajeros procedentes de Italia y Austria
+Irlanda, que se caracteriza por ser uno de los países con mayores restricciones de Europa, ha decidido suspender la obligatoriedad de cumplir una cuarentena antes de entrar en su territorio a los viajeros procedente de Italia y Austria. Pese la presión de la Unión Europea para rebajar esas medidas, los que lleguen desde Bélgica, Francia y Luxemburgo aún deberán pasar sus primeros días en un hotel.
+
+19:29. Chile sigue en altos niveles de contagio pese a la vacunación
+Las autoridades sanitarias de Chile han comunicado 6.219 nuevos casos de covid-19 y el fallecimiento de 97 personas en las últimas 24 horas, lo que eleva el total de contagiados a 1.241.976 y a 27.101 el de decesos confirmados. Los casos activos a nivel nacional son 36.852. Después de varios días en más de 9.000 casos, los contagios se han estabilizado aunque en niveles que siguen siendo elevados. 3.138 personas se encuentras hospitalizadas, de las cuales 2.618 requieren ventilación mecánica. Estos datos se están produciendo pese a una exitosa campaña de vacunación, aunque la estabilización ha hecho que los confinamientos vigentes en parte del país se reduzcan ya, por el momento, sólo a los fines de semana.
+
+19:03 Alemania levanta algunas restricciones a los totalmente vacunados
+Alemania ha aprobado levantar algunas restricciones a los ya totalmente inmunizados del virus en un contexto de control de la tercera ola. Desde el lunes están exentos de presentar un test negativo para acceder a comercios, peluquerías o museos, de contar para el número de personas en reuniones privadas, respetar el toque de queda o guardar cuarentenas, salvo si vuelven de viaje de zonas de riesgo por mutaciones. Sí deberán seguir las medidas sobre uso de mascarilla y distancia de seguridad.
+
+Confinamiento en Islamabad, captal de Pakistán
+Confinamiento en Islamabad, captal de Pakistán
+18:39 El Senado de Brasil investiga a Bolsonaro
+El Senado de Brasil ha creado una comisión de investigación sobre el tratamiento de la pandemia por el gobierno del presidente federal, el ultraderechista Jair Bolsonaro, tratando entre otros asuntos si ejerció presión para introducir en el sistema público de salud la cloroquinta, medicamento ineficaz contra el coronavirus. LEE AQUÍ LA NOTICIA COMPLETA.
+
+18:14 Italia: 10.176 nuevos contagios
+Italia registró 10.176 nuevos contagios de coronavius y 224 muertos en el último día, mientras el primer ministro italiano, Mario Draghi, pide a Europa que se acelere la creación del llamado "pasaporte covid" para favorecer el turismo. En total se realizaron 338.436 pruebas diagnósticas y los positivos descendieron en unos 400. Los fallecidos aumentaron a 224 respecto a los 207 en las últimas horas, lo que eleva el total de decesos en Italia a 122.694 desde febrero de 2020. Los contagios son 4.102.921 y en los hospitales hay 18.010 ingresado por coronavirus 574 menos que ayer.
+
+17:50 Francia creará un "semáforo" para las vacaciones extracomunitarias
+Francia establecerá un "semáforo" de países extracomunitarios para indicar a sus ciudadanos los riesgos de contagio de la pandemia durante las próximas vacaciones. Además, se sigue trabajando en el certificado digital que permita los viajes dentro del espacio europeo, anunciándolo para junio. El secretario de Estado de Turismo, Jean-Baptiste Lemoyne, ha indicado que sólo hay "cinco o seis países" extracomunitarios que no tendrían restricciones, aunque se revisarán las calificaciones segun evolucione la situación sanitaria.
+
+17:26. España: así queda el mapa de las restricciones por Comunidades Autónomas
+El final del Estado de Alarma provoca en España provoca que desde las 0:00 del 9 de mayo las Comunidades tengan que adoptar su propio reglamento de prevención contra el vrus. Estas son las principales, comunidad por comunidad: LEE AQUÍ LA NOTICIA COMPLETA
+
+Habitantes de India esperan para rellenar bombonas de oxígeno para respiradores. Hay gran escasez de este materíal médico básico contra el coronavirus en India
+Habitantes de India esperan para rellenar bombonas de oxígeno para respiradores. Hay gran escasez de este materíal médico básico contra el coronavirus en India
+17:03 India supera los 4.000 muertos diarios por coronavirus
+Por primera vez desde el inicio de la pandemia, India -el segundo país más poblado del mundo- superó los 4.000 muertos por coronavirus, También superó nuevamente los 400.000 positivos. En las últimas 24 horas, 4.187 personas perdieron la vida, llevando el total de muertos oficialmente registrados a 238.270, por lo que India es el tercer país con más muertes, tras Estados Unidos y Brasil. Los expertos, sin embargo, creen que la cifra real es muy superior, dado que el sistema de salud es imperfecto y está colapsado.De momento solo 34 millones de los 1.350 millones de habitantes de India han sido vacunados por completo.
+
+16:40. Extremadura repite otro día sin muertes por coronavirus
+Extremadura ha notificado 62 nuevos casos positivos por coronavirus en las últimas 24 horas, en otra jornada sin fallecidos. Según la Consejería de Sanidad, se aprecia un ligero descenso en los nuevos contagios (cuatro menos que el día anterior) y en incidencia acumulada, que queda 92,63 casos por 100.000 habitantes a los 14 días y de 39,34 a los siete. En UCI hay 10 pacientes, sin variación, e ingresados en planta pasan de 50 a 49.
+
+16:16: Asturias: dos muertos y la cifra más baja de contagios desde septiembre
+Asturias registró el viernes 38 contagios por coronavirus, 28 menos que el jueves y la cifra más baja desde el pasado 9 de septiembre. Hubo dos muertos, después de tres días sin contabilizarse ninguno. Tras realizarse 2.686 pruebas diagnósticasla positividad bajó 3,38 al 2,94%. Se produjeron nueve ingresos en planta, seis menos que el jueves, y uno en UCI. El número de pacientes hospitalizados con confirmación o sospecha de covid-19 bajó de 135 a 123, mientras que el de ingresados en UCI lo hizo de 47 a 45. La ocupación por covid en los hospitales asturianos se redujo del 5,25 al 4,85%. En UCI bajó de 14,83 al 14,20%.
+
+15:52: Andalucia: Descienden contagios, fallecimientos e incidencia
+Los nuevos contagios y fallecimientos de coronavirus en Andalucía han descendido, al igual que la tasa de incidencia -de 192 casos ayer viernes a 185,4 por cada cien mil habitantes en los últimos catorce días-, ya que han sido 1.298 nuevos casos, frente a los 1.515 de ayer, y seis muertos, cuando ningún día de la semana habían bajado de 10. Los hospitales andaluces tienen este sábado 28 ingresados menos por la enfermedad, ya que hay 1.192, de los cuales 323 están en UCI, tres más que ayer viernes, según la Consejería de Salud. El 12,87 por ciento de la población andaluza, 1.089.555 personas, ya está completamente vacunada contra la covid-19, y se han puesto un total de 3.334.072 dosis de vacunas, que suponen el 96,15 por ciento de las recibidas.
+
+15:28 Europa aprueba contratar por 1.800 millones de dosis de vacuna a Pfizer
+La Comisión Europea ha aprobado un contrato por 1.800 millones de dosis de la vacuna de Pfizer/BioNTech, según la presidenta del Ejecutivo comunitario, Ursula von der Leyen. El contrato contempla 900 millones de dosis garantizadas, así como 900 millones "opcionales" para su distribución entre 2021 y 2023. "Seguirán otros contratos y otras tecnologías de vacunas", añadió en sus redes sociales. Este acuerdo supone la conclusión de las conversaciones que Von der Leyen anunció para conseguir inyecciones de refuerzo contra el covid-19 o vacunas de segunda generación para combatir las mutaciones del virus, como la británica, la brasileña o la india.
+
+Video thumbnail
+OCU defiende acabar con obligatoriedad de la mascarilla en espacios exteriores
+15:00 Madrid pondrá los medios para evitar los botellones esta medianoche
+El alcalde de Madrid, José Luis Martínez-Almeida, ha asegurado este sábado que pondrá todos los medios para que los botellones no se produzcan a partir de esta noche, cuando decaiga el estado de alarma y, por lo tanto, el toque de queda nocturno. "La pandemia no está ganada, no está vencida", ha insistido Almeida, que ha dicho que al Ayuntamiento le preocupa este tema pero pondrá todos los medios para que esto no suponga un aumento de la propagación del virus.
+
+14:30 La UE, dispuesta a debatir la suspensión de patentes de las vacunas si hay "propuestas concretas"
+El presidente del Consejo Europeo, Charles Michel, ha indicado que la UE está dispuesta a debatir la liberalización temporal de patentes sobre las vacunas para la covid-19 cuando haya "propuestas concretas". Michel responde así al histórico anuncio de Estados Unidos de que apoyará la suspensión de las patentes. "No creemos que a corto plazo sea la solución, pero estamos preparados para debatirlo cuando haya una propuesta concreta sobre la mesa".
+
+14:03 Estudian un nuevo efecto adverso en los vacunados con AstraZeneca
+La Agencia Europea del Medicamento (EMA) está analizando varios casos del Síndrome de Guillain-Barré que podrían estar asociados a la vacuna de AstraZeneca. Al ser todavía la información escasa y poco precisa, la EMA se encuentra adquiriendo más documentación a la farmacéutica. Desde el Comité de Evaluación de Riesgos de Farmacovigilancia (PRAC) ya estaban bajo aviso, pues este efecto secundario ya fue descubierto durante los ensayos clínicos con la vacuna.
+
+13:50 Fin estado de alarma: El lehendakari Urkullu pide "responsabilidad"
+El lehendakari, Iñigo Urkullu, ha apelado a la "responsabilidad individual y al compromiso colectivo en pro del bien común, la salud y la vida", horas antes de que decaiga el estado de alarma y las principales medidas restrictivas para controlar la pandemia, entre ellas el cierre perimetral. Urkullu, a través de las redes sociales, ha pedido a la ciudadanía vasca que mantenga los "valores de compromiso, esfuerzo, tenacidad, trabajo en equipo y solidaridad" para seguir luchando contra la covid.
+
+13:20 Ingresa en el hospital uno de los ocho tripulantes afectados por COVID en el carguero del puerto de Vigo
+Un tripulante de los ocho positivos detectados en un segundo carguero con infectados por covid-19 en el puerto de Vigo ha sido trasladado al hospital Vithas Fátima de la ciudad, donde ha quedado ingresado en planta, si bien su condición es estable. De momento, se están analizando las muestras para determinar de qué tipo de variante del coronavirus se trata.
+
+12:50 El ibuprofeno no agrava la infección de COVID-19, según un estudio
+Los medicamentos antiinflamatorios de la familia del ibuprofeno no aumentan el riesgo de enfermar gravemente de COVID-19 ni de morir, contrariamente a lo que se temía al principio de la pandemia, según un estudio publicado este sábado. "El uso de antiinflamatorios no esteroideos (AINE) no se asocia con un aumento de la mortalidad ni de la gravedad del COVID-19", concluye este amplio estudio de autoridades sanitarias británicas, publicado en la revista médica The Lancet Rheumatology. Lee la noticia completa.
+
+12:10 La OMS autoriza el uso de emergencia de la vacuna china Sinopharm contra la COVID
+Cargamentos de la vacuna china contra el coronavirus han aterrizado en todo el mundo desde el momento en el que estuvo disponible. Sinopharm ha ido ganando reconocimiento y prestigio en ese camino como potente aliado contra la COVID-19. Líderes y autoridades de multitud de países se han inmunizado con el fármaco de fabricación china. El último paso ha sido la luz verde de la OMS. La organización ha autorizado el uso de emergencia de la vacuna china de Sinopharm contra el coronavirus. Este organismo considera que la fórmula de la farmacéutica del país asiático, la sexta en ser validada, resulta "muy adecuada" para zonas con poco recursos por sus sencillos requisitos de conservación.
+
+Video thumbnail
+La OMS autoriza el uso de emergencia de la vacuna china de Sinopharm contra la COVID-19
+11:40 Casi 4.000 agentes de Policía Nacional y Guardia Civil, vacunados en Cataluña
+La Generalitat de Cataluña ha vacunado a más de 3.700 agentes de la Policía Nacional y la Guardia Civil a lo largo de la última semana con el fin de cumplir la orden del Tribunal Superior de Justicia de Cataluña (TSJC) que le obligó a inmunizar a los miembros de ambos cuerpos con la misma proporción que a los Mossos d'Esquadra.
+
+11:10 Fin del estado de alarma: La Junta de Andalucía pide cerrar cuatro municipios por alta incidencia
+La Junta de Andalucía ha decidido cerrar perimetralmente cuatro municipios de la comunidad que tienen más de mil casos de COVID-19 por cada 100.000 habitantes en los últimos 14 días, una medida para la que ha pedido ratificación judicial que es el proceso que se debe acometer en estos momentos sin estado de alarma en España.
+
+10:45 El toque de queda aún afectará a más de 9 millones de españoles pese al fin del estado de alarma
+Este sábado acaba el estado de alarma en España, pero hay medidas que seguirán en diversas Comunidades Autónomas. El toque de queda se mantiene en cuatro regiones que equivale a más de 9 millones de españoles, el 19% de la población, que seguirán con la limitación de la movilidad nocturna. Se trata de Baleares, Canarias, Navarra y la Comunidad Valenciana.
+
+Video thumbnail
+CCAA gestionarán a partir de medianoche las restricciones tras decaer la alarma
+10:20 Coronavirus en España: descenso de casos en general por vez primera en tres semanas
+El informe del Ministerio de Sanidad muestra que la incidencia media actual de contagios en España en los últimos 14 días sigue reduciéndose. Este viernes se fijó en los 198,60 casos por cada 100.000 habitantes, en comparación con los 202,2 notificado por el departamento dirigido por Carolina Darias el día anterior.
+
+9:55 Reino Unido deja a España fuera de la lista de países seguros para viajar este verano
+Reino Unido ha anunciado la lista de países que considera seguros para viajar a lo largo de este verano. Entre ellos no se encuentra España, ni Francia ni Grecia entre otros. A los residentes en Reino Unido que viajen a países que no estén dentro de esta lista segura, tendrán que hacer cuarentena.
+
+9:20 Coronavirus en Brasil: las muertes por covid se reducen por fin a niveles de hace casi dos meses
+Brasil roza las 420.000 muertes por coronavirus desde el inicio de la pandemia pese a que el promedio diario de decesos continúa en fase decreciente y en la jornada de ayer, viernes, se situó en su menor nivel en casi dos meses, según detalló el Ministerio de Salud de dicho país. Según el boletín divulgado por la cartera de Salud, Brasil registró en las últimas 24 horas 2.165 nuevas muertes, con lo que el total de víctimas ascendió a 419.114 en casi 14 meses de pandemia.
+
+8:55 La capital de México: relaja medidas, pasa al nivel amarillo tras reducción progresiva en contagios
+Las autoridades de Ciudad de México han anunciado que la capital pasará a partir del lunes a color amarillo dentro del semáforo epidemiológico, tras varias semanas en la que se llevan registrando caídas en los registros de contagios y hospitalizaciones por covid-19. Los registros hospitalaro están en un 16,5%, el más bajo registrado en toda la pandemia.
+
+8:30 El cantante Loquillo, felizmente vacunado contra el coronavirus
+El cantante Loquillo publicó una foto en su perfil de Twitter en la que anunciba que ya está vacunado y pidió a sus seguidores que hagan lo propio para terminar así con el coronavirus. Un importante mensaje que en tres horas ha sumado más de 2.400 me gusta.
+
+
+8:10 Autoridades de EE. UU. advierten: se dan contagios en interiores con distanciamiento
+Las autoridades sanitarias en Estados Unidos han advertido del riesgo de contraer COVID-19 en interiores pese a mantener la distancia social de seguridad recomendada de 1,80 metros. "Aunque las infecciones por inhalación a distancias superiores 1'8 metros de una fuente infecciosa son menos probables que a distancias más cercanas, el fenómeno se ha documentado repetidamente", indicaron en un documento los Centros para el Control y la Prevención de Enfermedades.
+
+7:40 Fin del estado de alarma y las prevenciones de siempre
+Llega una nueva fase ya que el estado de alarma vive sus últimas horas hasta esta medianoche. A partir de entonces las medidas restrictivas quedarán a un lado en la gran mayoría del territorio español. Desde el Ministerio de Sanidad se vuelve a incidir en las medidas preventivas para proseguir por el buen camino que se lleva hasta el momento en los últimos tiempos. De ahí que se 'recuerden' las 6 M.
+
+
+7:10 En España ya se han detectado 16 casos de la variante india
+En España se detectó el primer caso a finales de abril, y desde entonces se han notificado ya 16 casos en todo el territorio español. El protocolo de actuación está siendo el mismo en todas las comunidades: aislar a los pacientes sospechosos de estar contagiados con esta cepa y secuenciar las muestras para confirmarlo o descartarlo. Esta nueva cepa de coronavirus, B.1.617, pueda dificultar la lucha contra la pandemia y Europa trata de blindarse pero eso no deja que se estén dando casos.
+
+7:00 La vacunación en España marca récords ante el fin del Estado de Alarma
+Las cifras de vacunación van viento en popa. En la jornada del 6 de mayo, se inocularon 558.552 dosis. En la jornada anterior se marcó un nuevo récord, con 573.014. Por primera vez en el proceso de vacunación se ha logrado inocular más de un millón de dosis en dos días. De esta cifra, en torno a la mitad corresponde a segundas dosis, lo que arroja un total de 5.956.451 personas ya completamente inmunizadas. Lee la noticia completa.
+
+6:45 Fin estado de alarma: Madrid, País Vasco, Comunitat Valenciana, Castilla La Mancha... ¿Cómo lo gestionan?
+Castilla-La Mancha al igual que la Comunidad de Madrid levantará el toque de queda cuando termine el estado de alarma el próximo 9 de mayo. El presidente Emiliano García-Page ha explicado que este sábado la comunidad tomará medidas para seguir luchando contra el coronavirus pero que tendrán que ser "infinitamente más relajadas". Ha explicado que los servicios jurídicos de la Junta les "han invitado" a no mantener el toque de queda porque "no lo ven con alcance jurídico constitucional", al tiempo que ha recordado que también termina el cierre perimetral de la región vigente desde el pasado 30 de octubre.
+
+Por su parte, el Consejo de Gobierno de La Rioja ha acordado que se establezca el nivel 3 alto de su nuevo Plan de Medidas según Indicadores (PMI), con el cierre de la hostelería a las doce de la noche, sin toque de queda y sin el cierre perimetral de la región que estaba en vigor desde el pasado 23 de octubre. Además, se recomienda un máximo de seis personas en las agrupaciones. Respecto al Principado de Asturias, la delegada del Gobierno Delia Losa ha reconocido que "la noche preocupa mucho", ya que sin el toque de queda se pueden producir situaciones que impidan una evolución positiva de los datos de la pandemia. En Galicia sólo se mantiene el toque de queda a partir de las 23 horas en los municipios que estén en nivel máximo de restricciones. El Tribunal Superior de Justicia de la Comunidad Valenciana (TSJCV) ha avalado las restricciones previstas por la Generalitat Valenciana cuando decaiga el próximo domingo 9 e mayo el estado de alarma. El tique de queda se mantiene hasta el 24 de mayo. Los magistrados permitieron al Govern balear seguir imponiendo el toque de queda entre las 23:00 y las 6:00 horas, controles para la entrada en la Comunidad, limitaciones a las reuniones y encuentros sociales y restricciones de aforo en lugares de culto.
+
+El País Vasco pidió el cierre perimetral pero sus jueces no se lo han concedido con lo que no habrá ni tampoco toque de queda pese a los índices de contagio que hay.
+
+6:30 Nueva York, a captar turistas con vacunas gratis contra el coronavirus
+El alcalde de Nueva York, Bill de Blasio, ha anunciado que la ciudad ofrecerá vacunas contra la COVID-19 gratis a los turistas. La idea es que haya furgonetas de vacunación, similares a los tradicionales 'food truck', que actuarán como puntos móviles de vacunación. Se podrán ver junto al Empire State Building, Times Square, Brooklyn Bridge Park, High Line o Central Park. Pe momento, para vacunar a ciudadanos que no sean no neoyorkinos se necesita una reforma legal, y están trabajando de forma conjunta asesores jurídicos de la ciudad de Nueva York y del gobernador Andrew Coumo.
+
+6:00 Madrid levanta el toque de queda y la hostelería podrá cerrar a las 00:00 horas
+Este domingo 9 de mayo acaba el estado de alarma en España y las comunidades autónomas están trabajando para tomar decisiones adecuadas para el nuevo escenario en el que entra nuestro país.
+
+Una de las comunidades que ya ha anunciado sus medidas es Madrid. La región ha anunciado que eliminará el toque de queda y la prohibición de reuniones de no convivientes en domicilios a partir de este domingo, 9 de mayo.
+
+Un anciano ofrece su cama de hospital a un joven en plena crisis del coronavirus en India
+A sus 85 años, prefirió que alguien con más vida por delante sobreviviera
+Falleció poco después en su casa
+Un anciano ofrece su cama de hospital a un joven en plena crisis del coronavirus en India
+Un anciano ofrece su cama de hospital a un joven en plena crisis del coronavirus en India | Google
+09/05/2021 a las 08:55 CEST
+D. Cruz (@DCruzPeriodista) 0
+
+El coronavirus está golpeando más fuerte que nunca en India, país que suma cada día 4.000 muertes y aproximadamente unos 400.000 casos, y un buen ejemplo de lo que está ocurriendo en dicho país está en la historia que hoy os traemos: un relato de cómo los hospitales están tan llenos que, en algunos casos, son los propios pacientes los que acaban ofreciendo su cama a las personas que tienen más oportunidades de sobrevivir.
+
+Un anciano de 85 años, Narayan Dabhalka, que permanecía en el hospital Gandhi Rughnalaya, decidió que su espacio en el centro lo ocupase un joven que también padecía la Covid-19: "yo ya he vivido mi vida. Salvar la vida de un joven es mucho más importante. Sus hijos son pequeños... Por favor, denle mi cama", aseguró esta persona antes de marcharse del hospital y que su lugar lo ocupara otra.
+
+Thank you for watching
+
+Los médicos no podían hacer nada más por salvar su vida, por lo que murió en la tranquilidad de su casa, rodeado de su familia, varios días después. Pero antes, y tras escuchar a la mujer del joven al que cedió su habitación, hizo un gesto que nos invita a que sigamos confiando en la humanidad aunque a veces no parezca que quede ni rastro de ella.
+
+La dramática situación en la India deja 4 nuevos contagiados de coronavirus por segundo y 2 muertos por minuto
+La situación del coronavirus en la India está totalmente descontrolada. Ya ha superado la barrera de los 22 millones de contagios, habiéndose notificado más de 400.000 casos y 4.000 muertos en las últimas 24 horas.
+Antena 3 Noticias
+ India
+Publicado: 09.05.2021 15:42
+Actualizado: 09.05.2021 15:42
+Whatsapp
+Facebook
+Twitter
+Linkedin
+Flipboard
+Compartir
+La situación sigue siendo muy preocupante en la India, aunque todavía no está confirmado que se deba a la variante india del coronavirus. Las cifras no dejan de crecer, y cada día se ve cómo se superan todos los registros anteriores. Llevan 5 días seguidos por encima de los 400.000 casos y dos días con más de 4.000 muertos cada 24 horas, por lo que se suceden las imágenes de dolor y las escenas dramáticas en los hospitales, donde sigue habiendo escasez de oxígeno y donde faltan medidas para frenar los contagios.
+
+Otro de los indicadores que da idea del descontrol de la pandemia es el porcentaje de test que dan positivo. Cuanto más alto, peor, y la India es uno de los países con la tasa más alta, un 23%. La OMS da la pandemia por controlada cuando menos del 5% de las pruebas dan positivo.
+
+De hecho, esta segunda ola es 4 veces mayor que la primera. De seguir así, los científicos temen que el país llegue al millón de muertos en agosto.
+
+El Tribunal Supremo toma las riendas
+
+En los acontecimientos de las últimas horas, el Tribunal Supremo del país ha formado un Grupo de Trabajo Nacional de 12 miembros para evaluar la disponibilidad y distribución de oxígeno médico a raíz de las súplicas de la población en las redes sociales por la falta de aire para los respiradores.
+
+"Esperamos que los principales expertos del país se asocien con el Grupo de Trabajo, como miembros y especialistas", ha hecho saber el tribunal en su orden final.
+
+También, el Gobierno ha anunciado este sábado que ha revisado la política nacional para la admisión de pacientes al ordenar a los hospitales que "ningún paciente sea rechazado por ningún motivo".
+
+Las transmisiones comunitarias de las cepas comenzaron a fines de marzo, pero solo alcanzaron niveles alarmantes hace unas dos semanas. Ya han muerto 860 médicos, 116 en el último mes.
 
 `;
 export default text;

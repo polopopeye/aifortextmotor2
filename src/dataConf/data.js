@@ -106,9 +106,10 @@ export class TextData {
     ]);
     const ysBuffer = new tf.TensorBuffer([numExamples, this.charSetSize_]);
     for (let i = 0; i < numExamples; ++i) {
-      const beginIndex = this.exampleBeginIndices_[
-        this.examplePosition_ % this.exampleBeginIndices_.length
-      ];
+      const beginIndex =
+        this.exampleBeginIndices_[
+          this.examplePosition_ % this.exampleBeginIndices_.length
+        ];
       for (let j = 0; j < this.sampleLen_; ++j) {
         xsBuffer.set(1, i, j, this.indices_[beginIndex + j]);
       }
@@ -241,8 +242,12 @@ export function createModel(sampleLen, charSetSize, lstmLayerSizes) {
 }
 
 export function compileModel(model, learningRate) {
-  const optimizer = tf.train.rmsprop(learningRate);
+  // const optimizer = tf.train.rmsprop(learningRate);
+  // const optimizer = tf.train.adam();
+  const optimizer = tf.train.adamax();
+  // const optimizer = tf.train.adadelta();
   model.compile({ optimizer: optimizer, loss: 'categoricalCrossentropy' });
+  // model.compile({ optimizer: optimizer, loss: 'precision' });
   console.log(`Compiled model with learning rate ${learningRate}`);
   model.summary();
 }
@@ -273,7 +278,7 @@ export async function fitModel(
   for (let i = 0; i < numEpochs; ++i) {
     const [xs, ys] = textData.nextDataEpoch(examplesPerEpoch);
     await model.fit(xs, ys, {
-      epochs: 1,
+      epochs: 4,
       batchSize: batchSize,
       validationSplit,
       callbacks,
