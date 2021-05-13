@@ -19,23 +19,28 @@ const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout,
 });
-let importedEpochCount = 0;
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 let modelLoad = false;
 
-const ModelName = 'Prueba9';
+const ModelName = 'Prueba13';
 
 // TEXTOOOO
-let sampleLen = 100; //VALORES FIJOS
-let sampleStep = 33; // El 5% del input de arriba
+let sampleLen = 23; //VALORES FIJOS
+let sampleStep = 23; // El 5% del input de arriba
 // let sampleLen = 4; //VALORES FIJOS
 // let sampleStep = 1; // El 5% del input de arriba
 
 const textData = new TextData('text-data', text, sampleLen, sampleStep);
 let numeroMaxCaract = textData.charSetSize();
+let numerodecaracteresDisp = text.length;
+let datosMaximosporEpoc = numerodecaracteresDisp / sampleLen;
+console.log('numerodecaracteresDisp');
+console.log(numerodecaracteresDisp);
+console.log('numeroMaxCaract |_|');
 console.log(numeroMaxCaract);
-console.log('numeroMaxCaract');
+console.log('datos2Proc Max por época TL/SL');
+console.log(datosMaximosporEpoc);
 rl.question('¿Cargar modelo anterior? Y/n : ', function (answerLoad) {
   if (answerLoad === 'Y') {
     console.log('CARGANDO ANTERIOR');
@@ -59,15 +64,17 @@ rl.question('¿Cargar modelo anterior? Y/n : ', function (answerLoad) {
 
 textData.charSetSize();
 // https://storage.googleapis.com/tfjs-examples/lstm-text-generation/dist/index.html
-let epochConf = 16384;
-let learningRateConf = 0.1;
-// let learningRateConf = 0.1;
-// let learningRateConf = 0.03;
+let epochConf = 1;
 
-let firstLayerSizeConf = '118,118,118,118';
+let firstLayerSizeConf = parseInt(numeroMaxCaract);
+// let validationSplitConf = 0.02;
+// let validationSplitConf = 0.5;
 let validationSplitConf = 0.0625;
-let examplesPerEpochConf = 8192;
-let batchSizeConf = 64;
+
+// let validationSplitConf = 0.2;
+let examplesPerEpochConf = parseInt(datosMaximosporEpoc - 1);
+// let examplesPerEpochConf = 13056;
+let batchSizeConf = 16;
 
 let model;
 
@@ -79,29 +86,24 @@ async function main(modelLoad2) {
     console.log('CARGANDO...');
     postModelLoaded();
   } else {
-    const lstmLayerSize =
-      firstLayerSizeConf.indexOf(',') === -1
-        ? Number.parseInt(firstLayerSizeConf)
-        : firstLayerSizeConf.split(',').map((x) => Number.parseInt(x));
+    const lstmLayerSize = firstLayerSizeConf;
+    // firstLayerSizeConf.indexOf(',') === -1
+    //   ? Number.parseInt(firstLayerSizeConf)
+    //   : firstLayerSizeConf.split(',').map((x) => Number.parseInt(x));
 
-    model = createModel(
-      textData.sampleLen(),
-      numeroMaxCaract,
-      lstmLayerSize,
-      batchSizeConf
-    );
+    model = createModel(textData.sampleLen(), numeroMaxCaract, lstmLayerSize);
     postModelLoaded();
   }
 }
 
 async function postModelLoaded() {
-  compileModel(model, learningRateConf);
+  compileModel(model);
 
   // Get a seed text for display in the course of model training.
   const [seed] = textData.getRandomSlice();
   console.log(`Seed text:\n"${seed}"\n`);
 
-  let epochCount = 0;
+  // let epochCount = 0;
 
   fitModel(
     model,
@@ -110,38 +112,17 @@ async function postModelLoaded() {
     examplesPerEpochConf,
     batchSizeConf,
     validationSplitConf,
+    ModelName,
     {
-      onTrainBegin: async () => {
-        epochCount++;
-        console.log(`Epoch ${epochCount} of ${epochConf}:`);
-      },
-      onTrainEnd: async () => {
-        console.log(`¡SAVING model!`);
-        await model.save(`file://${__dirname}/models/${ModelName}`);
-        console.log(`SAVED model....${ModelName}  OK`);
-        let dirFileTxt = `src/models/${ModelName}/${ModelName}.txt`;
-        fs.access(dirFileTxt, (err) => {
-          if (err) {
-            // console.log('The file does not exist.');
-            fs.writeFile(dirFileTxt, `${epochCount}`, function () {
-              console.log('Creado Correctamente');
-            });
-          } else {
-            // console.log('The file exists.');
-            fs.readFile(dirFileTxt, 'utf8', function (err, data) {
-              if (err) {
-                return console.log(err);
-              }
-              importedEpochCount = parseInt(data);
-              let newEpochCounter = importedEpochCount + 1;
-              fs.writeFile(dirFileTxt, `${newEpochCounter}`, function () {
-                console.log('Contador Actualizado');
-                console.log(newEpochCounter);
-              });
-            });
-          }
-        });
-      },
+      // onTrainBegin: async () => {
+      //   epochCount++;
+      //   console.log(`Epoch ${epochCount} of ${epochConf}:`);
+      // },
+      // onTrainEnd: async () => {
+      //   console.log(`¡SAVING model!`);
+      //   await model.save(`file://${__dirname}/../models/${ModelName}`);
+      //   console.log(`SAVED model....${ModelName}  OK`);
+      // },
     }
   );
 }

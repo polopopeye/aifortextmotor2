@@ -1,6 +1,13 @@
 // import tf from '@tensorflow/tfjs'; //NO FUNCIONA PORQUE UTILIZA FILE HANDLERS
-import tf from '@tensorflow/tfjs-node';
+
+import tf, { selu } from '@tensorflow/tfjs-node';
+import readline from 'readline';
+import fs from 'fs';
+
+import { dirname } from 'path';
+import { fileURLToPath } from 'url';
 // import tf from '@tensorflow/tfjs-node-gpu'; // Use '@tensorflow/tfjs-node-gpu' if running with GPU.
+const __dirname = dirname(fileURLToPath(import.meta.url));
 
 // TODO(cais): Support user-supplied text data.
 
@@ -13,6 +20,7 @@ import tf from '@tensorflow/tfjs-node';
  * - Drawing random slices from the training data. This is useful for training
  *   models and obtaining the seed text for model-based text generation.
  */
+
 export class TextData {
   /**
    * Constructor of TextData.
@@ -95,14 +103,16 @@ export class TextData {
   nextDataEpoch(numExamples) {
     this.generateExampleBeginIndices_();
 
-    if (numExamples == null) {
-      numExamples = this.exampleBeginIndices_.length;
-    }
+    // if (numExamples == null) {
+    numExamples = this.exampleBeginIndices_.length;
+    // }
+    console.log('NUMEXAMPLES DETECTADOS');
+    console.log(numExamples);
 
     const xsBuffer = new tf.TensorBuffer([
-      numExamples,
-      this.sampleLen_,
-      this.charSetSize_,
+      numExamples, //cuantos mas mejor.
+      this.sampleLen_, //30 //prueba con 30...
+      this.charSetSize_, //num de caracteres posibles
     ]);
     const ysBuffer = new tf.TensorBuffer([numExamples, this.charSetSize_]);
     for (let i = 0; i < numExamples; ++i) {
@@ -110,10 +120,18 @@ export class TextData {
         this.exampleBeginIndices_[
           this.examplePosition_ % this.exampleBeginIndices_.length
         ];
+      console.log('beginIndex');
+      console.log(beginIndex);
       for (let j = 0; j < this.sampleLen_; ++j) {
         xsBuffer.set(1, i, j, this.indices_[beginIndex + j]);
+        console.log('this.indices_[beginIndex + j]');
+        console.log(this.indices_[beginIndex + j]);
       }
       ysBuffer.set(1, i, this.indices_[beginIndex + this.sampleLen_]);
+      console.log('this.indices_[beginIndex + this.sampleLen_]');
+      console.log(this.indices_[beginIndex + this.sampleLen_]);
+      console.log('this.examplePosition_ +1');
+      console.log(this.examplePosition_);
       this.examplePosition_++;
     }
     return [xsBuffer.toTensor(), ysBuffer.toTensor()];
@@ -202,7 +220,12 @@ export class TextData {
     ) {
       this.exampleBeginIndices_.push(i);
     }
+    console.log('exampleBeginIndices_');
+    console.log(this.exampleBeginIndices_);
+    // for (let index = 0; index < array.length; index++) {
+    //   const element = array[index];
 
+    // }
     // Randomly shuffle the beginning indices.
     tf.util.shuffle(this.exampleBeginIndices_);
     this.examplePosition_ = 0;
@@ -220,53 +243,24 @@ export class TextData {
  *   of `[null, sampleLen, charSetSize]` and an output shape of
  *   `[null, charSetSize]`.
  */
-export function createModel(
-  sampleLen,
-  charSetSize,
-  lstmLayerSizes,
-  batchSizeConf
-) {
-  if (!Array.isArray(lstmLayerSizes)) {
-    lstmLayerSizes = [lstmLayerSizes];
-  }
-
+export function createModel(sampleLen, charSetSize, lstmLayerSizes) {
   const model = tf.sequential();
+  model.add(
+    tf.layers.lstm({
+      units: lstmLayerSizes,
+      // returnSequences: true,
+      activation: 'selu',
 
-  // const rnn = tf.layers.gru({ units: 8, returnSequences: true });
+      inputShape: [sampleLen, charSetSize],
+    })
+  );
 
-  // const input = tf.input({ shape: [10, 20] });
-  // const output = rnn.apply(input);
-
-  // const lstm = tf.layers.lstm({ units: 8, returnSequences: true });
-
-  // const input2 = tf.input({ shape: [10, 20] });
-  // const output2 = lstm.apply(input);
-
-  for (let i = 0; i < lstmLayerSizes.length; ++i) {
-    const lstmLayerSize = lstmLayerSizes[i];
-    model.add(
-      tf.layers.gru({
-        units: lstmLayerSize,
-        returnSequences: i < lstmLayerSizes.length - 1,
-        inputShape: i === 0 ? [sampleLen, charSetSize] : undefined,
-      })
-      // tf.layers.gru({
-      //   units: lstmLayerSize,
-      //   returnSequences: true,
-      //   // inputShape: charSetSize,
-      //   inputShape:
-      //     i === 0 ? [batchSizeConf, sampleLen, charSetSize] : undefined,
-      // })
-
-      // output
-    );
-  }
-  model.add(tf.layers.dense({ units: charSetSize, activation: 'softmax' }));
+  model.add(tf.layers.dense({ units: charSetSize, activation: 'sigmoid' }));
 
   return model;
 }
 
-export function compileModel(model, learningRate) {
+export function compileModel(model) {
   // const optimizer = tf.train.rmsprop(learningRate);
   const optimizer = tf.train.adam();
   // const optimizer = tf.train.adamax();
@@ -277,15 +271,14 @@ export function compileModel(model, learningRate) {
     optimizer: optimizer,
     // loss: 'meanAbsolutePercentageError',
     // loss: 'meanAbsoluteError',
-    loss: 'categoricalHinge',
+    // loss: 'categoricalHinge',
+    loss: 'categoricalCrossentropy',
     // metrics: 'accuracy',
-    metrics: 'accuracy',
+    // metrics: 'accuracy',
 
     // metrics: 'categoricalAccuracy',
   });
-  // model.compile({ optimizer: optimizer, loss: 'meanAbsoluteError' });
 
-  // console.log(`Compiled model with learning rate ${learningRate}`);
   model.summary();
 }
 
@@ -310,19 +303,54 @@ export async function fitModel(
   examplesPerEpoch,
   batchSize,
   validationSplit,
+  ModelName,
   callbacks
 ) {
-  for (let i = 0; i < numEpochs; ++i) {
-    const [xs, ys] = textData.nextDataEpoch(examplesPerEpoch);
+  //Guardar
+
+  // for (let i = 0; i < numEpochs; ++i) {
+  const [xs, ys] = textData.nextDataEpoch();
+  console.log(textData.nextDataEpoch());
+
+  for (let i = 0; i < 460; i++) {
+    //MOMENTANEAMENTE PONGO LAS EPOCAS AQUI MANUAL
     await model.fit(xs, ys, {
       epochs: 1,
       batchSize: batchSize,
       validationSplit,
-      callbacks,
     });
-    xs.dispose();
-    ys.dispose();
+    console.log(`¡SAVING model!`);
+    await model.save(`file://${__dirname}/../models/${ModelName}`);
+    console.log(`SAVED model....${ModelName}  OK`);
+    let dirFileTxt = `src/models/${ModelName}/${ModelName}.txt`;
+
+    fs.access(dirFileTxt, (err) => {
+      if (err) {
+        // console.log('The file does not exist.');
+        fs.writeFile(dirFileTxt, `${1}`, function () {
+          console.log('Creado Correctamente');
+        });
+      } else {
+        // console.log('The file exists.');
+        fs.readFile(dirFileTxt, 'utf8', function (err, data) {
+          if (err) {
+            return console.log(err);
+          }
+          let importedEpochCount = parseInt(data);
+          let newEpochCounter = importedEpochCount + 1;
+          fs.writeFile(dirFileTxt, `${newEpochCounter}`, function () {
+            console.log('Contador Actualizado');
+            console.log(newEpochCounter);
+          });
+        });
+      }
+    });
   }
+
+  xs.dispose();
+  console.log('tensores Vaciados');
+  ys.dispose();
+  // }
 }
 
 /**
