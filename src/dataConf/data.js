@@ -231,12 +231,9 @@ export class TextData {
     }
     console.log('exampleBeginIndices_');
     console.log(this.exampleBeginIndices_);
-    // for (let index = 0; index < array.length; index++) {
-    //   const element = array[index];
 
-    // }
     // Randomly shuffle the beginning indices.
-    tf.util.shuffle(this.exampleBeginIndices_);
+    // tf.util.shuffle(this.exampleBeginIndices_);
     this.examplePosition_ = 0;
   }
 }
@@ -285,7 +282,7 @@ export function compileModel(model) {
     // metrics: 'accuracy',
     // metrics: 'accuracy',
 
-    // metrics: 'categoricalAccuracy',
+    metrics: 'categoricalAccuracy',
   });
 
   model.summary();

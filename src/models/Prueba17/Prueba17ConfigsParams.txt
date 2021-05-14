@@ -4,10 +4,15 @@ ModelName: Prueba17
   sampleStep: 3
   displayLengthConf: 150
   validationSplitConf: 0.3
-  Fecha: Fri May 14 2021 03:24:32 GMT+0200 (hora de verano de Europa central)
+  Fecha: Fri May 14 2021 05:37:25 GMT+0200 (hora de verano de Europa central)
   Notas: 
 De momento tarda aprox 2000 segundos por epoca, es decir 34 mins.
 1.95 Loss en epoca 2
 
-  a paros mos pas emtermicidas que en eso de la hos trento. en las estegro acero cantera el la hastan deca pera 
+Texto Epoc 1 (0.8TEMP) : paros mos pas emtermicidas que en eso de la hos trento. en las estegro acero cantera el la hastan deca pera 
 varis, sidola.
+
+Texto Epoc 2 :   E EEUS A PERCGRTA A LA DES QA COS CIVIG-SBIIS
+El cousa encto la adumación de call más amuiva no auciona par al 50474 muertos a jonar de espiésicio en
+
+ERROR NAN!!!

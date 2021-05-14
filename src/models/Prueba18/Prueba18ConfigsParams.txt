@@ -1,0 +1,16 @@
+ModelName: Prueba18
+  batchSizeConf: 15
+  sampleLen: 30
+  sampleStep: 15
+  displayLengthConf: 150
+  validationSplitConf: 0.5
+  Fecha: Fri May 14 2021 08:59:37 GMT+0200 (hora de verano de Europa central)
+  Notas: 
+Generated text (temperature=0.8) Epoch 2 - 3.22
+      r rte cer yeag s dúan a ivdinu lvu os  pl aao iaebisbcti   mu loulemas   oE tes    li ceT cildadtiaas lontadapadast sosiasi qavtalana dhrc nipCiulitts
+
+      Epoch 40 - 0.55 Loss - 
+      rpecco se su tuedor porvagra y la rramitica par COegrá pastone" intumes do varó (
+        La envenda- muyión de Modi Bundia de un máso corspuéviento respros t
+        
+ERROR ROTUNDO NO SE ENTIENDE.

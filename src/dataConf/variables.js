@@ -1,19 +1,17 @@
-export const ModelName = 'Prueba17';
-// export const batchSizeConf = 2;
-export const batchSizeConf = 10;
+export const ModelName = 'Prueba19';
+export const batchSizeConf = 15;
 
-export const sampleLen = 30; //VALORES FIJOS
-export const sampleStep = 3; //APROX POR CADA 4 PArtes
+export const sampleLen = 25; //VALORES FIJOS
+export const sampleStep = 5; //APROX POR CADA 4 PArtes
 export const displayLengthConf = 150; // CUANTO SE TIENE QUE VER DE TEXTO
-// export const validationSplitConf = 0.0625;
-export const validationSplitConf = 0.3;
+// export const validationSplitConf = 0.5;
+export const validationSplitConf = 0.0625;
 export const NotasDeBitacora = `
-De momento tarda aprox 2000 segundos por epoca, es decir 34 mins.
-1.95 Loss en epoca 2
+VOY A QUITAR EL SUFFLE y VOY A PONER PRECISION
+        0.8 temp y epoch 5
+s 1.000 1.46mentes Unidos. Y toto llanza de partena por de la pandemia de la Univoriadad indado que se una no perionidad"" consosado de 100.000 cuentr
+------------------------------------------------------
 
-Texto Epoc 1 (0.8TEMP) : paros mos pas emtermicidas que en eso de la hos trento. en las estegro acero cantera el la hastan deca pera 
-varis, sidola.
+Tiene mas sentido pero aun no suficiente, espero recobre mas sentido...
 
-Texto Epoc 2 :   E EEUS A PERCGRTA A LA DES QA COS CIVIG-SBIIS
-El cousa encto la adumación de call más amuiva no auciona par al 50474 muertos a jonar de espiésicio en
 `;

@@ -1,0 +1,15 @@
+ModelName: Prueba19
+  batchSizeConf: 15
+  sampleLen: 25
+  sampleStep: 5
+  displayLengthConf: 150
+  validationSplitConf: 0.0625
+  Fecha: Fri May 14 2021 13:04:53 GMT+0200 (hora de verano de Europa central)
+  Notas: 
+VOY A QUITAR EL SUFFLE y VOY A PONER PRECISION
+        0.8 temp y epoch 5
+s 1.000 1.46mentes Unidos. Y toto llanza de partena por de la pandemia de la Univoriadad indado que se una no perionidad"" consosado de 100.000 cuentr
+------------------------------------------------------
+
+Tiene mas sentido pero aun no suficiente, espero recobre mas sentido...
+
