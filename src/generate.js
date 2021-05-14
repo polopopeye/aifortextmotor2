@@ -1,50 +1,51 @@
-import readline from 'readline';
 import { dirname } from 'path';
 import { fileURLToPath } from 'url';
-
+// import {ModelName} from
 // import tf from '@tensorflow/tfjs';
 // import tf from '@tensorflow/tfjs-node-gpu'; // Use '@tensorflow/tfjs-node-gpu' if running with GPU.
+
 import tf from '@tensorflow/tfjs-node';
+// import tf from '@tensorflow/tfjs-node-gpu'; // Use '@tensorflow/tfjs-node-gpu' if running with GPU.
+
+import {
+  ModelName,
+  // batchSizeConf,
+  sampleLen,
+  sampleStep,
+  displayLengthConf,
+} from './dataConf/variables.js';
 
 import { TextData, generateText } from './dataConf/data.js';
 
 import text from './dataSet/shakespeare.js';
 
-const rl = readline.createInterface({
-  input: process.stdin,
-  output: process.stdout,
-});
+// const rl = readline.createInterface({
+//   input: process.stdin,
+//   output: process.stdout,
+// });
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-let modelLoad = false;
+// let modelLoad = false;
 
-let ModelName = 'Prueba3';
-
-rl.question('¿Que modelo Cargar?: ', function (answerLoad) {
-  ModelName = answerLoad;
-  modelLoad = true;
-  main(modelLoad);
-});
-
-let sampleLen = 30; //60
-let sampleStep = 3;
+// rl.question('¿Que modelo Cargar?: ', function (answerLoad) {
+//   ModelName = answerLoad;
+//   modelLoad = true;
+main();
+// });
 
 // let learningRateConf = 0.003;
-
-let displayLengthConf = 100;
 
 let model;
 
 const textData = new TextData('text-data', text, sampleLen, sampleStep);
 
-async function main(modelLoad2) {
-  if (modelLoad2 === true) {
-    model = await tf.loadLayersModel(
-      `file://${__dirname}/models/${ModelName}/model.json`
-    );
-    console.log('CARGANDO...');
-    postModelLoaded();
-  }
+async function main() {
+  model = await tf.loadLayersModel(
+    `file://${__dirname}/models/${ModelName}/model.json`
+  );
+  console.log('CARGANDO...');
+  console.log(ModelName);
+  postModelLoaded();
 }
 
 async function postModelLoaded() {
@@ -74,8 +75,8 @@ async function postModelLoaded() {
       `
     );
   }
-  await generateThroughModel(3);
-  await generateThroughModel(2);
+  // await generateThroughModel(3);
+  // await generateThroughModel(2);
   await generateThroughModel(1.5);
   await generateThroughModel(1);
   await generateThroughModel(0.8);

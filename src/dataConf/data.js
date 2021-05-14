@@ -3,6 +3,15 @@
 import tf, { selu } from '@tensorflow/tfjs-node';
 import readline from 'readline';
 import fs from 'fs';
+import {
+  // ModelName,
+  batchSizeConf,
+  sampleLen,
+  sampleStep,
+  validationSplitConf,
+  displayLengthConf,
+  NotasDeBitacora,
+} from './variables.js';
 
 import { dirname } from 'path';
 import { fileURLToPath } from 'url';
@@ -120,18 +129,18 @@ export class TextData {
         this.exampleBeginIndices_[
           this.examplePosition_ % this.exampleBeginIndices_.length
         ];
-      console.log('beginIndex');
-      console.log(beginIndex);
+      // console.log('beginIndex');
+      // console.log(beginIndex);
       for (let j = 0; j < this.sampleLen_; ++j) {
         xsBuffer.set(1, i, j, this.indices_[beginIndex + j]);
-        console.log('this.indices_[beginIndex + j]');
-        console.log(this.indices_[beginIndex + j]);
+        // console.log('this.indices_[beginIndex + j]');
+        // console.log(this.indices_[beginIndex + j]);
       }
       ysBuffer.set(1, i, this.indices_[beginIndex + this.sampleLen_]);
-      console.log('this.indices_[beginIndex + this.sampleLen_]');
-      console.log(this.indices_[beginIndex + this.sampleLen_]);
-      console.log('this.examplePosition_ +1');
-      console.log(this.examplePosition_);
+      // console.log('this.indices_[beginIndex + this.sampleLen_]');
+      // console.log(this.indices_[beginIndex + this.sampleLen_]);
+      // console.log('this.examplePosition_ +1');
+      // console.log(this.examplePosition_);
       this.examplePosition_++;
     }
     return [xsBuffer.toTensor(), ysBuffer.toTensor()];
@@ -299,18 +308,33 @@ export function compileModel(model) {
 export async function fitModel(
   model,
   textData,
-  numEpochs,
-  examplesPerEpoch,
   batchSize,
   validationSplit,
-  ModelName,
-  callbacks
+  ModelName
 ) {
   //Guardar
 
   // for (let i = 0; i < numEpochs; ++i) {
   const [xs, ys] = textData.nextDataEpoch();
   console.log(textData.nextDataEpoch());
+
+  let dirFileTxt2 = `src/models/${ModelName}/${ModelName}ConfigsParams.txt`;
+  let now = new Date();
+
+  fs.writeFile(
+    dirFileTxt2,
+    `ModelName: ${ModelName}
+  batchSizeConf: ${batchSizeConf}
+  sampleLen: ${sampleLen}
+  sampleStep: ${sampleStep}
+  displayLengthConf: ${displayLengthConf}
+  validationSplitConf: ${validationSplitConf}
+  Fecha: ${now}
+  Notas: ${NotasDeBitacora}`,
+    function () {
+      console.log('Params Guardados Correctamente');
+    }
+  );
 
   for (let i = 0; i < 460; i++) {
     //MOMENTANEAMENTE PONGO LAS EPOCAS AQUI MANUAL
@@ -326,6 +350,10 @@ export async function fitModel(
 
     fs.access(dirFileTxt, (err) => {
       if (err) {
+        fs.writeFile(dirFileTxt, `${1}`, function () {
+          console.log('Creado Correctamente');
+        });
+
         // console.log('The file does not exist.');
         fs.writeFile(dirFileTxt, `${1}`, function () {
           console.log('Creado Correctamente');
@@ -347,9 +375,9 @@ export async function fitModel(
     });
   }
 
-  xs.dispose();
-  console.log('tensores Vaciados');
-  ys.dispose();
+  // xs.dispose();
+  // console.log('tensores Vaciados');
+  // ys.dispose();
   // }
 }
 

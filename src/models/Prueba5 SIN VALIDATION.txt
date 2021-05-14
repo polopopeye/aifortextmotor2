@@ -1,2 +1,0 @@
-642
-Sin validation llego a 3 y de ahí bajava muy de poco en poco. Los textos no tenian sentido 17 segundos cada loop

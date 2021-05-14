@@ -1,11 +1,19 @@
 import readline from 'readline';
 import { dirname } from 'path';
 import { fileURLToPath } from 'url';
+
 import fs from 'fs';
 // import tf from '@tensorflow/tfjs';
 import tf from '@tensorflow/tfjs-node';
 // import tf from '@tensorflow/tfjs-node-gpu'; // Use '@tensorflow/tfjs-node-gpu' if running with GPU.
 
+import {
+  ModelName,
+  batchSizeConf,
+  sampleLen,
+  sampleStep,
+  validationSplitConf,
+} from './dataConf/variables.js';
 import {
   TextData,
   createModel,
@@ -23,11 +31,10 @@ const rl = readline.createInterface({
 const __dirname = dirname(fileURLToPath(import.meta.url));
 let modelLoad = false;
 
-const ModelName = 'Prueba13';
-
 // TEXTOOOO
-let sampleLen = 23; //VALORES FIJOS
-let sampleStep = 23; // El 5% del input de arriba
+// let sampleLen = 50; //VALORES FIJOS
+// let sampleStep = 3;
+// let sampleStep = 3; // El 5% del input de arriba
 // let sampleLen = 4; //VALORES FIJOS
 // let sampleStep = 1; // El 5% del input de arriba
 
@@ -64,17 +71,14 @@ rl.question('¿Cargar modelo anterior? Y/n : ', function (answerLoad) {
 
 textData.charSetSize();
 // https://storage.googleapis.com/tfjs-examples/lstm-text-generation/dist/index.html
-let epochConf = 1;
 
 let firstLayerSizeConf = parseInt(numeroMaxCaract);
 // let validationSplitConf = 0.02;
 // let validationSplitConf = 0.5;
-let validationSplitConf = 0.0625;
 
 // let validationSplitConf = 0.2;
-let examplesPerEpochConf = parseInt(datosMaximosporEpoc - 1);
+// let examplesPerEpochConf = parseInt(datosMaximosporEpoc - 1);
 // let examplesPerEpochConf = 13056;
-let batchSizeConf = 16;
 
 let model;
 
@@ -87,9 +91,6 @@ async function main(modelLoad2) {
     postModelLoaded();
   } else {
     const lstmLayerSize = firstLayerSizeConf;
-    // firstLayerSizeConf.indexOf(',') === -1
-    //   ? Number.parseInt(firstLayerSizeConf)
-    //   : firstLayerSizeConf.split(',').map((x) => Number.parseInt(x));
 
     model = createModel(textData.sampleLen(), numeroMaxCaract, lstmLayerSize);
     postModelLoaded();
@@ -105,24 +106,5 @@ async function postModelLoaded() {
 
   // let epochCount = 0;
 
-  fitModel(
-    model,
-    textData,
-    epochConf,
-    examplesPerEpochConf,
-    batchSizeConf,
-    validationSplitConf,
-    ModelName,
-    {
-      // onTrainBegin: async () => {
-      //   epochCount++;
-      //   console.log(`Epoch ${epochCount} of ${epochConf}:`);
-      // },
-      // onTrainEnd: async () => {
-      //   console.log(`¡SAVING model!`);
-      //   await model.save(`file://${__dirname}/../models/${ModelName}`);
-      //   console.log(`SAVED model....${ModelName}  OK`);
-      // },
-    }
-  );
+  fitModel(model, textData, batchSizeConf, validationSplitConf, ModelName);
 }
