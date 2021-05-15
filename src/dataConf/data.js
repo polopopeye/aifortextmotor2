@@ -174,12 +174,17 @@ export class TextData {
    * Get a random slice of text data.
    *
    * @returns {[string, number[]} The string and index representation of the
-   *   same slice.
+   *   same slice. GET FIRST SLICE
    */
   getRandomSlice() {
     const startIndex = Math.round(
       Math.random() * (this.textLen_ - this.sampleLen_ - 1)
     );
+    // const startIndex = 0;
+    // const textSlice = this.slice_(
+    //   startIndex,
+    //   startIndex + this.sampleLen_ + 50
+    // );
     const textSlice = this.slice_(startIndex, startIndex + this.sampleLen_);
     return [textSlice, this.textToIndices(textSlice)];
   }
@@ -282,7 +287,7 @@ export function compileModel(model) {
     // metrics: 'accuracy',
     // metrics: 'accuracy',
 
-    metrics: 'categoricalAccuracy',
+    // metrics: 'categoricalAccuracy',
   });
 
   model.summary();
@@ -312,12 +317,9 @@ export async function fitModel(
   //Guardar
 
   // for (let i = 0; i < numEpochs; ++i) {
-  const [xs, ys] = textData.nextDataEpoch();
-  console.log(textData.nextDataEpoch());
 
   let dirFileTxt2 = `src/models/${ModelName}/${ModelName}ConfigsParams.txt`;
   let now = new Date();
-
   fs.writeFile(
     dirFileTxt2,
     `ModelName: ${ModelName}
@@ -332,28 +334,64 @@ export async function fitModel(
       console.log('Params Guardados Correctamente');
     }
   );
+  let xs;
+  let ys;
+  for (let i = 0; i < 110; i++) {
+    if (
+      i === 0 // ||
+      // i === 10 ||
+      // i === 20 ||
+      // i === 30 ||
+      // i === 40 ||
+      // i === 50 ||
+      // i === 60 ||
+      // i === 70 ||
+      // i === 80 ||
+      // i === 90 ||
+      // i === 100
+    ) {
+      [xs, ys] = textData.nextDataEpoch();
+      console.log(textData.nextDataEpoch());
+      console.log('+ creado nuevo set de datos');
+    }
+    if (xs !== undefined && ys !== undefined) {
+      console.log('+ preparandose para iniciar entrenamiento');
+      await model.fit(xs, ys, {
+        epochs: 1,
+        batchSize: batchSize,
+        validationSplit,
+      });
+    }
 
-  for (let i = 0; i < 460; i++) {
+    // if (
+    //   i === 9 ||
+    //   i === 19 ||
+    //   i === 29 ||
+    //   i === 39 ||
+    //   i === 49 ||
+    //   i === 59 ||
+    //   i === 69 ||
+    //   i === 79 ||
+    //   i === 89 ||
+    //   i === 99
+    // ) {
+    //   xs.dispose();
+    //   console.log('tensores Vaciados');
+    //   ys.dispose();
+    //   console.log('ELIMINANDO SET ANTIGUO DE DATOS!!!!!');
+    // }
+
     //MOMENTANEAMENTE PONGO LAS EPOCAS AQUI MANUAL
-    await model.fit(xs, ys, {
-      epochs: 1,
-      batchSize: batchSize,
-      validationSplit,
-    });
-    console.log(`¡SAVING model!`);
+
+    console.log(`+ Iniciando guardado de modelo`);
     await model.save(`file://${__dirname}/../models/${ModelName}`);
-    console.log(`SAVED model....${ModelName}  OK`);
+    console.log(`+ modelo: ${ModelName} guardado correctamente`);
     let dirFileTxt = `src/models/${ModelName}/${ModelName}.txt`;
 
     fs.access(dirFileTxt, (err) => {
       if (err) {
         fs.writeFile(dirFileTxt, `${1}`, function () {
-          console.log('Creado Correctamente');
-        });
-
-        // console.log('The file does not exist.');
-        fs.writeFile(dirFileTxt, `${1}`, function () {
-          console.log('Creado Correctamente');
+          console.log('+ contador inicializado y guardado correctamente');
         });
       } else {
         // console.log('The file exists.');
@@ -364,18 +402,14 @@ export async function fitModel(
           let importedEpochCount = parseInt(data);
           let newEpochCounter = importedEpochCount + 1;
           fs.writeFile(dirFileTxt, `${newEpochCounter}`, function () {
-            console.log('Contador Actualizado');
+            console.log('+ epoca total actualizada');
             console.log(newEpochCounter);
+            console.log('+ -----------------------');
           });
         });
       }
     });
   }
-
-  // xs.dispose();
-  // console.log('tensores Vaciados');
-  // ys.dispose();
-  // }
 }
 
 /**
@@ -393,6 +427,7 @@ export async function fitModel(
  * @returns {string} The generated sentence.
  */
 export async function generateText(
+  inputSentence,
   model,
   textData,
   sentenceIndices,
@@ -406,7 +441,7 @@ export async function generateText(
   // Avoid overwriting the original input.
   sentenceIndices = sentenceIndices.slice();
 
-  let generated = '';
+  let generated = inputSentence;
   while (generated.length < length) {
     // Encode the current input sequence as a one-hot Tensor.
     const inputBuffer = new tf.TensorBuffer([1, sampleLen, charSetSize]);
@@ -420,14 +455,23 @@ export async function generateText(
     // Call model.predict() to get the probability values of the next
     // character.
     const output = model.predict(input);
-
+    // console.log('output');
+    // console.log(output);
     // Sample randomly based on the probability values.
+    // const winnerIndex = tf.squeeze(output);
+    // const winnerIndex = sample(output, temperature);
     const winnerIndex = sample(tf.squeeze(output), temperature);
+    // console.log('winnerIndex');
+    // console.log(winnerIndex);
     const winnerChar = textData.getFromCharSet(winnerIndex);
-    if (onTextGenerationChar != null) {
-      await onTextGenerationChar(winnerChar);
-    }
-
+    // console.log(winnerChar);
+    // if (onTextGenerationChar != null) {
+    //   await onTextGenerationChar(winnerChar);
+    // }
+    //  else {
+    //   console.log('ERROR NO SE PUDO OBTENER CARACTER');
+    // }
+    // console.log(':');
     generated += winnerChar;
     sentenceIndices = sentenceIndices.slice(1);
     sentenceIndices.push(winnerIndex);
@@ -452,10 +496,44 @@ export async function generateText(
  */
 export function sample(probs, temperature) {
   return tf.tidy(() => {
+    // probar con solo probs
+    // const logits = tf.log(probs);
+    // const logits = tf.div(tf.log(probs), 0.75);
     const logits = tf.div(tf.log(probs), Math.max(temperature, 1e-6));
-    const isNormalized = false;
+    // console.log('probs');
+    // console.log(probs);
+    // const logits = probs;
+    // console.log('logits');
+    // console.log(logits);
+    // console.log();
+    // const isNormalized = true;
     // `logits` is for a multinomial distribution, scaled by the temperature.
     // We randomly draw a sample from the distribution.
-    return tf.multinomial(logits, 1, null, isNormalized).dataSync()[0];
+    // return tf.multinomial(logits, 3); //.dataSync()[0];
+    // return tf.multinomial(logits, 1).dataSync()[0];
+
+    function mostOccurringElement(array) {
+      var max = array[0],
+        counter = {},
+        i = array.length,
+        element;
+
+      while (i--) {
+        element = array[i];
+        if (!counter[element]) counter[element] = 0;
+        counter[element]++;
+        if (counter[max] < counter[element]) max = element;
+      }
+      return max;
+    }
+
+    const TimesToCheck = 1000;
+    let probsSample = tf.multinomial(logits, TimesToCheck).dataSync();
+
+    let result = mostOccurringElement(probsSample);
+    // console.log(result);
+    return result;
+    // return tf.multinomial(logits, 10000).dataSync()[0];
+    // return tf.multinomial(logits, 1, null, isNormalized).dataSync()[0];
   });
 }

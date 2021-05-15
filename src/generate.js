@@ -53,15 +53,11 @@ async function postModelLoaded() {
 
   // Get a seed text for display in the course of model training.
   const [seed, seedIndices] = textData.getRandomSlice();
-  console.log(`Texto Original Ejemplo:\n"${seed}"\n`);
-
-  //   const DISPLAY_TEMPERATURES = [0.85]; //Cambiado
-  // const DISPLAY_TEMPERATURES = [1];
-  // const DISPLAY_TEMPERATURES = [0.85, 1];
+  console.log(`Texto Seed 0 Ejemplo:\n"${seed}"\n`);
 
   async function generateThroughModel(temperature = 0.9) {
-    console.log('cargando ----------------------');
     const generated = await generateText(
+      seed,
       model,
       textData,
       seedIndices,
@@ -69,17 +65,22 @@ async function postModelLoaded() {
       temperature
     );
     console.log(
-      `Generated text (temperature=${temperature}) ---------
+      `---------------- Generated text (temperature=${temperature}) ----------------
       ${generated}
-      ------------------------------------------------------
+      ------------------------------------------------------------------------------
       `
     );
   }
   // await generateThroughModel(3);
   // await generateThroughModel(2);
-  await generateThroughModel(1.5);
+  // await generateThroughModel(1.5);
+  // await generateThroughModel(1);
+  // await generateThroughModel(0.8);
   await generateThroughModel(1);
-  await generateThroughModel(0.8);
-  await generateThroughModel(0.5);
-  await generateThroughModel(0.25);
+  // await generateThroughModel(0.6);
+  // await generateThroughModel(0.5);
+  // await generateThroughModel(0.4);
+  await generateThroughModel(0.7);
+  // await generateThroughModel(0.2);
+  // await generateThroughModel(0.1);
 }

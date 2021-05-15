@@ -1,13 +1,11 @@
-export const ModelName = 'Prod21';
-export const batchSizeConf = 1024;
-
-export const sampleLen = 50; //VALORES FIJOS
-// export const sampleLen = 23; //VALORES FIJOS
-export const sampleStep = 5; //APROX POR CADA 4 PArtes
-export const displayLengthConf = 1000; // CUANTO SE TIENE QUE VER DE TEXTO
-// export const validationSplitConf = 0.5;
-export const validationSplitConf = 0.0625;
-export const NotasDeBitacora = `
+ModelName: Prod21
+  batchSizeConf: 1024
+  sampleLen: 50
+  sampleStep: 5
+  displayLengthConf: 1000
+  validationSplitConf: 0.0625
+  Fecha: Sat May 15 2021 11:28:27 GMT+0200 (hora de verano de Europa central)
+  Notas: 
 El objetivo, noticia minimamente entendible y creible, con un minimo de coherencia
 aunque se vea que ha sido creado por un robot. 
 
@@ -35,4 +33,3 @@ Esta pandence la del sesta de medido es si grenas los persomes el que se perna d
 145696ms 1179us/step - categoricalAccuracy=0.608 loss=1.34 val_categoricalAccuracy=0.601 val_loss=1.37
 60
 
-`;

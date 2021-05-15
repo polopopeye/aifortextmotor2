@@ -100,11 +100,5 @@ async function main(modelLoad2) {
 async function postModelLoaded() {
   compileModel(model);
 
-  // Get a seed text for display in the course of model training.
-  const [seed] = textData.getRandomSlice();
-  console.log(`Seed text:\n"${seed}"\n`);
-
-  // let epochCount = 0;
-
   fitModel(model, textData, batchSizeConf, validationSplitConf, ModelName);
 }
