@@ -1,0 +1,17 @@
+ModelName: Prod23
+  batchSizeConf: 4096
+  sampleLen: 23
+  sampleStep: 4
+  displayLengthConf: 1000
+  validationSplitConf: 0.0625
+  Fecha: Mon May 17 2021 12:36:12 GMT+0200 (hora de verano de Europa central)
+  Notas: 
+Prod21 -
+export const sampleLen = 50; //VALORES FIJOS
+// export const sampleLen = 23; //VALORES FIJOS
+export const sampleStep = 5; //APROX POR CADA 4 PArtes
+export const displayLengthConf = 1000; // CUANTO SE TIENE QUE VER DE TEXTO
+// export const validationSplitConf = 0.5;
+export const validationSplitConf = 0.0625;
+
+

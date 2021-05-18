@@ -4,7 +4,7 @@ ModelName: Prod21
   sampleStep: 5
   displayLengthConf: 1000
   validationSplitConf: 0.0625
-  Fecha: Sat May 15 2021 11:28:27 GMT+0200 (hora de verano de Europa central)
+  Fecha: Mon May 17 2021 06:58:35 GMT+0200 (hora de verano de Europa central)
   Notas: 
 El objetivo, noticia minimamente entendible y creible, con un minimo de coherencia
 aunque se vea que ha sido creado por un robot. 

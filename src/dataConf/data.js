@@ -3,6 +3,9 @@
 import tf, { selu } from '@tensorflow/tfjs-node';
 import readline from 'readline';
 import fs from 'fs';
+import use from '@tensorflow-models/universal-sentence-encoder';
+import text from '../dataSet/shakespeare.js';
+
 import {
   // ModelName,
   batchSizeConf,
@@ -121,9 +124,10 @@ export class TextData {
     const xsBuffer = new tf.TensorBuffer([
       numExamples, //cuantos mas mejor.
       this.sampleLen_, //30 //prueba con 30...
-      this.charSetSize_, //num de caracteres posibles
+      // this.charSetSize_, //num de caracteres posibles
+      200,
     ]);
-    const ysBuffer = new tf.TensorBuffer([numExamples, this.charSetSize_]);
+    const ysBuffer = new tf.TensorBuffer([numExamples, 200]); //this.charSetSize_
     for (let i = 0; i < numExamples; ++i) {
       const beginIndex =
         this.exampleBeginIndices_[
@@ -255,18 +259,53 @@ export class TextData {
  *   `[null, charSetSize]`.
  */
 export function createModel(sampleLen, charSetSize, lstmLayerSizes) {
+  //
+
   const model = tf.sequential();
+
+  // model.add(
+  //   tf.layers.embedding({
+  //     inputDim: sampleLen,
+  //     outputDim: charSetSize,
+  //     inputLength: lstmLayerSizes,
+  //   })
+  // );
+
   model.add(
     tf.layers.lstm({
       units: lstmLayerSizes,
-      // returnSequences: true,
-      activation: 'selu',
+      returnSequences: true,
+      // activation: 'selu',
+      activation: 'tanh',
+
+      // activation: 'softmax',
 
       inputShape: [sampleLen, charSetSize],
     })
   );
 
-  model.add(tf.layers.dense({ units: charSetSize, activation: 'sigmoid' }));
+  model.add(
+    tf.layers.lstm({
+      units: parseInt(lstmLayerSizes / 2),
+      // units: parseInt(charSetSize),
+      // returnSequences: false,
+      // activation: 'selu',
+      activation: 'tanh',
+      // activation: 'softmax',
+
+      inputShape: [sampleLen, charSetSize],
+    })
+  );
+
+  model.add(
+    tf.layers.dropout({
+      rate: 0.2,
+    })
+  );
+
+  // model.add(tf.layers.dense({ units: parseInt(lstmLayerSizes / 10) }));
+
+  model.add(tf.layers.dense({ units: charSetSize, activation: 'softmax' }));
 
   return model;
 }
@@ -284,7 +323,7 @@ export function compileModel(model) {
     // loss: 'meanAbsoluteError',
     // loss: 'categoricalHinge',
     loss: 'categoricalCrossentropy',
-    // metrics: 'accuracy',
+    metrics: 'accuracy',
     // metrics: 'accuracy',
 
     // metrics: 'categoricalAccuracy',
@@ -316,6 +355,7 @@ export async function fitModel(
 ) {
   //Guardar
 
+  // Aqui crear arrays, por cada array generar un fit model
   // for (let i = 0; i < numEpochs; ++i) {
 
   let dirFileTxt2 = `src/models/${ModelName}/${ModelName}ConfigsParams.txt`;
@@ -336,7 +376,7 @@ export async function fitModel(
   );
   let xs;
   let ys;
-  for (let i = 0; i < 110; i++) {
+  for (let i = 0; i < 1; i++) {
     if (
       i === 0 // ||
       // i === 10 ||
@@ -356,6 +396,7 @@ export async function fitModel(
     }
     if (xs !== undefined && ys !== undefined) {
       console.log('+ preparandose para iniciar entrenamiento');
+
       await model.fit(xs, ys, {
         epochs: 1,
         batchSize: batchSize,
@@ -439,7 +480,7 @@ export async function generateText(
   const charSetSize = model.inputs[0].shape[2];
 
   // Avoid overwriting the original input.
-  sentenceIndices = sentenceIndices.slice();
+  // sentenceIndices = sentenceIndices.slice();
 
   let generated = inputSentence;
   while (generated.length < length) {
@@ -472,9 +513,14 @@ export async function generateText(
     //   console.log('ERROR NO SE PUDO OBTENER CARACTER');
     // }
     // console.log(':');
+    global.winnerCharVar = winnerChar;
     generated += winnerChar;
-    sentenceIndices = sentenceIndices.slice(1);
+    // sentenceIndices = sentenceIndices.slice(1);
+    // console.log(sentenceIndices.length);
+    sentenceIndices.shift();
     sentenceIndices.push(winnerIndex);
+    // console.log('eliminado');
+    // console.log(sentenceIndices.length);
 
     // Memory cleanups.
     input.dispose();
@@ -496,21 +542,7 @@ export async function generateText(
  */
 export function sample(probs, temperature) {
   return tf.tidy(() => {
-    // probar con solo probs
-    // const logits = tf.log(probs);
-    // const logits = tf.div(tf.log(probs), 0.75);
     const logits = tf.div(tf.log(probs), Math.max(temperature, 1e-6));
-    // console.log('probs');
-    // console.log(probs);
-    // const logits = probs;
-    // console.log('logits');
-    // console.log(logits);
-    // console.log();
-    // const isNormalized = true;
-    // `logits` is for a multinomial distribution, scaled by the temperature.
-    // We randomly draw a sample from the distribution.
-    // return tf.multinomial(logits, 3); //.dataSync()[0];
-    // return tf.multinomial(logits, 1).dataSync()[0];
 
     function mostOccurringElement(array) {
       var max = array[0],
@@ -527,7 +559,17 @@ export function sample(probs, temperature) {
       return max;
     }
 
-    const TimesToCheck = 1000;
+    let TimesToCheck;
+    if (global.winnerCharVar === ' ') {
+      // console.log('Random Multiplied');
+      // TimesToCheck = 4;
+      TimesToCheck = 3;
+    } else {
+      // console.log('Most Secure');
+      TimesToCheck = 10000;
+      // TimesToCheck = 100;
+      // TimesToCheck = 1000;
+    }
     let probsSample = tf.multinomial(logits, TimesToCheck).dataSync();
 
     let result = mostOccurringElement(probsSample);
