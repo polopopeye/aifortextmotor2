@@ -17,7 +17,7 @@ import {
 
 import { TextData, generateText } from './dataConf/data.js';
 
-import text from './dataSet/shakespeare.js';
+import text from '../dataSet/shakespeare.js';
 
 // const rl = readline.createInterface({
 //   input: process.stdin,
